@@ -1,0 +1,211 @@
+title: "Spring 2018"
+description: "Introduction to Machine Learning for Python. It was the semester when we rebranded the CDS Education team."
+team:
+  -
+    title: "Education Lead"
+    members:
+      - Jared Junyoung Lim (CS '20)
+  -
+    title: "Lecturers"
+    members:
+      - Jared Junyoung Lim (CS '20)
+      - Abby Beeler (CS '20)
+  -
+    title: "TAs"
+    members:
+      - Ann Zhang (CS & Econ '20)
+      - Ethan Cohen (INFO '19)
+      - Ryan Kannanaikal (MATH '20)
+      - Shubhom Bhattacharya (ECE '20)
+lectures:
+  ######################################## Week 0 #########################################
+  -
+    date: 2018-02-07
+    title:
+    contents:
+    notes:
+      -
+        title: "LECTURE 0: SETUP"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 0 - INTRO.ipynb"
+    assignments:
+
+  ######################################## Week 1 #########################################
+  -
+    date: 2018-02-14
+    title: "Lecture 1: Introduction and Data Manipulation"
+    contents:
+      -
+        title: "LECTURE 1: SLIDES"
+        link: "resources/SP18/slides/LECTURE 1.pdf"
+    notes:
+      -
+        title: "LECTURE 1: NUMPY"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 1 - NUMPY.ipynb"
+      -
+        title: "LECTURE 1: PANDAS"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 1 - PANDAS.ipynb"
+    assignments:
+      -
+        title: "Take Home Quiz"
+        link: "https://goo.gl/forms/9QzxjSNYqRtj41rm1"
+
+  ######################################## Week 2 #########################################
+  -
+    date: 2018-02-21
+    title: "Lecture 2: Manipulation Techniques and Visualization"
+    contents:
+      -
+        title: "LECTURE 2: SLIDES"
+        link: "resources/SP18/slides/LECTURE 2.pdf"
+    notes:
+      -
+        title: "LECTURE 2: VISUAL"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 2 - VISUAL.ipynb"
+      -
+        title: "LECTURE 2: DEMO"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 2 - DEMO.ipynb"
+      -
+        title: "LECTURE 2: DATASET"
+        link: "https://drive.google.com/file/d/1eCJO3K5gg09SR75jbHvIwUKDXQ4L3my9/view?usp=sharing"
+    assignments:
+      -
+        title: "Project A"
+        link: "resources/SP18/assignments/Project A.pdf"
+
+  ######################################## Week 3 #########################################
+  -
+    date: 2018-02-28
+    title: "Lecture 3: Introduction to Machine Learning"
+    contents:
+      -
+        title: "LECTURE 3: SLIDES"
+        link: "resources/SP18/slides/LECTURE 3.pdf"
+    notes:
+      -
+        title: "LECTURE 3: SUPER"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 3 - SUPER.ipynb"
+    assignments:
+      -
+        title: "Project A"
+        link: "resources/SP18/assignments/Project A.pdf"
+  
+  ######################################## Week 4 #########################################
+  -
+    date: 2018-03-07
+    title: "Lecture 4: Introduction to Classification"
+    contents:
+      -
+        title: "LECTURE 4: SLIDES"
+        link: "resources/SP18/slides/LECTURE 4.pdf"
+    notes:
+      -
+        title: "LECTURE 4: CLASS"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 4 - CLASS.ipynb"
+      -
+        title: "LECTURE 4: DEMO"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 4 - DEMO.ipynb"
+      -
+        title: "LECTURE 4: DATASET"
+        link: "https://drive.google.com/file/d/1TOeFfJya4tMEcjXNe2ECAvRsuhse9vBL/view?usp=sharing"
+    assignments:
+      -
+        title: "Project B"
+        link: "resources/SP18/assignments/Project B.pdf"
+  
+  ######################################## Week 5 #########################################
+  -
+    date: 2018-03-14
+    title: "Lecture 5: SVM"
+    contents:
+      -
+        title: "LECTURE 5: SLIDES"
+        link: "resources/SP18/slides/LECTURE 5.pdf"
+    notes:
+      -
+        title: "LECTURE 5: SVM"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 5 - SVM.ipynb"
+      -
+        title: "LECTURE 5: DEMO"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 5 - DEMO.ipynb"
+    assignments:
+      -
+        title: "Project B"
+        link: "resources/SP18/assignments/Project B.pdf"
+  
+  ######################################## Week 6 #########################################
+  -
+    date: 2018-03-21
+    title: "Lecture 6: Logistic Regression and Decision Trees"
+    contents:
+      -
+        title: "LECTURE 6: SLIDES"
+        link: "resources/SP18/slides/LECTURE 6.pdf"
+    notes:
+      -
+        title: "LECTURE 6: LOGIT"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 6 - LOGIT.ipynb"
+      -
+        title: "LECTURE 6: DEMO"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 6 - DEMO.ipynb"
+    assignments:
+      -
+        title: "Project C"
+        link: "resources/SP18/assignments/Project C.pdf"
+
+  ######################################## Week 7 #########################################
+  -
+    date: 2018-03-28
+    title: "Lecture 7: Unsupervised Learning"
+    contents:
+      -
+        title: "LECTURE 7: SLIDES"
+        link: "resources/SP18/slides/LECTURE 7.pdf"
+    notes:
+      -
+        title: "LECTURE 7: UNSUP"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 7 - UNSUP.ipynb"
+      -
+        title: "LECTURE 7: DEMO"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 7 - DEMO.ipynb"
+    assignments:
+      -
+        title: "Project C"
+        link: "resources/SP18/assignments/Project C.pdf"
+
+  ######################################## Week 8 #########################################
+  -
+    date: 2018-04-11
+    title: "Lecture 8: Model Optimization"
+    contents:
+      -
+        title: "LECTURE 8: SLIDES"
+        link: "resources/SP18/slides/LECTURE 8.pdf"
+    notes:
+      -
+        title: "LECTURE 8: MODEL"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 8 - MODEL.ipynb"
+    assignments:
+      -
+        title: "Final Project"
+        link: "resources/SP18/assignments/Final Project.pdf"
+  
+  ######################################## Week 9 #########################################
+  -
+    date: 2018-04-18
+    title: "Lecture 9: Cross Validation & Ensemble Learning"
+    contents:
+      -
+        title: "LECTURE 9: SLIDES"
+        link: "resources/SP18/slides/LECTURE 9.pdf"
+    notes:
+      -
+        title: "LECTURE 9: ENSEM"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 9 - ENSEM.ipynb"
+      -
+        title: "LECTURE 9: BAG"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 9 - BAG.ipynb"
+    assignments:
+      -
+        title: "Final Project"
+        link: "resources/SP18/assignments/Final Project.pdf"
+

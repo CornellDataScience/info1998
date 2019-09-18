@@ -1,0 +1,9 @@
+# Ignore all .DS_Store files
+**/.DS_Store
+# Ignore all local jekyll build related files.
+_site
+.sass-cache
+.jekyll-metadata
+# Generated if you used the Gemfile, may prevent a valid
+# jekyll / dependencies installation from building if tracked.
+Gemfile.lock

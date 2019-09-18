@@ -1,0 +1,83 @@
+<div>
+  {% assign schedule = include.schedule %}
+  <h3>{{ schedule.title }}</h3>
+    <p>
+      {% if schedule.description or schedule.team %}
+        {% if schedule.description %}{{ schedule.description }}<br/><br/>{% endif %}
+        {% for position in schedule.team %}
+          {{ position.title }}:
+            {% for member in position.members %}
+              {% unless forloop.last %}
+                {{ member }},
+              {% endunless %}
+            {% endfor %}
+            {{ position.members.last }}
+          <br/>
+        {% endfor %}
+        <hr>
+      {% endif %}
+    </p>
+    <div class="table-responsive">
+      <table class="table">
+        <colgroup>
+          <col class="col-xs-1">
+          <col class="col-xs-5">
+          <col class="col-xs-2">
+          <col class="col-xs-2">
+          <col class="col-xs-2">
+        </colgroup>
+        <thead>
+          <tr>
+            <th>Date</th>
+            <th>Lecture Title</th>
+            <th>Lecture Contents</th>
+            <th>Lecture Notes</th>
+            <th>Assignment</th>
+          </tr>
+        </thead>
+        {% for lec in schedule.lectures %}
+        <tr>
+          <td>{{ lec.date | date: "%m/%d/%y" }}</td>
+
+          {% if lec.title %}
+            <th>{{ lec.title }}</th>
+          {% else %}
+            <td>-</td>
+          {% endif %}
+
+          {% if lec.contents %}
+            <td>
+              {% for content in lec.contents %}
+                <a href="{{ site.baseurl }}/{{ content.link }}">
+                  {{ content.title }}
+                </a><br/>
+              {% endfor %}
+            </td>
+          {% else %}
+            <td>-</td>
+          {% endif %}
+
+          {% if lec.notes %}
+            <td>
+              {% for note in lec.notes %}
+                <a href="{{ note.link }}">{{ note.title }}</a><br/>
+              {% endfor %}
+            </td>
+          {% else %}
+            <td>-</td>
+          {% endif %}
+
+          {% if lec.assignments %}
+            <td>
+              {% for assignment in lec.assignments %}
+                <a href="{{ assignment.link }}">{{ assignment.title }}</a><br/>
+              {% endfor %}
+            </td>
+          {% else %}
+            <td>-</td>
+          {% endif %}
+        </tr>
+        {% endfor %}
+      </table>
+    </div>
+</div>

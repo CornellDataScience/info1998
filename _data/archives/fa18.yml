@@ -1,0 +1,78 @@
+title: "Fall 2018"
+description: "Introduction to Machine Learning for Python. It was the semester when we published a brand-new course website.
+It was also the first semester we established an interactive classroom setting by creating in-class assignments,
+and held a hackathon as a final project (sponsored by Google, provided Google Home Mini and gift cards to the winners)."
+team:
+  -
+    title: "Education Lead"
+    members:
+      - Jared Junyoung Lim (CS '20)
+  -
+    title: "Lecturers"
+    members:
+      - Abby Beeler (CS '20)
+      - Ethan Cohen (INFO '19)
+      - Jared Junyoung Lim (CS '20)
+  -
+    title: "TAs"
+    members:
+      - Ann Zhang (CS & Econ '20)
+      - Chris Elliott (INFO '20)
+      - Dylan Tsai (CS '21)
+      - Shubhom Bhattacharya (ECE '20)
+      - Tanmay Bansal (CS '21)
+lectures:
+  ######################################## Week 0 #########################################
+  -
+    date: 2018-02-07
+    title:
+    contents:
+    notes:
+      -
+        title: "LECTURE 0: SETUP"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE%200%20-%20INTRO.ipynb"
+    assignments:
+
+  ######################################## Week 1 #########################################
+  -
+    date: 2018-02-14
+    title: "Lecture 1: Introduction and Data Manipulation"
+    contents:
+      -
+        title: "LECTURE 1: SLIDES"
+        link: "resources/SP18/slides/LECTURE 1.pdf"
+    notes:
+      -
+        title: "LECTURE 1: NUMPY"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE%201%20-%20NUMPY.ipynb"
+      -
+        title: "LECTURE 1: PANDAS"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE%201%20-%20PANDAS.ipynb"
+    assignments:
+      -
+        title: "Take Home Quiz"
+        link: "https://goo.gl/forms/9QzxjSNYqRtj41rm1"
+
+  ######################################## Week 2 #########################################
+  -
+    date: 2018-02-21
+    title: "Lecture 2: Manipulation Techniques and Visualization"
+    contents:
+      -
+        title: "LECTURE 2: SLIDES"
+        link: "resources/SP18/slides/LECTURE 2.pdf"
+    notes:
+      -
+        title: "LECTURE 2: DEMO"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE%202%20-%20DEMO.ipynb"
+      -
+        title: "LECTURE 2: VISUAL"
+        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE%202%20-%20VISUAL.ipynb"
+      -
+        title: "LECTURE 2: DATASET"
+        link: "https://drive.google.com/file/d/1eCJO3K5gg09SR75jbHvIwUKDXQ4L3my9/view?usp=sharing"
+    assignments:
+      -
+        title: "Project A"
+        link: "https://junyounglim.github.io/machine-learning-course/resources/assignments/Project%20A.pdf"
+
