@@ -19,7 +19,20 @@ Location location: Kennedy B-11
 
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
+**TA: Ang Jia Jiunn**
+- Office Hour TBD
 
+**TA: Camilo Cedeno-Tobon**
+- Office Hour TBD
+
+**TA: Chris Elliott**
+- Office Hour TBD
+
+**TA: Dylan Tsai**
+- Office Hour TBD
+
+**TA: Samantha Cobado**
+- Office Hour TBD
 ----------------------------------------------------------------------------------------
 ### Catalog description
 
