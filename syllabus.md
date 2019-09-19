@@ -5,38 +5,19 @@ layout: main
 
 ### Lecture and section information
 
-INFO 1998, Fall 2018
+INFO 1998, Fall 2019
 
 Lecture time: Wed 5:30pm - 6:30pm
 
-Location location: Gates G01
+Location location: Kennedy B-11
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-**Lecturer: Abby Beeler**
-- Wednesday: 8:00pm - 9:00pm, Gates G11
-
-**Lecturer: Ethan Cohen**
-- Thursday: 7:00pm - 8:00pm, Rhodes 402
+TBD
 
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
-
-**TA: Ann Zhang**
-- Thursday: 7:00pm - 8:00pm, Rhodes 402
-
-**TA: Chris Elliott**
-- Friday: 2:00pm - 3:00pm, Gates G15
-
-**TA: Dylan Tsai**
-- Wednesday: 8:00pm - 9:00pm, Gates G11
-
-**TA: Shubhom Bhattacharya**
-- Friday: 2:00pm - 3:00pm, Gates G15
-
-**TA: Tanmay Bansal**
-- Friday: 2:00pm - 3:00pm, Gates G15
 
 ----------------------------------------------------------------------------------------
 ### Catalog description

@@ -6,11 +6,7 @@ mainpage: true
 
 ## Overview
 ----------------------------------------------------------------------------------------
-INFO 1998 is a ten week, one credit, S/U only course. It runs from <b>September 19th</b> through <b>November 28th</b>, 2018.
-
-There are two important dates where the registrar is concerned:
-- Last day to add: <b>October 3rd</b>, 2018
-- Last day to drop: <b>October 17th</b>, 2018
+INFO 1998 is a ten week, one credit, S/U only course. It runs from <b>September 18th</b> through <b>November 27th</b>, 2019.
 
 The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models. From the basics of getting your Jupyter environment setup, to manipulating and visualizing data, to building supervised and unsupervised models, this class aims to give you the base intuition and skillset to continue developing and working on ML projects. We hope you to exit the course with an understanding of how models and optimization techniques work, as well as have the confidence and tools to solve future problems (e.g. ones you did not encounter in this course) on your own.
 
