@@ -9,7 +9,7 @@ INFO 1998, Fall 2019
 
 Lecture time: Wed 5:30pm - 6:30pm
 
-Location location: Kennedy B-11
+Location: Kimball B11
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
