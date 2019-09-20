@@ -15,7 +15,7 @@ Location location: Kennedy B-11
 ### Staff and office hours
 
 **Lecturer: Tanmay Bansal**
-- Office Hour TBD
+- Thursday: 3:30pm - 4:30pm, Rhodes 503
 
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
