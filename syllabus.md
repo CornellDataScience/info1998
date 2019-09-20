@@ -20,7 +20,7 @@ Location: Kimball B11
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
 **TA: Ang Jia Jiunn**
-- Office Hour TBD
+Thursday: 2:00pm - 3:00pm, Rhodes 503
 
 **TA: Camilo Cedeno-Tobon**
 Tuesday: 3:00pm - 4:00pm, Rhodes 503
