@@ -23,7 +23,7 @@ Location location: Kennedy B-11
 - Office Hour TBD
 
 **TA: Camilo Cedeno-Tobon**
-- Office Hour TBD
+Tuesday: 3:00pm - 4:00pm, Rhodes 503
 
 **TA: Chris Elliott**
 - Office Hour TBD
