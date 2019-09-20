@@ -5,39 +5,34 @@ layout: main
 
 ### Lecture and section information
 
-INFO 1998, Fall 2018
+INFO 1998, Fall 2019
 
 Lecture time: Wed 5:30pm - 6:30pm
 
-Location location: Gates G01
+Location: Kimball B11
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-**Lecturer: Abby Beeler**
-- Wednesday: 8:00pm - 9:00pm, Gates G11
-
-**Lecturer: Ethan Cohen**
-- Thursday: 7:00pm - 8:00pm, Rhodes 402
+**Lecturer: Tanmay Bansal**
+- Thursday: 3:30pm - 4:30pm, Rhodes 503
 
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
+**TA: Ang Jia Jiunn**
+Thursday: 2:00pm - 3:00pm, Rhodes 503
 
-**TA: Ann Zhang**
-- Thursday: 7:00pm - 8:00pm, Rhodes 402
+**TA: Camilo Cedeno-Tobon**
+Tuesday: 3:00pm - 4:00pm, Rhodes 503
 
 **TA: Chris Elliott**
-- Friday: 2:00pm - 3:00pm, Gates G15
+Wednesday: 2:00pm - 3:00pm, Rhodes 503
 
 **TA: Dylan Tsai**
-- Wednesday: 8:00pm - 9:00pm, Gates G11
+Thursday: 6:00pm - 7:00pm, Rhodes 503
 
-**TA: Shubhom Bhattacharya**
-- Friday: 2:00pm - 3:00pm, Gates G15
-
-**TA: Tanmay Bansal**
-- Friday: 2:00pm - 3:00pm, Gates G15
-
+**TA: Samantha Cobado**
+Wednesday: 2:00pm - 3:00pm, Rhodes 503
 ----------------------------------------------------------------------------------------
 ### Catalog description
 
