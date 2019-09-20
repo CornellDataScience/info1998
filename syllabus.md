@@ -26,7 +26,7 @@ Thursday: 2:00pm - 3:00pm, Rhodes 503
 Tuesday: 3:00pm - 4:00pm, Rhodes 503
 
 **TA: Chris Elliott**
-- Office Hour TBD
+Wednesday: 2:00pm - 3:00pm, Rhodes 503
 
 **TA: Dylan Tsai**
 - Office Hour TBD
