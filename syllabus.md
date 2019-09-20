@@ -19,20 +19,22 @@ Location: Kimball B11
 
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
+
 **TA: Ang Jia Jiunn**
-Thursday: 2:00pm - 3:00pm, Rhodes 503
+- Thursday: 2:00pm - 3:00pm, Rhodes 503
 
 **TA: Camilo Cedeno-Tobon**
-Tuesday: 3:00pm - 4:00pm, Rhodes 503
+- Tuesday: 3:00pm - 4:00pm, Rhodes 503
 
 **TA: Chris Elliott**
-Wednesday: 2:00pm - 3:00pm, Rhodes 503
+- Wednesday: 2:00pm - 3:00pm, Rhodes 503
 
 **TA: Dylan Tsai**
-Thursday: 6:00pm - 7:00pm, Rhodes 503
+- Thursday: 6:00pm - 7:00pm, Rhodes 503
 
 **TA: Samantha Cobado**
-Wednesday: 2:00pm - 3:00pm, Rhodes 503
+- Wednesday: 2:00pm - 3:00pm, Rhodes 503
+
 ----------------------------------------------------------------------------------------
 ### Catalog description
 
