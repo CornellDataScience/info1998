@@ -9,7 +9,7 @@ INFO 1998, Fall 2019
 
 Lecture time: Wed 5:30pm - 6:30pm
 
-Location: Kimball B11
+Lecture location: Olin 155
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
@@ -17,11 +17,14 @@ Location: Kimball B11
 **Lecturer: Tanmay Bansal**
 - Thursday: 3:30pm - 4:30pm, Rhodes 503
 
+**Lecturer: Dylan Tsai**
+- Thursday: 6:00pm - 7:00pm, Rhodes 503
+
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
 
 **TA: Ang Jia Jiunn**
-- Thursday: 2:00pm - 3:00pm, Rhodes 503
+- Monday: 2:30pm - 3:30pm, Rhodes 503
 
 **TA: Camilo Cedeno-Tobon**
 - Tuesday: 3:00pm - 4:00pm, Rhodes 503
@@ -29,27 +32,20 @@ Location: Kimball B11
 **TA: Chris Elliott**
 - Wednesday: 2:00pm - 3:00pm, Rhodes 503
 
-**TA: Dylan Tsai**
-- Thursday: 6:00pm - 7:00pm, Rhodes 503
-
 **TA: Samantha Cobado**
 - Wednesday: 2:00pm - 3:00pm, Rhodes 503
 
 ----------------------------------------------------------------------------------------
 ### Catalog description
 
-1 credit.  S/U Only. When you finish this program, you will have the foundation and basic
-skills to contribute to any subteam in Cornell Data Science. This program introduces
-various machine learning algorithms, model optimization, visualization techniques, and
-data manipulation strategies, with applications in the Python programming language. The
-program is open to all Cornell students across all departments.
+1 credit.  S/U Only. The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick implementation-oriented toolkit you develop yourself to a variety of fields and problems.
+
+If you are interested in a solid mathematical foundation for data science and machine learning, this class is not sufficient in itself. This course, however, should serve as a head start for you. 
 
 ----------------------------------------------------------------------------------------
 ### Prerequisites
 
-One programming course or equivalent programming experience. Preferrably **CS 1110** as a
-pre/co-requisite. No previous knowledge of Machine Learning or expertise in any particular
-language is assumed.
+No prerequisites; Basic Python experience (at the level of **CS 1110**) is encouraged.
 
 ----------------------------------------------------------------------------------------
 ### Course technologies
@@ -71,14 +67,8 @@ We will use CMS for assignment / project submissions and feedbacks.
 ----------------------------------------------------------------------------------------
 ### Course work
 
-#### In-class assignments
-
-There will be one in-class assignment per lecture, **10 total** throughout the semester.
-All assignments will be done individually.
-The assignment will be released at the beginning of the lecture (5pm EST on Wednesday),
-and will be due **5pm EST on Friday** through CMS. Each assignment is of reasonable length
-that you will be able to finish it by end of each lecture, but never force yourself to
-finish it quickly, and don't let it disturb you from lecture!
+#### Weekly assignments
+There will be one in-class assignment per lecture, **10 total** throughout the semester. All assignments will be done individually. The assignment will be released at the beginning of the lecture (5:30pm ET on Wednesday), and will be due **5:30pm ET next Wednesday** (before the start of the following lecture). Each assignment is of reasonable length that we will be able to cover it in lecture (with one additional homework question), but never force yourself to finish it quickly, and don’t let it disturb you from lecture!
 
 #### Feedback and Grade Postings
 
@@ -87,22 +77,27 @@ We will be providing you with feedback on the Cornell University Course Manageme
 latest by Sunday midnight.
 
 #### Grading
+
+This is a 1-credit S/U class. In order to get a Satisfactory (S) grade, you will need at least 70%.
+
 There are three components to grading:
-- **Attendance**: Out of 10 lectures, you should attend at least 7 to pass.
-Attendance will be accounted through in-class assignment submissions.
-- **Assignments**: Out of 10 in-class assignments, you should submit and get a passing grade
-on at least 7. Each assignment will be graded based on completion with sufficient amount of effort.
-- **Project**: There will be an open-ended final project near the end of the semester as part of
-CDS Hackathon. You will need to choose your own competition / research topic and form a group to
-work together. Project will be graded based on completion with sufficient amount of effort, and
-the top teams will receive prize.
+- **Weekly Assignments (50%)**: As described above. You may skip up to **one assignment**.
+- **Mid-Semester Group Project (15%)**: There will be a mid-semester project around mid-October. More guidelines will be released on Piazza.
+- **Final Group Project (35%)**: There will be an open-ended final project near the end of the semester as part of
+CDS Hackathon. You will need to choose your own competition / research topic and form a group to work together. Project will be graded based on completion with sufficient amount of effort, and the top teams will receive prize.
+
+This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any reasonable cases to make for deadline extensions, please reach out the course manager or post a private note on Piazza immediately. We would love to see you succeed, but can only help if you notify us in time.
+
+
 
 ----------------------------------------------------------------------------------------
 ### Course policies
 
+#### Attendance
+
+Attendance is required. We discuss the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments.
+
 #### Academic Integrity
 
 All Cornell students are expected to follow the Cornell University Code of Academic Integrity
-([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)).
-Students can consult with the course staffs and other students if they struggle,
-but all the submissions should be original.
+([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade. 
