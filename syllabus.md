@@ -18,7 +18,7 @@ Lecture location: Olin 155
 - Thursday: 3:30pm - 4:30pm, Rhodes 503
 
 **Lecturer: Dylan Tsai**
-- Thursday: 6:00pm - 7:00pm, Rhodes 503
+- Tuesday: 1:15pm - 2:15pm, Rhodes 405 
 
 > #### Notice
 > Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
@@ -30,7 +30,7 @@ Lecture location: Olin 155
 - Tuesday: 3:00pm - 4:00pm, Rhodes 503
 
 **TA: Chris Elliott**
-- Wednesday: 2:00pm - 3:00pm, Rhodes 503
+- Wednesday: 2:00pm - 3:00pm, Rhodes 412
 
 **TA: Samantha Cobado**
 - Wednesday: 2:00pm - 3:00pm, Rhodes 503
