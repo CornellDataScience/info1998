@@ -3,6 +3,13 @@ title: Syllabus
 layout: main
 ---
 
+## Coming Soon
+
+The syllabus below is from Fall 2019. There will be several changes to the syllabus for Spring 2020, but we leave this here for your reference.
+
+
+----------------------------------------------------------------------------------------
+
 ### Lecture and section information
 
 INFO 1998, Fall 2019
@@ -100,4 +107,5 @@ Attendance is required. We discuss the answers to the assigned assignments in cl
 #### Academic Integrity
 
 All Cornell students are expected to follow the Cornell University Code of Academic Integrity
-([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade. 
+([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade.
+
