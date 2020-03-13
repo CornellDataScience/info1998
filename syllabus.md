@@ -2,52 +2,24 @@
 title: Syllabus
 layout: main
 ---
-
-## Coming Soon
-
-The syllabus below is from Fall 2019. There will be several changes to the syllabus for Spring 2020, but we leave this here for your reference.
-
-
-----------------------------------------------------------------------------------------
-
 ### Lecture and section information
+INFO 1998, Fall 2020
 
-INFO 1998, Fall 2019
+Lecture time: Wed 5:30pm - 6:30pm EST
 
-Lecture time: Wed 5:30pm - 6:30pm
-
-Lecture location: Olin 155
+Lecture location: Hosted on Zoom starting Mar. 18
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-**Lecturer: Tanmay Bansal**
-- Thursday: 3:30pm - 4:30pm, Rhodes 503
-
-**Lecturer: Dylan Tsai**
-- Tuesday: 1:15pm - 2:15pm, Rhodes 405 
-
-> #### Notice
-> Please don't e-mail any of the TAs directly, unless necessary. All questions / queries for help should be done in person during office hours, or on the course Piazza. If there is something urgent going on, we recommend emailing the course manager.
-
-**TA: Ang Jia Jiunn**
-- Monday: 2:30pm - 3:30pm, Rhodes 503
-
-**TA: Camilo Cedeno-Tobon**
-- Tuesday: 3:00pm - 4:00pm, Rhodes 503
-
-**TA: Chris Elliott**
-- Wednesday: 2:00pm - 3:00pm, Rhodes 412
-
-**TA: Samantha Cobado**
-- Wednesday: 2:00pm - 3:00pm, Rhodes 503
+For the safety of the instructors and students, office hours will be held remotely, over Zoom. We're still working out the logistics. In the meantime, to schedule office hours, please email the instructors to schedule an appointment. We apologize for any inconvenience.
 
 ----------------------------------------------------------------------------------------
-### Catalog description
+### Course description
 
-1 credit.  S/U Only. The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick implementation-oriented toolkit you develop yourself to a variety of fields and problems.
+The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick implementation-oriented toolkit you develop yourself to a variety of fields and problems.
 
-If you are interested in a solid mathematical foundation for data science and machine learning, this class is not sufficient in itself. This course, however, should serve as a head start for you. 
+If you are interested in a solid mathematical foundation for data science and machine learning, this class is not sufficient in itself. This course, however, should serve as a head start for you.
 
 ----------------------------------------------------------------------------------------
 ### Prerequisites
@@ -75,23 +47,27 @@ We will use CMS for assignment / project submissions and feedbacks.
 ### Course work
 
 #### Weekly assignments
-There will be one in-class assignment per lecture, **10 total** throughout the semester. All assignments will be done individually. The assignment will be released at the beginning of the lecture (5:30pm ET on Wednesday), and will be due **5:30pm ET next Wednesday** (before the start of the following lecture). Each assignment is of reasonable length that we will be able to cover it in lecture (with one additional homework question), but never force yourself to finish it quickly, and don’t let it disturb you from lecture!
+One assignment will be assigned at the end of lecture each week, due at the beginning of the next lecture. You may <strong>skip up to one assignment</strong> throughout the semester.
+
+### Mid-Semester Group Project
+There will be one mid-semester project, focused on data cleaning, data manipulation, and data visualization.
+
+### Final Group Project
+The final group project is meant to be a culmination of all the knowledge and techniques you acquired thruoghout the semester. This is your chance to showcase how much you've learned.
 
 #### Feedback and Grade Postings
 
 We will be providing you with feedback on the Cornell University Course Management System
-([CMS](https://cmsx.cs.cornell.edu/)). We will grade your work as soon as reasonably possible,
-latest by Sunday midnight.
+([CMS](https://cmsx.cs.cornell.edu/)). We will grade your work within 8 days of the due date.
 
 #### Grading
 
 This is a 1-credit S/U class. In order to get a Satisfactory (S) grade, you will need at least 70%.
 
 There are three components to grading:
-- **Weekly Assignments (50%)**: As described above. You may skip up to **one assignment**.
-- **Mid-Semester Group Project (15%)**: There will be a mid-semester project around mid-October. More guidelines will be released on Piazza.
-- **Final Group Project (35%)**: There will be an open-ended final project near the end of the semester as part of
-CDS Hackathon. You will need to choose your own competition / research topic and form a group to work together. Project will be graded based on completion with sufficient amount of effort, and the top teams will receive prize.
+- **Weekly Assignments (50%)**
+- **Mid-Semester Group Project (15%)** 
+- **Final Group Project (35%)**
 
 This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any reasonable cases to make for deadline extensions, please reach out the course manager or post a private note on Piazza immediately. We would love to see you succeed, but can only help if you notify us in time.
 
