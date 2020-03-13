@@ -59,7 +59,7 @@ lectures:
         title: "A3"
         link: "resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
       -
-        title: "A3 data"
+        title: "A3 (data)"
         link: "resources/data/temps.csv"
   ######################################## Web Scraping Workshop #########################################
   -
@@ -79,14 +79,14 @@ lectures:
         link: "resources/SP20/slides/LECTURE_4.pdf"
     notes:
       -
-        title: "LECTURE 4: FUND1"
+        title: "LECTURE 4: FUND"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
       -
         title: "A4"
         link: "resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
       -
-        title: "A4 data"
+        title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
   ######################################## Week 5 #########################################
   -
@@ -108,10 +108,10 @@ lectures:
         title: "A5"
         link: "resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
       -
-        title: "A5 data 1"
+        title: "A5 (data 1)"
         link: "resources/data/lecture5dataA.csv"
       -
-        title: "A5 data 2"
+        title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
       -
         title: "Mid-Semester Project"
