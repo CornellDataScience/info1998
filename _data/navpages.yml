@@ -1,10 +1,10 @@
 - path: getting_started.md
   name: Getting Started
-  #- path: schedule.md
-  #  name: Schedule
+- path: schedule.md
+  name: Schedule
 - path: syllabus.md
   name: Syllabus
-- path: https://www.piazza.com/cornell/fall2019/info1998
+- path: https://www.piazza.com/cornell/spring2020/info1998
   name: Piazza
   external: true
 - path: https://cmsx.cs.cornell.edu/

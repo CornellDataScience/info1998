@@ -12,12 +12,14 @@ lectures:
     notes:
       -
         title: "LECTURE 1: INTRO"
-        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 1 - NUMPY.ipynb"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_1__Introduction.ipynb"
     assignments:
       -
         title: "A1"
         link: "resources/SP20/assignments/release/Lecture_1__Introduction.ipynb"
-
+      - 
+        title: "A1 (solution)"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_1__Introduction_Solutions.ipynb"
   ######################################## Week 2 #########################################
   -
     date: 2020-02-19
@@ -29,26 +31,29 @@ lectures:
     notes:
       -
         title: "LECTURE 2: MANIP"
-        link: "TODO"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     assignments:
       -
         title: "A2"
         link: "resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
       -
-        title: "A2 data"
+        title: "A2 (data)"
         link: "resources/data/lecture2data.csv"
+      -
+        title: "A2 (solution)"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_2__Data_Manipulation_Solutions.ipynb"
   ######################################## Week 3 #########################################
   -
     date: 2020-02-26
     title: "Lecture 3: Data Visualization"
     contents:
       -
-        title: "SLIDES"
+        title: "LECTURE 3: SLIDES"
         link: "resources/SP20/slides/LECTURE_3.pdf"
     notes:
       -
         title: "LECTURE 3: VISUAL"
-        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 3 - SUPER.ipynb"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
       -
         title: "A3"
@@ -56,6 +61,14 @@ lectures:
       -
         title: "A3 data"
         link: "resources/data/temps.csv"
+  ######################################## Web Scraping Workshop #########################################
+  -
+    date: 2020-03-02
+    title: "WORKSHOP: Web Scraping"
+    notes:
+      -
+        title: "Web Scraping Demo"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/WebScraping_Workshop_Student_Edition.ipynb"
   ######################################## Week 4 #########################################
   -
     date: 2020-03-04
@@ -67,7 +80,7 @@ lectures:
     notes:
       -
         title: "LECTURE 4: FUND1"
-        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 4 - CLASS.ipynb"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
       -
         title: "A4"
@@ -86,7 +99,10 @@ lectures:
     notes:
       -
         title: "LECTURE 5: TUNING"
-        link: "http://nbviewer.jupyter.org/github/JunyoungLim/machine-learning-course/blob/master/public/resources/notes/LECTURE 5 - SVM.ipynb"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
+      -
+        title: "EXTRA: Validation Set Pitfalls"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/ValidationSet_Pitfall.ipynb"
     assignments:
       -
         title: "A5"
@@ -97,16 +113,21 @@ lectures:
       -
         title: "A5 data 2"
         link: "resources/data/lecture5dataB.csv"
+      -
+        title: "Mid-Semester Project"
+        link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
   -
     date: 2020-03-18
     title: "Lecture 6: Introduction to Classifiers"
-
+    assignments:
+      -
+        title: "Mid-Semester Project (blanket extension until 3/25)"
+        link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   ######################################## Week 7 #########################################
   -
     date: 2020-03-25
     title: "Lecture 7: Supervised Learning Pt. I"
-
   ######################################## Week 8 #########################################
   -
     date: 2020-04-08
