@@ -2,44 +2,47 @@
 <div class="jumbotron">
   <div class="row">
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+      <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
+        <h1 class="media-heading">{{ site.title }}</h1>
+        <h2>{{ site.description }}</h2>
+      </div>
+    </div>
     <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-      <h1 class="media-heading">{{ site.title }}</h1>
-      <h2>{{ site.description }}</h2>
-    </div>
-    </div>
-    <div class="col-xs-12 col-sm-12 col-md-12 col-lg-12">
-      <hr/>
-    <div class="col-xs-5 col-sm-6 col-md-6 col-lg-6">
-      <p>
-        Course Manager: <a href="mailto:tb444@cornell.edu?subject=[INFO 1998]">Tanmay Bansal</a><br/>
-        Location: Hosted on Zoom starting Mar 18. Details TBA<br/>
-        Lecture: Wed 5:30 - 6:30 PM EST<br/>
-        Discussion: <a href="https://piazza.com/cornell/spring2020/info1998" target="_blank" rel="noopener">Piazza</a><br/>
-        Grades: <a href="https://cmsx.cs.cornell.edu/" target="_blank" rel="noopener">CMS</a>
-      </p>
-    </div>
-    <div class="col-xs-7 col-sm-6 col-md-6 col-lg-6">
-      <p>
-        Lecturer: <a href="mailto:tb444@cornell.edu?subject=[INFO 1998]">Tanmay Bansal</a>, <a href="mailto:dt439@cornell.edu?subject=[INFO 1998]">Dylan Tsai</a><br/>
-        Office Hours: TBD<br/>
-        <br/>
-       <!-- <b>Show up on February 12th to Enroll!</b><br/>
+      <hr />
+      <div class="col-xs-5 col-sm-6 col-md-6 col-lg-6">
+        <p>
+          Course Manager: <a href="mailto:tb444@cornell.edu?subject=[INFO 1998]">Tanmay Bansal</a><br />
+          Location: Hosted on Zoom starting Mar 18. Details TBA<br />
+          Lecture: Wed 5:30 - 6:30 PM EST<br />
+          Discussion: <a href="https://piazza.com/cornell/spring2020/info1998" target="_blank"
+            rel="noopener">Piazza</a><br />
+          Grades: <a href="https://cmsx.cs.cornell.edu/" target="_blank" rel="noopener">CMS</a>
+        </p>
+      </div>
+      <div class="col-xs-7 col-sm-6 col-md-6 col-lg-6">
+        <p>
+          Lecturer: <a href="mailto:tb444@cornell.edu?subject=[INFO 1998]">Tanmay Bansal</a>, <a
+            href="mailto:dt439@cornell.edu?subject=[INFO 1998]">Dylan Tsai</a><br />
+          Office Hours: <a href="https://cmsx.cs.cornell.edu/">Dylan Tsia</a><br />
+          <br />
+          <!-- <b>Show up on February 12th to Enroll!</b><br/>
        <b>Fill out the <a href="https://tiny.cc/info1998_sp20">Google Form</a> by February 14th</b>.-->
-        <!-- <ul>
+          <!-- <ul>
           <li>Mon: 2:30 - 3:30 PM (Rhodes 503)</li>
           <li>Tue: 1:15 - 2:15 PM (Rhodes 405), 3 - 4 PM (Rhodes 503)</li>
           <li>Wed: 2 - 3 PM (Rhodes 412)</li>
           <li>Thu: 3:30 - 4:30 PM (Rhodes 503)</li>
         </ul> -->
-      </p>
-    </div>
+        </p>
+      </div>
     </div>
   </div>
 </div>
 {% else %}
 <div class="container">
   <div class="row">
-    <h1 class="media-heading">{{ page.title }}</h1><hr>
+    <h1 class="media-heading">{{ page.title }}</h1>
+    <hr>
   </div>
 </div><!-- /container -->
 {% endif %}
