@@ -118,27 +118,41 @@ lectures:
         link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
   -
-    date: 2020-03-18
+    date: 2020-04-08
     title: "Lecture 6: Introduction to Classifiers"
+    contents:
+      -
+        title: "LECTURE 6: SLIDES"
+        link: "resources/SP20/slides/LECTURE_6.pdf"
+    notes:
+      -
+        title: "LECTURE 6: CLASS"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Assessing_Model_Accuracy.ipynb"
     assignments:
       -
-        title: "Mid-Semester Project (blanket extension until 3/25)"
+        title: "Mid-Semester Project (blanket extension until 4/11)"
         link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
+      -
+        title: "Assignment 5 (blanket extension until 4/11)"
+        link: "resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
+      -
+        title: "Assignment 6"
+        link: "resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
   ######################################## Week 7 #########################################
   -
-    date: 2020-03-25
+    date: 2020-04-15
     title: "Lecture 7: Supervised Learning Pt. I"
   ######################################## Week 8 #########################################
   -
-    date: 2020-04-08
+    date: 2020-04-22
     title: "Lecture 8: Supervised Learning Pt. II"
   
   ######################################## Week 9 #########################################
   -
-    date: 2020-04-15
+    date: 2020-04-29
     title: "Lecture 9: Unsupervised Learning"
   ######################################## Week 10 #########################################
   -
-    date: 2020-04-22
+    date: 2020-05-06
     title: "Lecture 10: Data Science and ML in the World"
 
