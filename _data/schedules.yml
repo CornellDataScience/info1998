@@ -1,170 +1,139 @@
 title: "Spring 2020"
 lectures:
-
   ######################################## Week 1 #########################################
-  -
-    date: 2020-2-12
+  - date: 2020-2-12
     title: "Lecture 1: Introduction"
     contents:
-      -
-        title: "LECTURE 1: SLIDES"
+      - title: "LECTURE 1: SLIDES"
         link: "resources/SP20/slides/Lecture_1.pdf"
     notes:
-      -
-        title: "LECTURE 1: INTRO"
+      - title: "NOTE 1: INTRO"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_1__Introduction.ipynb"
     assignments:
-      -
-        title: "A1"
+      - title: "A1"
         link: "resources/SP20/assignments/release/Lecture_1__Introduction.ipynb"
-      - 
-        title: "A1 (solution)"
+      - title: "A1 (solution)"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_1__Introduction_Solutions.ipynb"
+  - date: 2020-2-14
+    title: "Workshop: Python"
+    contents:
+      - title: "Python Demo"
+        link: "resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
+    notes:
+      - title: "Demo Preview"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
   ######################################## Week 2 #########################################
-  -
-    date: 2020-02-19
+  - date: 2020-02-19
     title: "Lecture 2: Data Manipulation"
     contents:
-      -
-        title: "LECTURE 2: SLIDES"
+      - title: "LECTURE 2: SLIDES"
         link: "resources/SP20/slides/Lecture_2.pdf"
-      -
-        title: "LECTURE 2: VIDEO"
-        link: "https://cornell.box.com/s/jpu9ksvyw8ejsmgvr96tdndp3hu0k6b5"
     notes:
-      -
-        title: "LECTURE 2: MANIP"
+      - title: "LECTURE 2: VIDEO"
+        link: "https://cornell.box.com/s/jpu9ksvyw8ejsmgvr96tdndp3hu0k6b5"
+      - title: "NOTE 2: MANIP"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     assignments:
-      -
-        title: "A2"
+      - title: "A2"
         link: "resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
-      -
-        title: "A2 (data)"
+      - title: "A2 (data)"
         link: "resources/data/lecture2data.csv"
-      -
-        title: "A2 (solution)"
+      - title: "A2 (solution)"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_2__Data_Manipulation_Solutions.ipynb"
   ######################################## Week 3 #########################################
-  -
-    date: 2020-02-26
+  - date: 2020-02-26
     title: "Lecture 3: Data Visualization"
     contents:
-      -
-        title: "LECTURE 3: SLIDES"
+      - title: "LECTURE 3: SLIDES"
         link: "resources/SP20/slides/Lecture_3.pdf"
-      -
-        title: "LECTURE 3: VIDEO"
-        link: "https://cornell.box.com/s/bbozt47j4n4zuypw7bcl36nv6jpe5b1b"
     notes:
-      -
-        title: "LECTURE 3: VISUAL"
+      - title: "LECTURE 3: VIDEO"
+        link: "https://cornell.box.com/s/bbozt47j4n4zuypw7bcl36nv6jpe5b1b"
+      - title: "NOTE 3: VISUAL"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
-      -
-        title: "A3"
+      - title: "A3"
         link: "resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
-      -
-        title: "A3 (data)"
+      - title: "A3 (data)"
         link: "resources/data/temps.csv"
   ######################################## Web Scraping Workshop #########################################
-  -
-    date: 2020-03-02
-    title: "WORKSHOP: Web Scraping"
+  - date: 2020-03-02
+    title: "Workshop: Web Scraping"
+    contents:
+      - title: "Web Scraping Demo"
+        link: "resources/SP20/extra/WebScraping_Workshop_Student_Edition.ipynb"
     notes:
-      -
-        title: "Web Scraping Demo"
+      - title: "Demo Preview"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/WebScraping_Workshop_Student_Edition.ipynb"
   ######################################## Week 4 #########################################
-  -
-    date: 2020-03-04
+  - date: 2020-03-04
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     contents:
-      -
-        title: "LECTURE 4: SLIDES"
+      - title: "LECTURE 4: SLIDES"
         link: "resources/SP20/slides/Lecture_4.pdf"
-      -
-        title: "LECTURE 4: VIDEO"
-        link: "https://cornell.box.com/s/cam9wcd23pun6jgaq0pe2tjsdf2z8yuk"
     notes:
-      -
-        title: "LECTURE 4: FUND"
+      - title: "LECTURE 4: VIDEO"
+        link: "https://cornell.box.com/s/cam9wcd23pun6jgaq0pe2tjsdf2z8yuk"
+      - title: "NOTE 4: FUND"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
-      -
-        title: "A4"
+      - title: "A4"
         link: "resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
-      -
-        title: "A4 (data)"
+      - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
   ######################################## Week 5 #########################################
-  -
-    date: 2020-03-11
+  - date: 2020-03-11
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     contents:
-      -
-        title: "LECTURE 5: SLIDES"
+      - title: "LECTURE 5: SLIDES"
         link: "resources/SP20/slides/Lecture_5.pdf"
-      -
-        title: "LECTURE 5: SLIDES"
-        link: "https://cornell.box.com/s/46x8azjwjbj3q0sybl7943kvhc2ooljf"
     notes:
-      -
-        title: "LECTURE 5: TUNING"
+      - title: "LECTURE 5: VIDEO"
+        link: "https://cornell.box.com/s/46x8azjwjbj3q0sybl7943kvhc2ooljf"
+      - title: "NOTE 5: TUNING"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
-      -
-        title: "EXTRA: Validation Set Pitfalls"
-        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/ValidationSet_Pitfall.ipynb"
+      - title: "EXTRA: Validation Set Pitfalls"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
     assignments:
-      -
-        title: "A5"
+      - title: "A5"
         link: "resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
-      -
-        title: "A5 (data 1)"
+      - title: "A5 (data 1)"
         link: "resources/data/lecture5dataA.csv"
-      -
-        title: "A5 (data 2)"
+      - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
-      -
-        title: "Mid-Semester Project"
+      - title: "Mid-Semester Project"
         link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
-  -
-    date: 2020-04-08
+  - date: 2020-04-08
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-      -
-        title: "LECTURE 6: SLIDES"
+      - title: "LECTURE 6: SLIDES"
         link: "resources/SP20/slides/Lecture_6.pdf"
     notes:
-      -
-        title: "LECTURE 6: CLASS"
-        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Assessing_Model_Accuracy.ipynb"
+      - title: "LECTURE 6: VIDEO"
+        link: "https://drive.google.com/file/d/1W8j7gRKHsaMOQLq6GY-Z15ipbVbjvofy/view"
+      - title: "NOTE 6: CLASS"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
-      -
-        title: "Mid-Semester Project (blanket extension until 4/11)"
-        link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
-      -
-        title: "Assignment 5 (blanket extension until 4/11)"
+      - title: "A5 (blanket extension until 4/11)"
         link: "resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
-      -
-        title: "Assignment 6"
+      - title: "A6"
         link: "resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
   ######################################## Week 7 #########################################
-  -
-    date: 2020-04-15
+  - date: 2020-04-11
+    title: "Mid Semester Project Due"
+    contents:
+      - title: "Mid Semester Project"
+        link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
+  - date: 2020-04-15
     title: "Lecture 7: Supervised Learning Pt. I"
   ######################################## Week 8 #########################################
-  -
-    date: 2020-04-22
+  - date: 2020-04-22
     title: "Lecture 8: Supervised Learning Pt. II"
-  
+
   ######################################## Week 9 #########################################
-  -
-    date: 2020-04-29
+  - date: 2020-04-29
     title: "Lecture 9: Unsupervised Learning"
   ######################################## Week 10 #########################################
-  -
-    date: 2020-05-06
+  - date: 2020-05-06
     title: "Lecture 10: Data Science and ML in the World"
-
