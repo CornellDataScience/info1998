@@ -3,7 +3,7 @@ title: Getting Started
 layout: main
 ---
 
-To work on the assignments and project, you will need to have a proper setup for development environment. If you do not already have Python and Jupyter Notebook installed, you will need to configure conda environment. Think of Jupyter Notebook as a playground where we can write codes, instantly print out outputs, embed images and markdowns, and easily share across. The following guide will help you install and setup your environment properly.
+To work on the assignments and project, you will need to have a proper setup for development environment. If you do not already have Python and Jupyter Notebook installed, you will need to configure conda environment. Think of Jupyter Notebook as a playground where we can write code, instantly view output, embed images and markdown, and easily share our work. The following guide will help you install and setup your environment properly.
 
 ----------------------------------------------------------------------------------------
 ### Which version of Python do I need?
@@ -16,7 +16,3 @@ $ python --version
 ```bash
 $ brew install python
 ```
-
-----------------------------------------------------------------------------------------
-### More Installation Guide coming soon...
-We are currently updating our course program, and we are updating setup guide accordingly. The field will be updated soon.

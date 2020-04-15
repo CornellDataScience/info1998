@@ -7,3 +7,5 @@ _site
 # Generated if you used the Gemfile, may prevent a valid
 # jekyll / dependencies installation from building if tracked.
 Gemfile.lock
+# ignore emacs temp files
+**/#*#

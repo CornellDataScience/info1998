@@ -12,12 +12,14 @@ Lecture location: Hosted on Zoom starting Mar. 18
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-For the safety of the instructors and students, office hours will be held remotely, over Zoom. We're still working out the logistics. In the meantime, to schedule office hours, please email the instructors to schedule an appointment. We apologize for any inconvenience.
+For the remainder of the semester, office hours will be held over Zoom. Office hour times can be found on the [course website's front page](https://cornelldatascience.github.io/info1998/). Clicking on a time takes you to the Zoom (Cornell authentication required).
+
+If none of these office hours fit into your schedule, please email the course staff or post a private [Piazza](https://www.piazza.com/cornell/spring2020/info1998) note, and we can set up additional office hours.
 
 ----------------------------------------------------------------------------------------
 ### Course description
 
-The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick implementation-oriented toolkit you develop yourself to a variety of fields and problems.
+The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick, implementation-oriented toolkit you develop yourself to a variety of fields and problems.
 
 If you are interested in a solid mathematical foundation for data science and machine learning, this class is not sufficient in itself. This course, however, should serve as a head start for you.
 
