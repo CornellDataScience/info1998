@@ -127,6 +127,19 @@ lectures:
         link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   - date: 2020-04-15
     title: "Lecture 7: Supervised Learning Pt. I"
+    contents:
+      - title: "LECTURE 7: SLIDES"
+        link: "resources/SP20/slides/Lecture_7.pptx"
+    notes:
+      - title: "NOTE 7: CLASS"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
+    assignments:
+      - title: "A7"
+        link: "resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
+      - title: "A7 (data)"
+        link: "resources/data/lecture7example.csv"
+      - title: "Final Project Proposal (due next week)"
+        link: "resources/SP20/assignments/release/Final_Project.pdf"
   ######################################## Week 8 #########################################
   - date: 2020-04-22
     title: "Lecture 8: Supervised Learning Pt. II"
@@ -137,3 +150,8 @@ lectures:
   ######################################## Week 10 #########################################
   - date: 2020-05-06
     title: "Lecture 10: Data Science and ML in the World"
+  - date: 2020-05-13
+    title: "Final Project Due"
+    contents:
+      - title: "Final Project"
+        link: "resources/SP20/assignments/release/Final_Project.pdf"
