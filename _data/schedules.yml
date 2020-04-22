@@ -145,7 +145,17 @@ lectures:
   ######################################## Week 8 #########################################
   - date: 2020-04-22
     title: "Lecture 8: Supervised Learning Pt. II"
-
+    contents:
+      - title: "LECTURE 8: SLIDES"
+        link: "resources/SP20/slides/Lecture_8.pptx"
+    notes:
+      - title: "NOTE 8: CLASS"
+        link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
+    assignments:
+      - title: "A8"
+        link: "resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
+      - title: "A8 (data)"
+        link: "resources/data/phone.csv"
   ######################################## Week 9 #########################################
   - date: 2020-04-29
     title: "Lecture 9: Unsupervised Learning"
