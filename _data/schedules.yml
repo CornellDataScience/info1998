@@ -133,6 +133,8 @@ lectures:
     notes:
       - title: "NOTE 7: CLASS"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
+      - title: "NOTE 7: VIDEO"
+        link: "https://drive.google.com/file/d/1S96CDSObmknz9kKyp76DTbMMDEKcOWow/view"
     assignments:
       - title: "A7"
         link: "resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
