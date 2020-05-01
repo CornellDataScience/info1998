@@ -161,9 +161,10 @@ lectures:
   ######################################## Week 9 #########################################
   - date: 2020-04-29
     title: "Lecture 9: Unsupervised Learning"
-    notes:
+    contents:
       - title: "LECTURE 9: SLIDES"
         link: "resources/SP20/slides/Lecture_9.pdf"
+    notes:
       - title: "LECTURE 9: UNSUP"
         link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
       - title: "NOTE 9: VIDEO"
