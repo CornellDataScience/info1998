@@ -177,6 +177,9 @@ lectures:
   ######################################## Week 10 #########################################
   - date: 2020-05-06
     title: "Lecture 10: Data Science and ML in the World"
+    contents:
+      - title: "LECTURE 10: SLIDES"
+        link: "resources/SP20/slides/Lecture_10.pdf"
   - date: 2020-05-13
     title: "Final Project Due"
     contents:
