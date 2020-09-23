@@ -7,14 +7,14 @@ INFO 1998, Fall 2020
 
 Lecture time: Wed 5:30pm - 6:30pm EST
 
-Lecture location: Hosted on Zoom starting Mar. 18
+Lecture location: Hosted on Zoom starting September 23
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
 For the remainder of the semester, office hours will be held over Zoom. Office hour times can be found on the [course website's front page](https://cornelldatascience.github.io/info1998/). Clicking on a time takes you to the Zoom (Cornell authentication required).
 
-If none of these office hours fit into your schedule, please email the course staff or post a private [Piazza](https://www.piazza.com/cornell/spring2020/info1998) note, and we can set up additional office hours.
+If none of these office hours fit into your schedule, please email the course staff or post a private [Piazza](https://www.piazza.com/cornell/fall2020/info1998) note, and we can set up additional office hours.
 
 ----------------------------------------------------------------------------------------
 ### Course description
