@@ -16,7 +16,7 @@
 title: INFO 1998
 email: jl3248@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Introduction to Machine Learning, Spring 2020
+  Introduction to Machine Learning, Fall 2020
 baseurl: "/info1998" # the subpath of your site, e.g. /blog
 url: "cornelldatascience.github.io" # the base hostname & protocol for your site
 plugin:
@@ -25,14 +25,12 @@ plugin:
 # invert_navbar: true
 
 defaults:
-  -
-    scope:
+  - scope:
       path: ""
       type: "posts"
     values:
       layout: "post"
-  -
-    scope:
+  - scope:
       path: ""
       type: "pages"
     values:
@@ -44,4 +42,3 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
-
