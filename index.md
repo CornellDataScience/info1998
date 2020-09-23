@@ -6,7 +6,7 @@ mainpage: true
 
 ## Overview
 ----------------------------------------------------------------------------------------
-INFO 1998 is a ten week, one credit, S/U only course. It runs from <b>February 12th</b> through <b>April 6th</b>, 2020.
+INFO 1998 is a ten week, one credit, S/U only course. It runs from <b>September 23th</b> through <b>December 16th</b>, 2020.
 
 The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models. From the basics of getting your Jupyter environment setup, to manipulating and visualizing data, to building supervised and unsupervised models, this class aims to give you the base intuition and skillset to continue developing and working on ML projects. We hope you exit the course with an understanding of how models and optimization techniques work, as well as have the confidence and tools to solve future problems on your own.
 
