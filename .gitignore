@@ -9,3 +9,4 @@ _site
 Gemfile.lock
 # ignore emacs temp files
 **/#*#
+**/vendor/

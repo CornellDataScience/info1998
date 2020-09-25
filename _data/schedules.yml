@@ -3,17 +3,17 @@ lectures:
   ######################################## Week 1 #########################################
   - date: 2020-9-23
     title: "Lecture 1: Introduction"
-  #   contents:
-  #     - title: "LECTURE 1: SLIDES"
-  #       link: "resources/SP20/slides/Lecture_1.pdf"
-  #   notes:
-  #     - title: "NOTE 1: INTRO"
-  #       link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_1__Introduction.ipynb"
-  #   assignments:
-  #     - title: "A1"
-  #       link: "resources/SP20/assignments/release/Lecture_1__Introduction.ipynb"
-  #     - title: "A1 (solution)"
-  #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_1__Introduction_Solutions.ipynb"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_1.pdf"
+    notes:
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/k638v6djf2jfdq3t1kb99geqme2q98jz"
+    assignments:
+      - title: "A1"
+        link: "resources/FA20/assignments/release/Lecture_1_Release.ipynb"
+    #  - title: "A1 (solution)"
+    #    link: "resources/FA20/assignments/release/Lecture_1_Solution.ipynb"
   - date: 2020-9-30
     title: "Workshop: Python"
     # contents:
