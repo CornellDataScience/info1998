@@ -14,11 +14,11 @@ lectures:
         link: "resources/FA20/assignments/release/Lecture_1_Release.ipynb"
     #  - title: "A1 (solution)"
     #    link: "resources/FA20/assignments/release/Lecture_1_Solution.ipynb"
-  - date: 2020-9-30
+  - date: 2020-9-27
     title: "Workshop: Python"
-    # contents:
-    #   - title: "Python Demo"
-    #     link: "resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
+    contents:
+      - title: "Python Demo"
+        link: "resources/FA20/extra/Python_Workshop.ipynb"
     # notes:
     #   - title: "Demo Preview"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
