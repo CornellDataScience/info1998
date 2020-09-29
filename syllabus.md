@@ -80,7 +80,7 @@ This is a student-run course, so we understand how stressful classes can get. Ab
 
 #### Attendance
 
-Attendance is required. We discuss the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments.
+Attendance is not required. However, we highly encourage you to attend lecture if you can. We discuss the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments. For people who cannot attend lectures, we will post lecture recording under the "Schedule" section.
 
 #### Academic Integrity
 
