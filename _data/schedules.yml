@@ -28,19 +28,19 @@ lectures:
   ######################################## Week 2 #########################################
   - date: 2020-09-30
     title: "Lecture 2: Data Manipulation"
-    # contents:
-    #   - title: "LECTURE 2: SLIDES"
-    #     link: "resources/SP20/slides/Lecture_2.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_2.pdf"
     # notes:
     #   - title: "LECTURE 2: VIDEO"
     #     link: "https://cornell.box.com/s/jpu9ksvyw8ejsmgvr96tdndp3hu0k6b5"
     #   - title: "NOTE 2: MANIP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
-    # assignments:
-    #   - title: "A2"
-    #     link: "resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
-    #   - title: "A2 (data)"
-    #     link: "resources/data/lecture2data.csv"
+    assignments:
+      - title: "A2"
+        link: "resources/FA20/assignments/release/Lecture_2_Data_Manipulation_Release.ipynb"
+      - title: "A2 (data)"
+        link: "resources/data/lecture2data.csv"
     # - title: "A2 (solution)"
     #   link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_2__Data_Manipulation_Solutions.ipynb"
   ######################################## Week 3 #########################################
