@@ -31,9 +31,9 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_2.pdf"
-    # notes:
-    #   - title: "LECTURE 2: VIDEO"
-    #     link: "https://cornell.box.com/s/jpu9ksvyw8ejsmgvr96tdndp3hu0k6b5"
+    notes:
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/r5lm9188je7m9x73a68mufilevrd8reb"
     #   - title: "NOTE 2: MANIP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     assignments:
