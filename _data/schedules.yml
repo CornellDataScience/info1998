@@ -56,7 +56,7 @@ lectures:
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
       - title: "A3"
-        link: "resources/FA20/assignments/release/Lecture_3__Data_Visualization_Release.ipynb"
+        link: "resources/FA20/assignments/release/Lecture_3_Data_Visualization_Release.ipynb"
       - title: "A3 (Temps data)"
         link: "resources/data/temps.csv"
       - title: "A3 (Canada data)"
