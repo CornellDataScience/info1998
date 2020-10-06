@@ -46,19 +46,21 @@ lectures:
   ######################################## Week 3 #########################################
   - date: 2020-10-07
     title: "Lecture 3: Data Visualization"
-    # contents:
-    #   - title: "LECTURE 3: SLIDES"
-    #     link: "resources/SP20/slides/Lecture_3.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_3.pdf"
     # notes:
     #   - title: "LECTURE 3: VIDEO"
     #     link: "https://cornell.box.com/s/bbozt47j4n4zuypw7bcl36nv6jpe5b1b"
     #   - title: "NOTE 3: VISUAL"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
-    # assignments:
-    #   - title: "A3"
-    #     link: "resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
-    #   - title: "A3 (data)"
-    #     link: "resources/data/temps.csv"
+    assignments:
+      - title: "A3"
+        link: "resources/SP20/assignments/release/Lecture_3__Data_Visualization_Release.ipynb"
+      - title: "A3 (Temps data)"
+        link: "resources/data/temps.csv"
+      - title: "A3 (Canada data)"
+        link: "resources/data/Canada_AL26335.zip"
   ######################################## Web Scraping Workshop #########################################
   - date: TBD
     title: "Workshop: Web Scraping"
