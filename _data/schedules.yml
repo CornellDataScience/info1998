@@ -49,9 +49,9 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_3.pdf"
-    # notes:
-    #   - title: "LECTURE 3: VIDEO"
-    #     link: "https://cornell.box.com/s/bbozt47j4n4zuypw7bcl36nv6jpe5b1b"
+    notes:
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/w0mp4qg89gmzmdbjq6u8zxawima6wiuh"
     #   - title: "NOTE 3: VISUAL"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
