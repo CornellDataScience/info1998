@@ -108,6 +108,11 @@ lectures:
     #     link: "resources/data/lecture5dataB.csv"
     #   - title: "Mid-Semester Project"
     #     link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
+  - date: 2020-10-30
+    title: "Mid Semester Project Due"
+    assignments:
+      - title: "MID SEMESTER PROJECT"
+        link: "resources/FA20/extra/MidSemester_Project.pdf"  
   ######################################## Week 6 #########################################
   - date: 2020-11-04
     title: "Lecture 6: Introduction to Classifiers"
@@ -125,11 +130,6 @@ lectures:
     #   - title: "A6"
     #     link: "resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
   ######################################## Week 7 #########################################
-  - date: TBD
-    title: "Mid Semester Project Due"
-    # contents:
-    #   - title: "Mid Semester Project"
-    #     link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   - date: 2020-11-11
     title: "Lecture 7: Supervised Learning Pt. I"
     # contents:
