@@ -62,11 +62,11 @@ lectures:
       - title: "A3 (Canada data)"
         link: "resources/data/Canada_AL26335.zip"
   ######################################## Web Scraping Workshop #########################################
-  - date: TBD
+  - date: 2020-10-17
     title: "Workshop: Web Scraping"
-    # contents:
-    #   - title: "Web Scraping Demo"
-    #     link: "resources/SP20/extra/WebScraping_Workshop_Student_Edition.ipynb"
+    contents:
+       - title: "Web Scraping Demo"
+         link: "resources/FA20/extra/WebScraping_Workshop_Release.ipynb"
     # notes:
     #   - title: "Demo Preview"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/WebScraping_Workshop_Student_Edition.ipynb"
