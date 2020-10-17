@@ -67,9 +67,9 @@ lectures:
     contents:
        - title: "Web Scraping Demo"
          link: "resources/FA20/extra/WebScraping_Workshop_Release.ipynb"
-    # notes:
-    #   - title: "Demo Preview"
-    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/WebScraping_Workshop_Student_Edition.ipynb"
+    notes:
+      - title: "Video"
+        link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
   ######################################## Week 4 #########################################
   - date: 2020-10-21
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
