@@ -73,19 +73,19 @@ lectures:
   ######################################## Week 4 #########################################
   - date: 2020-10-21
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
-    # contents:
-    #   - title: "LECTURE 4: SLIDES"
-    #     link: "resources/SP20/slides/Lecture_4.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_4.pdf"
     # notes:
     #   - title: "LECTURE 4: VIDEO"
     #     link: "https://cornell.box.com/s/cam9wcd23pun6jgaq0pe2tjsdf2z8yuk"
     #   - title: "NOTE 4: FUND"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
-    # assignments:
-    #   - title: "A4"
-    #     link: "resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
-    #   - title: "A4 (data)"
-    #     link: "resources/data/lecture4data.csv"
+    assignments:
+      - title: "A4"
+        link: "resources/FA20/assignments/release/Lecture_4_Fundamentals_ML_Release.ipynb"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
   ######################################## Week 5 #########################################
   - date: 2020-10-28
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
