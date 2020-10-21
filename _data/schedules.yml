@@ -76,9 +76,9 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_4.pdf"
-    # notes:
-    #   - title: "LECTURE 4: VIDEO"
-    #     link: "https://cornell.box.com/s/cam9wcd23pun6jgaq0pe2tjsdf2z8yuk"
+    notes:
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/dahpohdyg65x39gmxlw4yan9v6plybtb"
     #   - title: "NOTE 4: FUND"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
