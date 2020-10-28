@@ -89,9 +89,9 @@ lectures:
   ######################################## Week 5 #########################################
   - date: 2020-10-28
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
-    # contents:
-    #   - title: "LECTURE 5: SLIDES"
-    #     link: "resources/SP20/slides/Lecture_5.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_5.pdf"
     # notes:
     #   - title: "LECTURE 5: VIDEO"
     #     link: "https://cornell.box.com/s/46x8azjwjbj3q0sybl7943kvhc2ooljf"
@@ -99,13 +99,13 @@ lectures:
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     #   - title: "EXTRA: Validation Set Pitfalls"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
-    # assignments:
-    #   - title: "A5"
-    #     link: "resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
-    #   - title: "A5 (data 1)"
-    #     link: "resources/data/lecture5dataA.csv"
-    #   - title: "A5 (data 2)"
-    #     link: "resources/data/lecture5dataB.csv"
+    assignments:
+      - title: "A5"
+        link: "resources/FA20/assignments/release/Lecture_5_Assessing_Model_Accuracy_Release.ipynb"
+      - title: "A5 (data 1)"
+        link: "resources/data/lecture5dataA.csv"
+      - title: "A5 (data 2)"
+        link: "resources/data/lecture5dataB.csv"
     #   - title: "Mid-Semester Project"
     #     link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
   - date: 2020-10-30
