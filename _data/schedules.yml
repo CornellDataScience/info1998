@@ -116,19 +116,19 @@ lectures:
   ######################################## Week 6 #########################################
   - date: 2020-11-04
     title: "Lecture 6: Introduction to Classifiers"
-    # contents:
-    #   - title: "LECTURE 6: SLIDES"
-    #     link: "resources/SP20/slides/Lecture_6.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_6.pdf"
     # notes:
     #   - title: "LECTURE 6: VIDEO"
     #     link: "https://drive.google.com/file/d/1W8j7gRKHsaMOQLq6GY-Z15ipbVbjvofy/view"
     #   - title: "NOTE 6: CLASS"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
-    # assignments:
-    #   - title: "A5"
-    #     link: "resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
-    #   - title: "A6"
-    #     link: "resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
+    assignments:
+      - title: "A6"
+        link: "resources/FA20/assignments/release/Lecture_6_Introduction_to_Classification_KNN_Release.ipynb"
+      - title: "A6 (data)"
+        link: "resources/data/lecture6data.csv"
   ######################################## Week 7 #########################################
   - date: 2020-11-11
     title: "Lecture 7: Supervised Learning Pt. I"
