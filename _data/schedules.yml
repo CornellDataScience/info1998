@@ -65,10 +65,10 @@ lectures:
   - date: 2020-10-17
     title: "Workshop: Web Scraping"
     contents:
-       - title: "Web Scraping Demo"
-         link: "resources/FA20/extra/WebScraping_Workshop_Release.ipynb"
+      - title: "Web Scraping Demo"
+        link: "resources/FA20/extra/WebScraping_Workshop_Release.ipynb"
     notes:
-      - title: "Video"
+      - title: "VIDEO"
         link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
   ######################################## Week 4 #########################################
   - date: 2020-10-21
@@ -77,8 +77,8 @@ lectures:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_4.pdf"
     notes:
-       - title: "VIDEO"
-         link: "https://cornell.box.com/s/dahpohdyg65x39gmxlw4yan9v6plybtb"
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/dahpohdyg65x39gmxlw4yan9v6plybtb"
     #   - title: "NOTE 4: FUND"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
@@ -92,16 +92,16 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_5.pdf"
-    # notes:
-    #   - title: "LECTURE 5: VIDEO"
-    #     link: "https://cornell.box.com/s/46x8azjwjbj3q0sybl7943kvhc2ooljf"
+    notes:
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/7z8vseasyp03ya5y8w680s5xikhv2lnr"
     #   - title: "NOTE 5: TUNING"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     #   - title: "EXTRA: Validation Set Pitfalls"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
     assignments:
       - title: "A5"
-        link: "resources/FA20/assignments/release/Lecture_5_Assessing_Model_Accuracy_Release.ipynb"
+        link: "resources/FA20/assignments/release/Lecture_5__Assessing_Model_Accuracy_Release.ipynb"
       - title: "A5 (data 1)"
         link: "resources/data/lecture5dataA.csv"
       - title: "A5 (data 2)"
@@ -112,7 +112,7 @@ lectures:
     title: "Mid Semester Project Due"
     assignments:
       - title: "MID SEMESTER PROJECT"
-        link: "resources/FA20/extra/MidSemester_Project.pdf"  
+        link: "resources/FA20/extra/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
   - date: 2020-11-04
     title: "Lecture 6: Introduction to Classifiers"
