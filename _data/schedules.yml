@@ -132,19 +132,19 @@ lectures:
   ######################################## Week 7 #########################################
   - date: 2020-11-11
     title: "Lecture 7: Supervised Learning Pt. I"
-    # contents:
-    #   - title: "LECTURE 7: SLIDES"
-    #     link: "resources/SP20/slides/Lecture_7.pptx"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA20/slides/Lecture_7.pdf"
     # notes:
     #   - title: "NOTE 7: CLASS"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
     #   - title: "NOTE 7: VIDEO"
     #     link: "https://drive.google.com/file/d/1S96CDSObmknz9kKyp76DTbMMDEKcOWow/view"
-    # assignments:
-    #   - title: "A7"
-    #     link: "resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
-    #   - title: "A7 (data)"
-    #     link: "resources/data/lecture7example.csv"
+    assignments:
+      - title: "A7"
+        link: "resources/FA20/assignments/release/Lecture_7_Applications_of_Supervised_Learning_Source_Release.ipynb"
+      - title: "A7 (data)"
+        link: "resources/data/lecture7example.csv"
     #   - title: "Final Project Proposal"
     #     link: "resources/SP20/assignments/release/Final_Project.pdf"
   ######################################## Week 8 #########################################
