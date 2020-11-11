@@ -12,8 +12,8 @@ lectures:
     assignments:
       - title: "A1"
         link: "resources/FA20/assignments/release/Lecture_1_Release.ipynb"
-    #  - title: "A1 (solution)"
-    #    link: "resources/FA20/assignments/release/Lecture_1_Solution.ipynb"
+      - title: "A1 (solution)"
+        link: "resources/FA20/assignments/solutions/Lecture_1_Solution.ipynb"
   - date: 2020-9-27
     title: "Workshop: Python"
     contents:
@@ -41,8 +41,8 @@ lectures:
         link: "resources/FA20/assignments/release/Lecture_2_Data_Manipulation_Release.ipynb"
       - title: "A2 (data)"
         link: "resources/data/lecture2data.csv"
-    # - title: "A2 (solution)"
-    #   link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/solutions/Lecture_2__Data_Manipulation_Solutions.ipynb"
+      - title: "A2 (solution)"
+        link: "resources/FA20/assignments/solutions/Lecture_2_Data_Manipulation_Solution.ipynb"
   ######################################## Week 3 #########################################
   - date: 2020-10-07
     title: "Lecture 3: Data Visualization"
@@ -61,6 +61,8 @@ lectures:
         link: "resources/data/temps.csv"
       - title: "A3 (Canada data)"
         link: "resources/data/Canada_AL26335.zip"
+      - title: "A3 (solution)"
+        link: "resources/FA20/assignments/solutions/Lecture_3_Data_Visualization_Solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
   - date: 2020-10-17
     title: "Workshop: Web Scraping"
@@ -86,6 +88,8 @@ lectures:
         link: "resources/FA20/assignments/release/Lecture_4_Fundamentals_ML_Release.ipynb"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
+      - title: "A4 (solution)"
+        link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"
   ######################################## Week 5 #########################################
   - date: 2020-10-28
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
@@ -101,13 +105,13 @@ lectures:
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
     assignments:
       - title: "A5"
-        link: "resources/FA20/assignments/release/Lecture_5__Assessing_Model_Accuracy_Release.ipynb"
+        link: "resources/FA20/assignments/release/Lecture_5__Assessing_Model_Accuracy_Solution.ipynb"
       - title: "A5 (data 1)"
         link: "resources/data/lecture5dataA.csv"
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
-    #   - title: "Mid-Semester Project"
-    #     link: "resources/SP20/assignments/release/MidSemester_Project.pdf"
+      - title: "A5 (solution)"
+        link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"  
   - date: 2020-10-30
     title: "Mid Semester Project Due"
     assignments:
