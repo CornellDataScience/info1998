@@ -111,7 +111,7 @@ lectures:
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
       - title: "A5 (solution)"
-        link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"  
+        link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"
   - date: 2020-10-30
     title: "Mid Semester Project Due"
     assignments:
@@ -139,11 +139,11 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_7.pdf"
-    # notes:
-    #   - title: "NOTE 7: CLASS"
-    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
-    #   - title: "NOTE 7: VIDEO"
-    #     link: "https://drive.google.com/file/d/1S96CDSObmknz9kKyp76DTbMMDEKcOWow/view"
+    notes:
+      #   - title: "NOTE 7: CLASS"
+      #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/vm4wg85xz919fhxdwnwnboli4p1hyzux"
     assignments:
       - title: "A7"
         link: "resources/FA20/assignments/release/Lecture_7_Applications_of_Supervised_Learning_Source_Release.ipynb"
