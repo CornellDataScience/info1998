@@ -149,8 +149,6 @@ lectures:
         link: "resources/FA20/assignments/release/Lecture_7_Applications_of_Supervised_Learning_Source_Release.ipynb"
       - title: "A7 (data)"
         link: "resources/data/lecture7example.csv"
-    #   - title: "Final Project Proposal"
-    #     link: "resources/SP20/assignments/release/Final_Project.pdf"
   ######################################## Week 8 #########################################
   - date: 2020-12-02
     title: "Lecture 8: Supervised Learning Pt. II"
@@ -194,3 +192,9 @@ lectures:
   #   contents:
   #     - title: "Final Project"
   #       link: "resources/SP20/assignments/release/Final_Project.pdf"
+  ############################ Final Project #######################################
+  - date: 2020-12-16
+    title: "Final Project Due"
+    assignments:
+      - title: "Final Project"
+        link: "resources/FA20/extra/Final_Project.pdf"
