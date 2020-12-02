@@ -111,7 +111,7 @@ lectures:
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
       - title: "A5 (solution)"
-        link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"
+        link: "resources/FA20/assignments/solutions/Lecture_5__Assessing_Model_Accuracy_Solution.ipynb"
   - date: 2020-10-30
     title: "Mid Semester Project Due"
     assignments:
