@@ -171,11 +171,11 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA20/slides/Lecture_9.pdf"
-    # notes:
+    notes:
     #   - title: "LECTURE 9: UNSUP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
-    #   - title: "NOTE 9: VIDEO"
-    #     link: "https://drive.google.com/file/d/1HPnxA-TooWJzJFe7ZNv2iwKMgCj7-4Z5/view"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/jr6l961geg6jxn49n4wytee8tizl7e7g"
     assignments:
       - title: "A9"
         link: "resources/FA20/assignments/release/Lecture_9_Unsupervised_Release.ipynb"
