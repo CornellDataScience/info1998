@@ -5,14 +5,14 @@
   <!-- The above 3 meta tags *must* come first in the head; any other head content must come *after* these tags -->
   <meta name="description" content="INFO 1998">
   <meta name="author" content="">
-{% if site.icon %}
+  {% if site.icon %}
   <link rel="icon" href="{{ site.icon }}">
-{% endif %}
-{% if page.title == "index" %}
+  {% endif %}
+  {% if page.title == "index" %}
   <title>{{ site.title }}</title>
-{% else %}
+  {% else %}
   <title>{{ site.title }} &mdash; {{ page.title }}</title>
-{% endif %}
+  {% endif %}
   <link rel="shortcut icon" type="image/png" href="favicon.ico">
 
   {% include core/stylesheets.html %}
@@ -22,4 +22,8 @@
       <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
       <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
     <![endif]-->
+  {% if site.google_analytics and jekyll.environment == 'production' %}
+  {% include core/analytics.html %}
+  {% endif %}
+
 </head>

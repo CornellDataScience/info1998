@@ -42,3 +42,6 @@ markdown: kramdown
 kramdown:
   input: GFM
   syntax_highlighter: rouge
+
+# Google Analytics
+google_analytics: UA-186214212-1
