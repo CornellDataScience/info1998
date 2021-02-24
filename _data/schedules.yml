@@ -5,25 +5,196 @@ lectures:
     title: "Lecture 1: Introduction"
     contents:
       - title: "SLIDES"
-        link: "resources/SP21/slides/Lecture\ 1\ Slides.pdf"
+        link: "resources/SP21/slides/Lecture_1_Slides.pdf"
     notes:
-      - title: "VIDEO"
-        #link: "https://cornell.box.com/s/k638v6djf2jfdq3t1kb99geqme2q98jz"
+      # - title: "VIDEO"
+        # link: "https://cornell.box.com/s/k638v6djf2jfdq3t1kb99geqme2q98jz"
     assignments:
       - title: "A1"
-        link: "resources/SP21/assignments/release/Lecture_1_Introduction_Release.ipynb"
-      #- title: "A1 (solution)"
-        #link: "resources/FA20/assignments/solutions/Lecture_1_Solution.ipynb"
-  - date: TBD
-    title: "Workshop: Python"
+        link: "resources/SP21/assignments/release/lecture1_release.ipynb"
+      # - title: "A1 (solution)"
+      #   link: "resources/FA20/assignments/solutions/Lecture_1_Solution.ipynb"
+  - date: 
+    title: "Workshop: Python FA 2020"
     contents:
       - title: "Python Demo"
         link: "resources/FA20/extra/Python_Workshop.ipynb"
     notes:
-      - title: "RECORDING"
+      - title: "VIDEO"
         link: "https://cornell.box.com/s/euruypa53p02rmh7k0gyku8oxhmhz450"
     # notes:
     #   - title: "Demo Preview"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
   ######################################## Week 2 #########################################
-  
+  - date: 2021-03-03
+    title: "Lecture 2: Data Manipulation"
+    contents:
+    #   - title: "SLIDES"
+    #     link: "resources/FA20/slides/Lecture_2.pdf"
+    notes:
+    #   - title: "VIDEO"
+    #     link: "https://cornell.box.com/s/r5lm9188je7m9x73a68mufilevrd8reb"
+    #   - title: "NOTE 2: MANIP"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
+    assignments:
+      # - title: "A2"
+      #   link: "resources/FA20/assignments/release/Lecture_2_Data_Manipulation_Release.ipynb"
+      # - title: "A2 (data)"
+      #   link: "resources/data/lecture2data.csv"
+      # - title: "A2 (solution)"
+      #   link: "resources/FA20/assignments/solutions/Lecture_2_Data_Manipulation_Solution.ipynb"
+  ######################################## Week 3 #########################################
+  - date: 2021-03-17
+    title: "Lecture 3: Data Visualization"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_3.pdf"
+    notes:
+      # - title: "VIDEO"
+      #   link: "https://cornell.box.com/s/w0mp4qg89gmzmdbjq6u8zxawima6wiuh"
+    #   - title: "NOTE 3: VISUAL"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
+    assignments:
+      # - title: "A3"
+      #   link: "resources/FA20/assignments/release/Lecture_3_Data_Visualization_Release.ipynb"
+      # - title: "A3 (Temps data)"
+      #   link: "resources/data/temps.csv"
+      # - title: "A3 (Canada data)"
+      #   link: "resources/data/Canada_AL26335.zip"
+      # - title: "A3 (solution)"
+      #   link: "resources/FA20/assignments/solutions/Lecture_3_Data_Visualization_Solution.ipynb"
+  ######################################## Web Scraping Workshop #########################################
+  # - date: 2020-10-17
+    # title: "Workshop: Web Scraping"
+    # contents:
+      # - title: "Web Scraping Demo"
+      #   link: "resources/FA20/extra/WebScraping_Workshop_Release.ipynb"
+    # notes:
+      # - title: "VIDEO"
+      #   link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
+  ######################################## Week 4 #########################################
+  - date: 2021-03-24
+    title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_4.pdf"
+    notes:
+      # - title: "VIDEO"
+      #   link: "https://cornell.box.com/s/dahpohdyg65x39gmxlw4yan9v6plybtb"
+    #   - title: "NOTE 4: FUND"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
+    assignments:
+      # - title: "A4"
+      #   link: "resources/FA20/assignments/release/Lecture_4_Fundamentals_ML_Release.ipynb"
+      # - title: "A4 (data)"
+      #   link: "resources/data/lecture4data.csv"
+      # - title: "A4 (solution)"
+      #   link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"
+  ######################################## Week 5 #########################################
+  - date: 2021-03-31
+    title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_5.pdf"
+    notes:
+      # - title: "VIDEO"
+      #   link: "https://cornell.box.com/s/7z8vseasyp03ya5y8w680s5xikhv2lnr"
+    #   - title: "NOTE 5: TUNING"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
+    #   - title: "EXTRA: Validation Set Pitfalls"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
+    assignments:
+      # - title: "A5"
+      #   link: "resources/FA20/assignments/release/Lecture_5__Assessing_Model_Accuracy_Solution.ipynb"
+      # - title: "A5 (data 1)"
+      #   link: "resources/data/lecture5dataA.csv"
+      # - title: "A5 (data 2)"
+      #   link: "resources/data/lecture5dataB.csv"
+      # - title: "A5 (solution)"
+      #   link: "resources/FA20/assignments/solutions/Lecture_5__Assessing_Model_Accuracy_Solution.ipynb"
+  - date: TBD
+    title: "Mid Semester Project Check-In"
+    assignments:
+      # - title: "Mid-semester Project"
+      #   link: "resources/FA20/extra/MidSemester_Project.pdf"
+  ######################################## Week 6 #########################################
+  - date: 2021-04-07
+    title: "Lecture 6: Introduction to Classifiers"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_6.pdf"
+    notes:
+      # - title: "VIDEO"
+      #   link: "https://cornell.box.com/s/34d0hxfrickf0er5u96af3yc2vwtj6ej"
+    #   - title: "NOTE 6: CLASS"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
+    assignments:
+      # - title: "A6"
+      #   link: "resources/FA20/assignments/release/Lecture_6_Introduction_to_Classification_KNN_Release.ipynb"
+      # - title: "A6 (data)"
+      #   link: "resources/data/lecture6data.csv"
+  ######################################## Week 7 #########################################
+  - date: 2021-04-14
+    title: "Lecture 7: Supervised Learning Pt. I"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_7.pdf"
+    notes:
+      #   - title: "NOTE 7: CLASS"
+      #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
+      # - title: "VIDEO"
+      #   link: "https://cornell.app.box.com/file/741012562847?s=vm4wg85xz919fhxdwnwnboli4p1hyzux"
+    assignments:
+      # - title: "A7"
+      #   link: "resources/FA20/assignments/release/Lecture_7_Applications_of_Supervised_Learning_Source_Release.ipynb"
+      # - title: "A7 (data)"
+      #   link: "resources/data/lecture7example.csv"
+  ######################################## Week 8 #########################################
+  - date: 2021-04-21
+    title: "Lecture 8: Supervised Learning Pt. II"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_8.pdf"
+    notes:
+      #- title: "NOTE 8: CLASS"
+      #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
+      # - title: "VIDEO"
+      #   link: "https://cornell.box.com/s/5y5t50zhv8w4y8j6mrmm57it857sdjn2"
+    assignments:
+      # - title: "A8"
+      #   link: "resources/FA20/assignments/release/Lecture_8_Assignment_Release.ipynb"
+      # - title: "A8 (data)"
+      #   link: "resources/data/phone.csv"
+  ######################################## Week 9 #########################################
+  - date: 2021-04-28
+    title: "Lecture 9: Unsupervised Learning"
+    contents:
+      # - title: "SLIDES"
+      #   link: "resources/FA20/slides/Lecture_9.pdf"
+    notes:
+    #   - title: "LECTURE 9: UNSUP"
+    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
+      #  - title: "VIDEO"
+      #    link: "https://cornell.box.com/s/jr6l961geg6jxn49n4wytee8tizl7e7g"
+    assignments:
+      # - title: "A9"
+      #   link: "resources/FA20/assignments/release/Lecture_9_Unsupervised_Release.ipynb"
+      # - title: "A9 (data)"
+      #   link: "resources/data/lecture9data.csv"
+  ######################################## Week 10 #########################################
+  - date: 2021-05-05
+    title: "Lecture 10: Data Science and ML in the World"
+  #   contents:
+  #     - title: "LECTURE 10: SLIDES"
+  #       link: "resources/SP20/slides/Lecture_10.pdf"
+  # - date: TBD
+  #   title: "Final Project Released"
+  #   contents:
+  #     - title: "Final Project"
+  #       link: "resources/SP20/assignments/release/Final_Project.pdf"
+  ############################ Final Project #######################################
+  - date: TBD
+    title: "Final Project Due"
+    assignments:
+      # - title: "Final Project"
+      #   link: "resources/FA20/extra/Final_Project.pdf"

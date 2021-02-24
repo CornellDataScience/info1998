@@ -12,7 +12,7 @@ Lecture location: Hosted on Zoom starting Feburary 24
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-For the remainder of the semester, office hours will be held over Zoom. Office hour times can be found on the [course website's front page](https://cornelldatascience.github.io/info1998/). Clicking on a time takes you to the Zoom (Cornell authentication required).
+Office hours will be held over Zoom. Office hour times can be found on the [course website's front page](https://cornelldatascience.github.io/info1998/). Clicking on a time takes you to the Zoom (Cornell authentication required).
 
 If none of these office hours fit into your schedule, please email the course staff or post a private [Ed](https://edstem.org/us/courses/4760/discussion/) note, and we can set up additional office hours.
 
