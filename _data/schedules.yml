@@ -5,13 +5,13 @@ lectures:
     title: "Lecture 1: Introduction"
     contents:
       - title: "SLIDES"
-        link: "resources/FA20/slides/Lecture_1.pdf"
+        link: "resources/SP21/slides/Lecture\ 1\ Slides.pdf"
     notes:
       - title: "VIDEO"
         #link: "https://cornell.box.com/s/k638v6djf2jfdq3t1kb99geqme2q98jz"
     assignments:
       - title: "A1"
-        link: "resources/FA20/assignments/release/Lecture_1_Release.ipynb"
+        link: "resources/SP21/assignments/release/Lecture_1_Introduction_Release.ipynb"
       #- title: "A1 (solution)"
         #link: "resources/FA20/assignments/solutions/Lecture_1_Solution.ipynb"
   - date: TBD
