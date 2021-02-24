@@ -3,18 +3,18 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Fall 2020
+INFO 1998, Spring 2021
 
-Lecture time: Wed 5:30pm - 6:30pm EST
+Lecture time: Wed 4:30pm - 5:30pm EST
 
-Lecture location: Hosted on Zoom starting September 23
+Lecture location: Hosted on Zoom starting Feburary 24
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
 For the remainder of the semester, office hours will be held over Zoom. Office hour times can be found on the [course website's front page](https://cornelldatascience.github.io/info1998/). Clicking on a time takes you to the Zoom (Cornell authentication required).
 
-If none of these office hours fit into your schedule, please email the course staff or post a private [Piazza](https://www.piazza.com/cornell/fall2020/info1998) note, and we can set up additional office hours.
+If none of these office hours fit into your schedule, please email the course staff or post a private [Ed](https://edstem.org/us/courses/4760/discussion/) note, and we can set up additional office hours.
 
 ----------------------------------------------------------------------------------------
 ### Course description
@@ -67,9 +67,8 @@ We will be providing you with feedback on the Cornell University Course Manageme
 This is a 1-credit S/U class. In order to get a Satisfactory (S) grade, you will need at least 70%.
 
 There are three components to grading:
-- **Weekly Assignments (50%)**
-- **Mid-Semester Group Project (15%)** 
-- **Final Group Project (35%)**
+- **Weekly Assignments (60%)**
+- **Group Project (40%)**
 
 This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any reasonable cases to make for deadline extensions, please reach out the course manager or post a private note on Piazza immediately. We would love to see you succeed, but can only help if you notify us in time.
 

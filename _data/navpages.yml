@@ -4,8 +4,8 @@
   name: Schedule
 - path: syllabus.md
   name: Syllabus
-- path: https://www.piazza.com/cornell/fall2020/info1998
-  name: Piazza
+- path: https://edstem.org/us/courses/4760/discussion/
+  name: Ed
   external: true
 - path: https://cmsx.cs.cornell.edu/
   name: CMS
