@@ -7,8 +7,8 @@ lectures:
       - title: "SLIDES"
         link: "resources/SP21/slides/Lecture_1_Slides.pdf"
     notes:
-      # - title: "VIDEO"
-        # link: "https://cornell.box.com/s/k638v6djf2jfdq3t1kb99geqme2q98jz"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/ln3wf8ozrg5morbpp1jjlfa3wqzc21lg"
     assignments:
       - title: "A1"
         link: "resources/SP21/assignments/release/lecture1_release.ipynb"
