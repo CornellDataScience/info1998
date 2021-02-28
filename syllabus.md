@@ -51,11 +51,14 @@ We will use CMS for assignment / project submissions and feedbacks.
 #### Weekly assignments
 One assignment will be assigned at the end of lecture each week, due at the beginning of the next lecture. You may <strong>skip up to one assignment</strong> throughout the semester.
 
-### Mid-Semester Group Project
-There will be one mid-semester project, focused on data cleaning, data manipulation, and data visualization.
+<!-- ### Mid-Semester Group Project
+There will be one mid-semester project, focused on data cleaning, data manipulation, and data visualization. -->
 
 ### Final Group Project
-The final group project is meant to be a culmination of all the knowledge and techniques you acquired thruoghout the semester. This is your chance to showcase how much you've learned.
+The final group project is meant to be a culmination of all the knowledge and 
+techniques you acquired during the semester. We will be working on it throughout 
+the course, with a mid-semester check in helping to keep you on track.
+This is your chance to showcase how much you've learned!
 
 #### Feedback and Grade Postings
 
