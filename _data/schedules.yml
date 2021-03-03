@@ -32,6 +32,8 @@ lectures:
        - title: "SLIDES"
          link: "resources/SP21/slides/lecture_2_slides.pdf"
     notes:
+        - title: "Demo"
+          link: "resources/SP21/demos/lecture_2_demo.ipynb"
     #   - title: "VIDEO"
     #     link: "https://cornell.box.com/s/r5lm9188je7m9x73a68mufilevrd8reb"
     #   - title: "NOTE 2: MANIP"
