@@ -193,8 +193,8 @@ lectures:
   #     - title: "Final Project"
   #       link: "resources/SP20/assignments/release/Final_Project.pdf"
   ############################ Final Project #######################################
-  - date: TBD
+  - date: 2021-05-04
     title: "Final Project Due"
     assignments:
-      # - title: "Final Project"
-      #   link: "resources/FA20/extra/Final_Project.pdf"
+       - title: "Final Project"
+         link: "resources/SP21/assignments/release/Project.pdf"
