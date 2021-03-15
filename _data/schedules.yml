@@ -49,18 +49,18 @@ lectures:
   - date: 2021-03-17
     title: "Lecture 3: Data Visualization"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA20/slides/Lecture_3.pdf"
+       - title: "SLIDES"
+         link: "resources/SP21/slides/lecture_3_slides.pdf"
     notes:
       # - title: "VIDEO"
       #   link: "https://cornell.box.com/s/w0mp4qg89gmzmdbjq6u8zxawima6wiuh"
     #   - title: "NOTE 3: VISUAL"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
-      # - title: "A3"
-      #   link: "resources/FA20/assignments/release/Lecture_3_Data_Visualization_Release.ipynb"
-      # - title: "A3 (Temps data)"
-      #   link: "resources/data/temps.csv"
+       - title: "A3"
+         link: "resources/SP21/assignments/release/lecture3_release.ipynb"
+       - title: "A3 (Temps data)"
+         link: "resources/data/temps.csv"
       # - title: "A3 (Canada data)"
       #   link: "resources/data/Canada_AL26335.zip"
       # - title: "A3 (solution)"
