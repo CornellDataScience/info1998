@@ -12,8 +12,8 @@ lectures:
     assignments:
       - title: "A1"
         link: "resources/SP21/assignments/release/lecture1_release.ipynb"
-      # - title: "A1 (solution)"
-      #   link: "resources/FA20/assignments/solutions/Lecture_1_Solution.ipynb"
+      - title: "A1 (solution)"
+        link: "resources/SP21/assignments/solutions/lecture1_Solution.ipynb"
   - date: 
     title: "Workshop: Python FA 2020"
     contents:
@@ -78,18 +78,18 @@ lectures:
   - date: 2021-03-24
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA20/slides/Lecture_4.pdf"
+      - title: "SLIDES"
+        link: "resources/SP21/slides/lecture_4_slides.pdf"
     notes:
       # - title: "VIDEO"
       #   link: "https://cornell.box.com/s/dahpohdyg65x39gmxlw4yan9v6plybtb"
     #   - title: "NOTE 4: FUND"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
-      # - title: "A4"
-      #   link: "resources/FA20/assignments/release/Lecture_4_Fundamentals_ML_Release.ipynb"
-      # - title: "A4 (data)"
-      #   link: "resources/data/lecture4data.csv"
+      - title: "A4"
+        link: "resources/SP21/assignments/release/Lecture4_Release.ipynb"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
       # - title: "A4 (solution)"
       #   link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"
   ######################################## Week 5 #########################################
