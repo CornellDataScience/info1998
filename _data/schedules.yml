@@ -52,6 +52,8 @@ lectures:
        - title: "SLIDES"
          link: "resources/SP21/slides/lecture_3_slides.pdf"
     notes:
+       - title: "Demo"
+          link: "resources/SP21/demos/lecture_3_demo.ipynb"
        - title: "VIDEO"
          link: "https://cornell.box.com/s/gzd1vmc6op7jcwiz6vy0wubruiz7euc7"
     #   - title: "NOTE 3: VISUAL"
