@@ -83,6 +83,8 @@ lectures:
       - title: "SLIDES"
         link: "resources/SP21/slides/lecture_4_slides.pdf"
     notes:
+      - title: "Demo"
+        link: "resources/SP21/demos/lecture_4_demo.ipynb"
       # - title: "VIDEO"
       #   link: "https://cornell.box.com/s/dahpohdyg65x39gmxlw4yan9v6plybtb"
     #   - title: "NOTE 4: FUND"
