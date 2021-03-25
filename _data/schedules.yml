@@ -91,7 +91,7 @@ lectures:
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
       - title: "A4"
-        link: "resources/SP21/assignments/release/Lecture4_Release.ipynb"
+        link: "resources/SP21/assignments/release/Lecture4_release.ipynb"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
       # - title: "A4 (solution)"
