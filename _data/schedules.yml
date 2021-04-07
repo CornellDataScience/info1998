@@ -130,8 +130,8 @@ lectures:
        - title: "SLIDES"
          link: "resources/SP21/slides/lecture_6_slides.pdf"
     notes:
-      # - title: "VIDEO"
-      #   link: "https://cornell.box.com/s/34d0hxfrickf0er5u96af3yc2vwtj6ej"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/b1wwns83ncv8ejctmkbtzwks92sgwhw0"
     #   - title: "NOTE 6: CLASS"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
