@@ -127,18 +127,18 @@ lectures:
   - date: 2021-04-07
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA20/slides/Lecture_6.pdf"
+       - title: "SLIDES"
+         link: "resources/SP21/slides/lecture_6_slides.pdf"
     notes:
       # - title: "VIDEO"
       #   link: "https://cornell.box.com/s/34d0hxfrickf0er5u96af3yc2vwtj6ej"
     #   - title: "NOTE 6: CLASS"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
-      # - title: "A6"
-      #   link: "resources/FA20/assignments/release/Lecture_6_Introduction_to_Classification_KNN_Release.ipynb"
-      # - title: "A6 (data)"
-      #   link: "resources/data/lecture6data.csv"
+       - title: "A6"
+         link: "resources/SP21/assignments/release/lecture6_release.ipynb"
+       - title: "A6 (data)"
+         link: "resources/data/lecture6data.csv"
   - date: 2021-04-10
     title: "Web Scraping Workshop"
   ######################################## Week 7 #########################################
