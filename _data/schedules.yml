@@ -141,6 +141,10 @@ lectures:
          link: "resources/data/lecture6data.csv"
   - date: 2021-04-10
     title: "Web Scraping Workshop"
+    notes:
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
+
   ######################################## Week 7 #########################################
   - date: 2021-04-14
     title: "Lecture 7: Supervised Learning Pt. I"
