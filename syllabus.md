@@ -73,7 +73,7 @@ There are three components to grading:
 - **Weekly Assignments (60%)**
 - **Group Project (40%)**
 
-This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any reasonable cases to make for deadline extensions, please reach out the course manager or post a private note on Piazza immediately. We would love to see you succeed, but can only help if you notify us in time.
+This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any reasonable cases to make for deadline extensions, please reach out the course manager or post a private note on ED immediately. We would love to see you succeed, but can only help if you notify us in time.
 
 
 

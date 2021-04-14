@@ -4,6 +4,8 @@
   name: Schedule
 - path: syllabus.md
   name: Syllabus
+- path: final_project.md
+  name: Final Project
 - path: https://edstem.org/us/courses/4760/discussion/
   name: Ed
   external: true
