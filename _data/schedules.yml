@@ -154,8 +154,8 @@ lectures:
     notes:
       #   - title: "NOTE 7: CLASS"
       #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
-      # - title: "VIDEO"
-      #   link: "https://cornell.app.box.com/file/741012562847?s=vm4wg85xz919fhxdwnwnboli4p1hyzux"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
     assignments:
        - title: "A7"
          link: "resources/SP21/assignments/release/lecture7_release.ipynb"
