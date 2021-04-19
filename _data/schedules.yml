@@ -65,8 +65,8 @@ lectures:
          link: "resources/data/temps.csv"
       # - title: "A3 (Canada data)"
       #   link: "resources/data/Canada_AL26335.zip"
-      # - title: "A3 (solution)"
-      #   link: "resources/FA20/assignments/solutions/Lecture_3_Data_Visualization_Solution.ipynb"
+       - title: "A3 (solution)"
+         link: "resources/SP21/assignments/solutions/lecture3_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
   # - date: 2020-10-17
     # title: "Workshop: Web Scraping"
