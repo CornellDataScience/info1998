@@ -165,18 +165,18 @@ lectures:
   - date: 2021-04-21
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA20/slides/Lecture_8.pdf"
+      - title: "SLIDES"
+        link: "resources/SP21/slides/lecture_8_slides.pdf"
     notes:
       #- title: "NOTE 8: CLASS"
       #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
       # - title: "VIDEO"
       #   link: "https://cornell.box.com/s/5y5t50zhv8w4y8j6mrmm57it857sdjn2"
     assignments:
-      # - title: "A8"
-      #   link: "resources/FA20/assignments/release/Lecture_8_Assignment_Release.ipynb"
-      # - title: "A8 (data)"
-      #   link: "resources/data/phone.csv"
+      - title: "A8"
+        link: "resources/SP21/assignments/release/lecture8_release.ipynb"
+      - title: "A8 (data)"
+        link: "resources/data/phone.csv"
   ######################################## Week 9 #########################################
   - date: 2021-04-28
     title: "Lecture 9: Unsupervised Learning"
