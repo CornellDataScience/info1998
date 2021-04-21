@@ -170,8 +170,8 @@ lectures:
     notes:
       #- title: "NOTE 8: CLASS"
       #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
-      # - title: "VIDEO"
-      #   link: "https://cornell.box.com/s/5y5t50zhv8w4y8j6mrmm57it857sdjn2"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/jl2g6p9tf36djutwgofp0g14wbrtwcrc"
     assignments:
       - title: "A8"
         link: "resources/SP21/assignments/release/lecture8_release.ipynb"
