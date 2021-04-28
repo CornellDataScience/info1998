@@ -94,8 +94,8 @@ lectures:
         link: "resources/SP21/assignments/release/Lecture4_release.ipynb"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
-      # - title: "A4 (solution)"
-      #   link: "resources/FA20/assignments/solutions/Lecture_4_Fundamentals_ML_Solution.ipynb"
+      - title: "A4 (solution)"
+        link: "resources/SP21/assignments/solutions/lecture4_solution.ipynb"
   ######################################## Week 5 #########################################
   - date: 2021-03-31
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
@@ -181,18 +181,18 @@ lectures:
   - date: 2021-04-28
     title: "Lecture 9: Unsupervised Learning"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA20/slides/Lecture_9.pdf"
+      - title: "SLIDES"
+        link: "resources/SP21/slides/lecture_9_slides.pdf"
     notes:
     #   - title: "LECTURE 9: UNSUP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
       #  - title: "VIDEO"
       #    link: "https://cornell.box.com/s/jr6l961geg6jxn49n4wytee8tizl7e7g"
     assignments:
-      # - title: "A9"
-      #   link: "resources/FA20/assignments/release/Lecture_9_Unsupervised_Release.ipynb"
-      # - title: "A9 (data)"
-      #   link: "resources/data/lecture9data.csv"
+      - title: "A9"
+        link: "resources/SP21/assignments/release/lecture9_release.ipynb"
+      - title: "A9 (data)"
+        link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
   - date: 2021-05-05
     title: "Lecture 10: Data Science and ML in the World"
