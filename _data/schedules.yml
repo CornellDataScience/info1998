@@ -116,8 +116,8 @@ lectures:
         link: "resources/data/lecture5dataA.csv"
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
-      # - title: "A5 (solution)"
-      #   link: "resources/FA20/assignments/solutions/Lecture_5__Assessing_Model_Accuracy_Solution.ipynb"
+      - title: "A5 (solution)"
+        link: "resources/SP21/assignments/solutions/lecture5_solution.ipynb"
   # - date: TBD
   #   title: "Mid Semester Project Check-In"
   #   assignments:
@@ -139,6 +139,8 @@ lectures:
          link: "resources/SP21/assignments/release/lecture6_release.ipynb"
        - title: "A6 (data)"
          link: "resources/data/lecture6data.csv"
+       - title: "A6 (solution)"
+         link: "resources/SP21/assignments/solutions/lecture6_solution.ipynb"
   - date: 2021-04-10
     title: "Web Scraping Workshop"
     notes:
@@ -187,7 +189,7 @@ lectures:
     #   - title: "LECTURE 9: UNSUP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
         - title: "VIDEO"
-          link: "https://cornell.box.com/s/f7qxcud84hnimny94sgg01qeesaz20sx"
+          link: "https://cornell.box.com/s/f7qxcud84hnimny94sgg01qeesaz20sxgit pull"
     assignments:
       - title: "A9"
         link: "resources/SP21/assignments/release/lecture9_release.ipynb"
