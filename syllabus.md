@@ -3,18 +3,18 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Spring 2021
+INFO 1998, Fall 2021
 
-Lecture time: Wed 4:30pm - 5:30pm EST
+Lecture time: TBD
 
-Lecture location: Hosted on Zoom starting Feburary 24
+Lecture location: TBD
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-Office hours will be held over Zoom. Office hour times can be found on the [course website's front page](https://cornelldatascience.github.io/info1998/). Clicking on a time takes you to the Zoom (Cornell authentication required).
+Office hours will be set up soon.
 
-If none of these office hours fit into your schedule, please email the course staff or post a private [Ed](https://edstem.org/us/courses/4760/discussion/) note, and we can set up additional office hours.
+If none of these office hours fit into your schedule, please email the course staff or post a private ED note, and we can set up additional office hours.
 
 ----------------------------------------------------------------------------------------
 ### Course description

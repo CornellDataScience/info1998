@@ -5,9 +5,9 @@ layout: main
 
 ### Due Dates
 
-Mid-semester Check-In: Before Lecture 7, **April 14th 2021**
+Mid-semester Check-In: **TBD**
 
-Final Submission: **May 5th 2021**
+Final Submission: **TBD**
 
 
 ---------------------------------------------------------------------------
