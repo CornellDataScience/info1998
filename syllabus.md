@@ -5,9 +5,9 @@ layout: main
 ### Lecture and section information
 INFO 1998, Fall 2021
 
-Lecture time: TBD
+Lecture time: Wednesdays 4:30-5:30pm
 
-Lecture location: TBD
+Lecture location: Thurston 203
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
