@@ -1,17 +1,19 @@
 title: "Fall 2021"
 lectures:
   ######################################## Week 1 #########################################
-  - date: 2021-2-24
+  - date: 2021-9-22
     title: "Lecture 1: Introduction"
     # contents:
     #   - title: "SLIDES"
     #     link: "resources/SP21/slides/Lecture_1_Slides.pdf"
     # notes:
-    #    - title: "VIDEO"
+    #    - title: "Spring 2021 Video"
     #      link: "https://cornell.box.com/s/ln3wf8ozrg5morbpp1jjlfa3wqzc21lg"
-    # assignments:
-    #   - title: "A1"
-    #     link: "resources/SP21/assignments/release/lecture1_release.ipynb"
+    assignments:
+      - title: "A1"
+        link: "resources/FA21/assignments/release/Lecture 1 - Introduction_Release.ipynb"
+      - title: "A1 (R)"
+        link: ""
     #   - title: "A1 (solution)"
     #     link: "resources/SP21/assignments/solutions/lecture1_Solution.ipynb"
   - date: 
@@ -26,7 +28,7 @@ lectures:
     #   - title: "Demo Preview"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
   ######################################## Week 2 #########################################
-  - date: 2021-03-03
+  - date: 2021-09-29
     title: "Lecture 2: Data Manipulation"
     # contents:
     #    - title: "SLIDES"
@@ -46,7 +48,7 @@ lectures:
     #    - title: "A2 (solution)"
     #      link: "resources/SP21/assignments/solutions/lecture2_solution.ipynb"
   ######################################## Week 3 #########################################
-  - date: 2021-03-17
+  - date: 2021-10-06
     title: "Lecture 3: Data Visualization"
     # contents:
     #    - title: "SLIDES"
@@ -77,7 +79,7 @@ lectures:
       # - title: "VIDEO"
       #   link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
   ######################################## Week 4 #########################################
-  - date: 2021-03-24
+  - date: 2021-10-13
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     # contents:
     #   - title: "SLIDES"
@@ -97,7 +99,7 @@ lectures:
     #   - title: "A4 (solution)"
     #     link: "resources/SP21/assignments/solutions/lecture4_solution.ipynb"
   ######################################## Week 5 #########################################
-  - date: 2021-03-31
+  - date: 2021-10-20
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     # contents:
     #   - title: "SLIDES"
@@ -124,7 +126,7 @@ lectures:
   #     # - title: "Mid-semester Project"
   #     #   link: "resources/FA20/extra/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
-  - date: 2021-04-07
+  - date: 2021-10-27
     title: "Lecture 6: Introduction to Classifiers"
     # contents:
     #    - title: "SLIDES"
@@ -141,14 +143,14 @@ lectures:
     #      link: "resources/data/lecture6data.csv"
     #    - title: "A6 (solution)"
     #      link: "resources/SP21/assignments/solutions/lecture6_solution.ipynb"
-  - date: 2021-04-10
+  - date: 
     title: "Web Scraping Workshop"
     notes:
        - title: "VIDEO"
          link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
 
   ######################################## Week 7 #########################################
-  - date: 2021-04-14
+  - date: 2021-11-03
     title: "Lecture 7: Supervised Learning Pt. I"
     # contents:
     #    - title: "SLIDES"
@@ -164,7 +166,7 @@ lectures:
     #    - title: "A7 (data)"
         #  link: "resources/data/lecture7example.csv"
   ######################################## Week 8 #########################################
-  - date: 2021-04-21
+  - date: 2021-11-10
     title: "Lecture 8: Supervised Learning Pt. II"
     # contents:
     #   - title: "SLIDES"
@@ -180,7 +182,7 @@ lectures:
     #   - title: "A8 (data)"
     #     link: "resources/data/phone.csv"
   ######################################## Week 9 #########################################
-  - date: 2021-04-28
+  - date: 2021-11-17
     title: "Lecture 9: Unsupervised Learning"
     # contents:
     #   - title: "SLIDES"
@@ -196,7 +198,7 @@ lectures:
     #   - title: "A9 (data)"
     #     link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
-  - date: 2021-05-05
+  - date: 2021-12-01
     title: "Lecture 10: Data Science and ML in the World"
   #   contents:
   #     - title: "LECTURE 10: SLIDES"
@@ -207,7 +209,7 @@ lectures:
   #     - title: "Final Project"
   #       link: "resources/SP20/assignments/release/Final_Project.pdf"
   ############################ Final Project #######################################
-  - date: 2021-05-05
+  - date: 
     title: "Final Project Due"
     # assignments:
     #    - title: "Final Project"
