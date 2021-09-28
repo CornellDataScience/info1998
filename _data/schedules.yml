@@ -30,9 +30,9 @@ lectures:
   ######################################## Week 2 #########################################
   - date: 2021-09-29
     title: "Lecture 2: Data Manipulation"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP21/slides/lecture_2_slides.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA21/slides/Lecture_2.pdf"
     # notes:
     #     - title: "Demo"
     #       link: "resources/SP21/demos/lecture_2_demo.ipynb"
@@ -40,13 +40,13 @@ lectures:
     #       link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
     #   - title: "NOTE 2: MANIP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
-    # assignments:
-    #    - title: "A2"
-    #      link: "resources/SP21/assignments/release/lecture2_release.ipynb"
-    #    - title: "A2 (data)"
-    #      link: "resources/data/lecture2data.csv"
-    #    - title: "A2 (solution)"
-    #      link: "resources/SP21/assignments/solutions/lecture2_solution.ipynb"
+    assignments:
+       - title: "A2"
+         link: "resources/FA21/assignments/release/Lecture 2 - Data Manipulation_Release.ipynb"
+       - title: "A2 (data)"
+         link: "resources/data/lecture2data.csv"
+      #  - title: "A2 (solution)"
+      #    link: "resources/SP21/assignments/solutions/lecture2_solution.ipynb"
   ######################################## Week 3 #########################################
   - date: 2021-10-06
     title: "Lecture 3: Data Visualization"
