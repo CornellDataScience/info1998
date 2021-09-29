@@ -33,9 +33,9 @@ lectures:
     contents:
        - title: "SLIDES"
          link: "resources/FA21/slides/Lecture_2.pdf"
-    # notes:
-    #     - title: "Demo"
-    #       link: "resources/SP21/demos/lecture_2_demo.ipynb"
+    notes:
+        - title: "Demo"
+          link: "resources/FA21/demos/lec2demo.ipynb"
     #     - title: "VIDEO"
     #       link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
     #   - title: "NOTE 2: MANIP"
