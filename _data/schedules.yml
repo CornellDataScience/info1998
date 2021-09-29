@@ -43,6 +43,8 @@ lectures:
     assignments:
        - title: "A2"
          link: "resources/FA21/assignments/release/Lecture 2 - Data Manipulation_Release.ipynb"
+       - title: "A2 (R)"
+         link: "resources/FA21/assignments/releaseR/a2_release.Rmd"
        - title: "A2 (data)"
          link: "resources/data/lecture2data.csv"
       #  - title: "A2 (solution)"
