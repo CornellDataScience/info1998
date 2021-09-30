@@ -36,8 +36,8 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/FA21/demos/lec2demo.ipynb"
-    #     - title: "VIDEO"
-    #       link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
+        - title: "VIDEO"
+          link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
     #   - title: "NOTE 2: MANIP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     assignments:
