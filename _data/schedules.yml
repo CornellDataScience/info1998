@@ -55,9 +55,10 @@ lectures:
     contents:
        - title: "SLIDES"
          link: "resources/FA21/slides/lec3.pdf"
-    # notes:
-    #    - title: "Demo"
-    #      link: "resources/SP21/demos/lecture_3_demo.ipynb"
+    notes:
+       - title: "Demo"
+         link: "resources/FA21/demos/lec3_demo.ipynb"
+
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/gzd1vmc6op7jcwiz6vy0wubruiz7euc7"
     #   - title: "NOTE 3: VISUAL"
