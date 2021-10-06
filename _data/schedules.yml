@@ -52,9 +52,9 @@ lectures:
   ######################################## Week 3 #########################################
   - date: 2021-10-06
     title: "Lecture 3: Data Visualization"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP21/slides/lecture_3_slides.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA21/slides/lec3.pdf"
     # notes:
     #    - title: "Demo"
     #      link: "resources/SP21/demos/lecture_3_demo.ipynb"
@@ -62,15 +62,18 @@ lectures:
     #      link: "https://cornell.box.com/s/gzd1vmc6op7jcwiz6vy0wubruiz7euc7"
     #   - title: "NOTE 3: VISUAL"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
-    # assignments:
-    #    - title: "A3"
-    #      link: "resources/SP21/assignments/release/lecture3_release.ipynb"
-    #    - title: "A3 (Temps data)"
-    #      link: "resources/data/temps.csv"
-    #   # - title: "A3 (Canada data)"
-    #   #   link: "resources/data/Canada_AL26335.zip"
-    #    - title: "A3 (solution)"
-    #      link: "resources/SP21/assignments/solutions/lecture3_solution.ipynb"
+    assignments:
+       - title: "A3"
+         link: "resources/FA21/assignments/release/lec3_release.ipynb"
+       - title: "A3 (R)"
+         link: "resources/FA21/assignments/releaseR/a3_release.Rmd"
+       - title: "A3 (Temps data)"
+         link: "resources/data/temps.csv"
+
+      # - title: "A3 (Canada data)"
+      #   link: "resources/data/Canada_AL26335.zip"
+      #  - title: "A3 (solution)"
+      #    link: "resources/SP21/assignments/solutions/lecture3_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
   # - date: 2020-10-17
     # title: "Workshop: Web Scraping"
