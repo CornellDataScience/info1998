@@ -16,6 +16,8 @@ lectures:
         link: "resources/FA21/assignments/releaseR/a1_release.Rmd"
       - title: "A1 (solution)"
         link: "resources/FA21/assignments/solutions/Lecture 1 - Introduction_Solution.ipynb"
+      - title: "A1 (R solution)"
+        link: "resources/FA21/assignments/solutionsR/a1_solution.Rmd"
   - date: 
     title: "Workshop: Python FA 2020"
     contents:
