@@ -99,6 +99,11 @@ for(val in newSeq){
 
 ### Example 1: Put all the multiples of 15 from 1 to 1000 in a vector (save it as a variable named multiples_15)
 ```{r}
+multiples_15 = seq(from=15, to =1000, by =15)
+multiples_15
+```
+
+```{r}
 multiples_15 = c()
 for(i in  1:1000){ #inclusive on both bounds
   if(i%%15==0){
@@ -172,8 +177,19 @@ rand
 ## Example 2: Create a 20x10 matrix where each row is a random integer array with a minimum of 1, max of 9 (inclusive). Then for each row, sum all the values and add the sum to a vector of values called 'random_sums'
 
 ```{r}
+rand = sample(1:9,200,replace=T)
+mat = matrix(c(rand),20,10,byrow=T)
+
+random_sums = c()
+for (i in 1:nrow(mat)){
+  random_sums = append(random_sums,sum(mat[i,]))
+}
+random_sums
+```
+
+```{r}
 mat = matrix(c(sample(0:9,200,replace=TRUE)),20,10)
-mat
+#mat
 random_sums = c()
 for (row in 1:nrow(mat)){
   random_sums = append(random_sums, sum(mat[row,]))

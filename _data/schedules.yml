@@ -38,7 +38,7 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/FA21/demos/lec2demo.ipynb"
-        - title: "VIDEO"
+        - title: "Spring 2021 VIDEO"
           link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
     #   - title: "NOTE 2: MANIP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
@@ -61,8 +61,8 @@ lectures:
        - title: "Demo"
          link: "resources/FA21/demos/lec3_demo.ipynb"
 
-    #    - title: "VIDEO"
-    #      link: "https://cornell.box.com/s/gzd1vmc6op7jcwiz6vy0wubruiz7euc7"
+       - title: "Spring 2021 VIDEO"
+         link: "https://cornell.box.com/s/gzd1vmc6op7jcwiz6vy0wubruiz7euc7"
     #   - title: "NOTE 3: VISUAL"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
