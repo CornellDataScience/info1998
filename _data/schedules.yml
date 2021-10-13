@@ -102,6 +102,8 @@ lectures:
     assignments:
       - title: "A4"
         link: "resources/FA21/assignments/release/Lecture_4_Fundamentals_ML_Release.ipynb"
+      - title: "A4 (R)"
+        link: "resources/FA21/assignments/releaseR/a4_release.Rmd"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
     #   - title: "A4 (solution)"
