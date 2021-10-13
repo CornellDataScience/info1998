@@ -89,21 +89,21 @@ lectures:
   ######################################## Week 4 #########################################
   - date: 2021-10-13
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
-    # contents:
-    #   - title: "SLIDES"
-    #     link: "resources/SP21/slides/lecture_4_slides.pdf"
-    # notes:
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA21/slides/lec4.pdf"
+    notes:
     #   - title: "Demo"
     #     link: "resources/SP21/demos/lecture_4_demo.ipynb"
     #   - title: "VIDEO"
     #     link: "https://cornell.box.com/s/k44y4y1rjfglxwu1nmt40n67yzimqn7n"
     #   - title: "NOTE 4: FUND"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
-    # assignments:
-    #   - title: "A4"
-    #     link: "resources/SP21/assignments/release/Lecture4_release.ipynb"
-    #   - title: "A4 (data)"
-    #     link: "resources/data/lecture4data.csv"
+    assignments:
+      - title: "A4"
+        link: "resources/FA21/assignments/release/Lecture_4_Fundamentals_ML_Release.ipynb"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
     #   - title: "A4 (solution)"
     #     link: "resources/SP21/assignments/solutions/lecture4_solution.ipynb"
   ######################################## Week 5 #########################################
