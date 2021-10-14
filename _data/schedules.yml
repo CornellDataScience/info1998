@@ -93,8 +93,8 @@ lectures:
       - title: "SLIDES"
         link: "resources/FA21/slides/lec4.pdf"
     notes:
-    #   - title: "Demo"
-    #     link: "resources/SP21/demos/lecture_4_demo.ipynb"
+      - title: "Demo"
+        link: "resources/FA21/demos/lec4_demo.ipynb"
       - title: "Spring 2021 Video"
         link: "https://cornell.box.com/s/k44y4y1rjfglxwu1nmt40n67yzimqn7n"
     #   - title: "NOTE 4: FUND"
