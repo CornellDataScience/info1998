@@ -77,15 +77,6 @@ lectures:
       #   link: "resources/data/Canada_AL26335.zip"
       #  - title: "A3 (solution)"
       #    link: "resources/SP21/assignments/solutions/lecture3_solution.ipynb"
-  ######################################## Web Scraping Workshop #########################################
-  # - date: 2020-10-17
-    # title: "Workshop: Web Scraping"
-    # contents:
-      # - title: "Web Scraping Demo"
-      #   link: "resources/FA20/extra/WebScraping_Workshop_Release.ipynb"
-    # notes:
-      # - title: "VIDEO"
-      #   link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
   ######################################## Week 4 #########################################
   - date: 2021-10-13
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
@@ -108,6 +99,15 @@ lectures:
         link: "resources/data/lecture4data.csv"
     #   - title: "A4 (solution)"
     #     link: "resources/SP21/assignments/solutions/lecture4_solution.ipynb"
+  ######################################## Web Scraping Workshop #########################################
+  - date: 2021-10-16
+    title: "Workshop: Web Scraping"
+    contents:
+      - title: "Web Scraping Notebook"
+        link: "resources/FA21/extras/WebScraping_Workshop.ipynb"
+    # notes:
+    #   - title: "VIDEO"
+    #     link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
   ######################################## Week 5 #########################################
   - date: 2021-10-20
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
