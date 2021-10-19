@@ -51,6 +51,8 @@ lectures:
          link: "resources/data/lecture2data.csv"
        - title: "A2 (solution)"
          link: "resources/FA21/assignments/solutions/Lecture 2 - Data Manipulation_Solution.ipynb"
+       - title: "A2 (R solution)"
+         link: "resources/FA21/assignments/solutionsR/a2_solution.Rmd"
   ######################################## Week 3 #########################################
   - date: 2021-10-06
     title: "Lecture 3: Data Visualization"
