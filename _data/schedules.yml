@@ -113,9 +113,9 @@ lectures:
   ######################################## Week 5 #########################################
   - date: 2021-10-20
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
-    # contents:
-    #   - title: "SLIDES"
-    #     link: "resources/SP21/slides/lecture_5_slides.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA21/slides/lec5.pdf"
     # notes:
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/qsztngzuv6dgtzqlks6bjndluzjv02ef"
@@ -124,16 +124,16 @@ lectures:
     #   - title: "EXTRA: Validation Set Pitfalls"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
     assignments:
-    #   - title: "A5"
-    #     link: "resources/SP21/assignments/release/Lecture5_release.ipynb"
-        - title: "A5 (R)"
-          link: "resources/FA21/assignments/releaseR/a5_release.Rmd"
-    #   - title: "A5 (data 1)"
-    #     link: "resources/data/lecture5dataA.csv"
-    #   - title: "A5 (data 2)"
-    #     link: "resources/data/lecture5dataB.csv"
-    #   - title: "A5 (solution)"
-    #     link: "resources/SP21/assignments/solutions/lecture5_solution.ipynb"
+      - title: "A5"
+        link: "resources/FA21/assignments/release/Lecture_5__Assessing_Model_Accuracy_Release.ipynb"
+      - title: "A5 (R)"
+        link: "resources/FA21/assignments/releaseR/a5_release.Rmd"
+      - title: "A5 (data 1)"
+        link: "resources/data/lecture5dataA.csv"
+      - title: "A5 (data 2)"
+        link: "resources/data/lecture5dataB.csv"
+      # - title: "A5 (solution)"
+      #   link: "resources/SP21/assignments/solutions/lecture5_solution.ipynb"
   # - date: TBD
   #   title: "Mid Semester Project Check-In"
   #   assignments:
