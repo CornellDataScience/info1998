@@ -5,9 +5,9 @@ layout: main
 
 ### Due Dates
 
-Mid-semester Check-In: **TBD**
+Mid-semester Check-In: **Starting 10/27, Must be Completed by 11/10, Lecture 8**
 
-Final Submission: **TBD**
+Final Submission: **12/1**
 
 
 ---------------------------------------------------------------------------
@@ -38,9 +38,9 @@ Some good resources to explore are [Kaggle](https://www.kaggle.com/datasets), [D
 
 > **Week 4:** Continue to clean and visualize your data and preform any necessary feature engineering. Finalize your hypothesis and question. 
 
-> **Week 5:** Create some visualizations. Complete the midsemester check-in anytime between now and before lecture 7.
+> **Week 5:** Create some visualizations. 
 
-> **Week 6:** Begin to think about which models you may want to use. Be sure to consider if your problem is a regression problem or a classification problem. 
+> **Week 6:** Begin to think about which models you may want to use. Be sure to consider if your problem is a regression problem or a classification problem. Complete the midsemester check-in anytime between now and before lecture 8.
 
 > **Week 7:** Continue with model construction. Consider if you should be using cross validation in your project. 
 
