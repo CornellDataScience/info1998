@@ -116,9 +116,9 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/FA21/slides/lec5.pdf"
-    # notes:
-    #    - title: "VIDEO"
-    #      link: "https://cornell.box.com/s/qsztngzuv6dgtzqlks6bjndluzjv02ef"
+    notes:
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/qsztngzuv6dgtzqlks6bjndluzjv02ef"
     #   - title: "NOTE 5: TUNING"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     #   - title: "EXTRA: Validation Set Pitfalls"
@@ -157,11 +157,11 @@ lectures:
     #      link: "resources/data/lecture6data.csv"
     #    - title: "A6 (solution)"
     #      link: "resources/SP21/assignments/solutions/lecture6_solution.ipynb"
-  - date: 
-    title: "Web Scraping Workshop"
-    notes:
-       - title: "VIDEO"
-         link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
+  # - date: 
+  #   title: "Web Scraping Workshop"
+  #   notes:
+  #      - title: "VIDEO"
+  #        link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
 
   ######################################## Week 7 #########################################
   - date: 2021-11-03
