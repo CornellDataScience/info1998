@@ -77,8 +77,10 @@ lectures:
 
       # - title: "A3 (Canada data)"
       #   link: "resources/data/Canada_AL26335.zip"
-      #  - title: "A3 (solution)"
-      #    link: "resources/SP21/assignments/solutions/lecture3_solution.ipynb"
+       - title: "A3 (solution)"
+         link: "resources/FA21/assignments/solutions/lec3_solution.ipynb"
+       - title: "A3 (R solution)"
+         link: "resources/FA21/assignments/solutionsR/a3_solution.Rmd"
   ######################################## Week 4 #########################################
   - date: 2021-10-13
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
@@ -117,7 +119,7 @@ lectures:
       - title: "SLIDES"
         link: "resources/FA21/slides/lec5.pdf"
     notes:
-       - title: "VIDEO"
+       - title: "Spring 2021 VIDEO"
          link: "https://cornell.box.com/s/qsztngzuv6dgtzqlks6bjndluzjv02ef"
     #   - title: "NOTE 5: TUNING"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
