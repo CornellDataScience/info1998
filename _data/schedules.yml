@@ -38,7 +38,7 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/FA21/demos/lec2demo.ipynb"
-        - title: "Spring 2021 VIDEO"
+        - title: "Spring 2021 Video"
           link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
     #   - title: "NOTE 2: MANIP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
@@ -63,7 +63,7 @@ lectures:
        - title: "Demo"
          link: "resources/FA21/demos/lec3_demo.ipynb"
 
-       - title: "Spring 2021 VIDEO"
+       - title: "Spring 2021 Video"
          link: "https://cornell.box.com/s/gzd1vmc6op7jcwiz6vy0wubruiz7euc7"
     #   - title: "NOTE 3: VISUAL"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
@@ -119,8 +119,11 @@ lectures:
       - title: "SLIDES"
         link: "resources/FA21/slides/lec5.pdf"
     notes:
-       - title: "Spring 2021 VIDEO"
+       - title: "Demo"
+         link: "resources/FA21/demos/Lecture5Demo.ipynb"
+       - title: "Spring 2021 Video"
          link: "https://cornell.box.com/s/qsztngzuv6dgtzqlks6bjndluzjv02ef"
+      
     #   - title: "NOTE 5: TUNING"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     #   - title: "EXTRA: Validation Set Pitfalls"
@@ -134,6 +137,7 @@ lectures:
         link: "resources/data/lecture5dataA.csv"
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
+      
       # - title: "A5 (solution)"
       #   link: "resources/SP21/assignments/solutions/lecture5_solution.ipynb"
   # - date: TBD
