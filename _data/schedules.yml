@@ -148,19 +148,21 @@ lectures:
   ######################################## Week 6 #########################################
   - date: 2021-10-27
     title: "Lecture 6: Introduction to Classifiers"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP21/slides/lecture_6_slides.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA21/slides/lec6.pdf"
     # notes:
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/b1wwns83ncv8ejctmkbtzwks92sgwhw0"
     #   - title: "NOTE 6: CLASS"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
-    # assignments:
-    #    - title: "A6"
-    #      link: "resources/SP21/assignments/release/lecture6_release.ipynb"
-    #    - title: "A6 (data)"
-    #      link: "resources/data/lecture6data.csv"
+    assignments:
+       - title: "A6"
+         link: "resources/FA21/assignments/release/Lecture6-IntroductiontoClassificationKNN_Release.ipynb"
+       - title: "A6 (R)"
+         link: "resources/FA21/assignments/releaseR/a6_release.Rmd"
+       - title: "A6 (data)"
+         link: "resources/data/lecture6data.csv"
     #    - title: "A6 (solution)"
     #      link: "resources/SP21/assignments/solutions/lecture6_solution.ipynb"
   # - date: 
