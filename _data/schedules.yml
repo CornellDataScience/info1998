@@ -101,8 +101,10 @@ lectures:
         link: "resources/FA21/assignments/releaseR/a4_release.Rmd"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
-    #   - title: "A4 (solution)"
-    #     link: "resources/SP21/assignments/solutions/lecture4_solution.ipynb"
+      - title: "A4 (solution)"
+        link: "resources/FA21/assignments/solutions/lec4_solution.ipynb"
+      - title: "A4 (R solution)"
+        link: "resources/FA21/assignments/solutionsR/a4_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
   - date: 2021-10-16
     title: "Workshop: Web Scraping"
@@ -154,8 +156,8 @@ lectures:
     notes:
        - title: "Demo"
          link: "resources/FA21/demos/lec6_demo.ipynb"
-      #  - title: "Spring 2021 Video"
-      #    link: "https://cornell.box.com/s/b1wwns83ncv8ejctmkbtzwks92sgwhw0"
+       - title: "Spring 2021 Video"
+         link: "https://cornell.box.com/s/b1wwns83ncv8ejctmkbtzwks92sgwhw0"
     #   - title: "NOTE 6: CLASS"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
