@@ -178,19 +178,21 @@ lectures:
   ######################################## Week 7 #########################################
   - date: 2021-11-03
     title: "Lecture 7: Supervised Learning Pt. I"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP21/slides/lecture_7_slides.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA21/slides/lec7.pdf"
     # notes:
       #   - title: "NOTE 7: CLASS"
       #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
-    # assignments:
-    #    - title: "A7"
-    #      link: "resources/SP21/assignments/release/lecture7_release.ipynb"
-    #    - title: "A7 (data)"
-        #  link: "resources/data/lecture7example.csv"
+    assignments:
+       - title: "A7"
+         link: "resources/FA21/assignments/release/lec7_release.ipynb"
+       - title: "A7 (R)"
+         link: "resources/FA21/assignments/releaseR/a7_release.Rmd"
+       - title: "A7 (data)"
+         link: "resources/data/lecture7example.csv"
   ######################################## Week 8 #########################################
   - date: 2021-11-10
     title: "Lecture 8: Supervised Learning Pt. II"
