@@ -140,8 +140,10 @@ lectures:
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
       
-      # - title: "A5 (solution)"
-      #   link: "resources/SP21/assignments/solutions/lecture5_solution.ipynb"
+      - title: "A5 (solution)"
+        link: "resources/FA21/assignments/solutions/Lecture_5__Assessing_Model_Accuracy_Solution.ipynb"
+      - title: "A5 (R solution)"
+        link: "resources/FA21/assignments/solutionsR/a5_solution.Rmd"
   # - date: TBD
   #   title: "Mid Semester Project Check-In"
   #   assignments:
@@ -182,9 +184,11 @@ lectures:
        - title: "SLIDES"
          link: "resources/FA21/slides/lec7.pdf"
     notes:
+       - title: "Demo"
+         link: "resources/FA21/demos/lec7_demo.ipynb"
       #   - title: "NOTE 7: CLASS"
       #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
-       - title: "VIDEO"
+       - title: "Spring 2021 Video"
          link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
     assignments:
        - title: "A7"

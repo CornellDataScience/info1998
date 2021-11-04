@@ -1,0 +1,267 @@
+# Assessing Model Accuracy
+
+
+## NETID: SOLUTION
+
+
+
+In this lesson, we look over different ways to evaluate whether machine learning models you have created successfully accomplish their intended objective.
+```{r}
+library(dplyr)
+#reading in our data
+weather = read.csv("lecture5dataA.csv")
+head(weather)
+```
+
+
+## Loss Functions and Accuracy
+
+In evaluating your models, it's important to remember that different models must be evaluated with the appropriate metric. Classification accuracy is not, for example, the same thing as the mean-squared error used in regression problems. Furthermore, a high score in either of those metrics does not prove a model is "good". 
+
+
+## Problem 1
+
+Edit the lines marked with TODO's below to do the following:
+1. Create two columns to `temperatures` to store Temperature and Apparent Temperature in Rankines. Rankines is a  weird unit of temperature. Temperature in Rankines is 9/5 * (temperature in Celsius) + 491.67.
+2. Train and predict two models: one for celsius and one for rankines
+3. Compare the results
+(HINT: the A4 notebook will probably be very helpful in answering this question)
+
+
+
+```{r}
+#Also don't change the variable names used throughout as we reference them later
+temperatures = select(weather, Temperature..C.,Apparent.Temperature..C.) 
+
+temperatures$TempRankines = 9/5 * temperatures$Temperature..C. + 491.67
+temperatures$ApparentTempRankines =  9/5 * temperatures$Apparent.Temperature..C. + 491.67
+```
+
+
+
+```{r}
+#Training and predicting two models
+# Target is temperature in Celsius, feature is apparent temperature in celcius. Similarly for Rankines
+# Make sure that the names of your data for the two models are different! Otherwise, one will overwrite the other
+# Then, fit the model.
+
+#TODO: split the data for each model
+trainC = sample(1:nrow(temperatures), 0.80*nrow(temperatures))
+train_dfC = temperatures[trainC,]
+test_dfC = temperatures[-trainC,]
+
+trainR = sample(1:nrow(temperatures), 0.80*nrow(temperatures))
+train_dfR = temperatures[trainR,]
+test_dfR = temperatures[-trainR,]
+
+#TODO: create both models
+
+model_c = lm(Temperature..C.~Apparent.Temperature..C., data = train_dfC)
+
+model_r = lm(TempRankines~ApparentTempRankines, data = train_dfR)
+
+
+#TODO: get the predictions and calculate a test mean squared error value for each model 
+predsC = predict(model_c,test_dfC)
+
+predsR = predict(model_r,test_dfR)
+
+
+test_errorC = test_dfC$Temperature..C. - predsC
+mse_celsius = mean(test_errorC^2)
+
+test_errorR = test_dfR$TempRankines - predsR  
+mse_rankines = mean(test_errorR^2)
+```
+
+The MSEs of the two models are very different. Let's plot the predictions of the two models and compare them.
+
+```{r}
+plotC = ggplot(test_dfC, aes(x=Apparent.Temperature..C., y=Temperature..C.)) + 
+    geom_point(color = "blue")+ xlab("Apparent Temperature (C)")+ylab("Temperature (C)")
+
+df2 = cbind(data.frame(test_dfC$Apparent.Temperature..C.), data.frame(predsC)) 
+colnames(df2) = c("aptC", "predsC")
+plotC + geom_line(aes(x=df2$aptC, y=df2$predsC), size = 2) 
+
+```
+
+```{r}
+plotR = ggplot(test_dfR, aes(x=ApparentTempRankines, y=TempRankines)) + 
+    geom_point(color = "blue")+ xlab("Apparent Temperature (R)")+ylab("Temperature (R)")
+
+df3 = cbind(data.frame(test_dfR$ApparentTempRankines), data.frame(predsR)) 
+colnames(df3) = c("aptR", "predsR")
+plotR + geom_line(aes(x=df3$aptR, y=df3$predsR), size = 2) 
+```
+
+
+The plots look the same! The only significant difference is the scale of the axes. That's why the MSE for Rankines is bigger: Rankines are generally greater than Celsius, and so their error is naturally bigger. To take care of this, we use a baseline.
+
+
+## Problem 2
+Follow the TODOs to calculate normalized scores for your Celcius and Rankines predictions. Then, calculate score = 1 - model_MSE / baseline_MSE. We will essentially be comparing our model to a model that just predicts the average every time. Ask TAs for help!
+You should use the same train/test split as before.
+
+```{r}
+# TODO define baseline predictions for Celsius as an array for which each entry is `mean(test goal Celsius)`
+test_goal_mean_c = mean(test_dfC$Temperature..C.)
+  
+baseline_c = rep(test_goal_mean_c, length(predsC))
+
+baseline_c_errors = baseline_c - test_dfC$Temperature..C.
+mse_baseline_c = mean(baseline_c_errors^2)
+
+score_C = 1 - (mse_celsius / mse_baseline_c)
+score_C
+```
+
+```{r}
+# TODO define baseline predictions for Rankines as an array for which each entry is `mean(test goal Celsius)`
+test_goal_mean_r = mean(test_dfR$TempRankines)
+  
+baseline_r = rep(test_goal_mean_r, length(predsR))
+
+baseline_r_errors = baseline_r - test_dfR$TempRankines
+mse_baseline_r = mean(baseline_r_errors^2)
+
+score_R = 1 - (mse_rankines / mse_baseline_r)
+score_R
+```
+
+```{r}
+print(paste("R's r^2 value for the Celsius Model", summary(model_c)$r.squared))
+print(paste("Your value for the Celsius Model", score_C))
+```
+
+```{r}
+print(paste("R's r^2 value for the Rankines Model", summary(model_r)$r.squared))
+print(paste("Your value for the Rankines Model", score_R))
+```
+
+## Bias and Variance
+
+To understand one of the most important concepts in machine learning evaluation, the bias-variance tradeoff, we must first establish what each term means. Simply put, *bias* is the tendency of to systematically over or under-estimate something. For example, if a seesaw has starts off at an incline, then we can say that it is already biased to one side regardless of the weight of the people using it. On the other hand, *variance* measures how far some metric is from a mean value. High variance corresponds to more spread out observations while low variance corresponds to data 
+
+points that are clumped closer together. 
+
+How do these terms work in machine learning models? One way to think about a model that is highly biased is to consider the worst case- where the model fails to learn anything at all. Then, the model is held to its pre-training parameters, and thus biased towards these results. In the case of variance, the opposite is true. Consider a model whose parameters yield a fairly accurate average result. If it exhibits high variance, then its predictions will vary more from that average result, meaning it is more sensitive to any noise in the data. 
+
+
+## Bias-Variance Tradeoff
+
+In the above example, we see the 'bias-variance tradeoff'. Simply put, the bias and variance of a model's predictions must be balanced as much as possible in order to find the best machine learning model for any task. As you may have guessed, high bias inherently means having low variance while high variance means having low bias- hence, the tradeoff. 
+
+
+## Overfitting and Underfitting
+
+Having a high bias means your model did not learn as much as it could have (*underfitting*), while having a high variance means the model was responsive to training data to the point that it does not generalize well (*overfitting*).
+
+```{r}
+deaths = read.csv('lecture5dataB.csv')
+```
+
+```{r}
+deaths = read.csv('lecture5dataB.csv') 
+deaths$Book.of.Death[is.na(deaths$Book.of.Death)] = 0
+deaths$Death.Year[is.na(deaths$Death.Year)] = mean(deaths$Death.Year)
+deaths$Death.Chapter[is.na(deaths$Death.Chapter)] = mean(deaths$Death.Chapter)
+deaths$Allegiances = gsub("House ", "", deaths$Allegiances)
+head(deaths)
+```
+
+```{r}
+library(rpart)
+train = sample(1:nrow(deaths), 0.80*nrow(deaths))
+train_df = deaths[train,]
+test_df = deaths[-train,]
+
+
+train_scores = c()
+test_scores = c()
+
+max_depths = seq(1,30,1)
+
+for (depth in max_depths) {
+  tree = rpart(Allegiances~Death.Year + Book.Intro.Chapter + Book.of.Death + Death.Chapter, data = train_df, method = "class",control = list(maxdepth = depth, cp = 0), minbucket = 1, minsplit = 2, maxdepth = depth)
+  
+  preds = predict(tree, test_df, type = "class")
+  test_res = table(preds,test_df$Allegiances)
+  accuracy_Test = sum(diag(test_res)) / sum(test_res)
+  test_scores = c(test_scores, accuracy_Test)
+  
+  preds2 = predict(tree, train_df, type = "class")
+  train_res = table(preds2,train_df$Allegiances)
+  accuracy_Train = sum(diag(train_res)) / sum(train_res)
+  train_scores = c(train_scores, accuracy_Train)
+}
+
+```
+
+```{r}
+#Plotting the results
+par(mfrow=c(1,3))
+plot(max_depths, train_scores, type = 'l', main = "Training - more complex = better")
+plot(max_depths, test_scores, type = 'l', main = "Testing - there's a sweet spot")
+plot(max_depths, train_scores-test_scores, type = 'l', main = "Generalization error")
+```
+
+## Problem 3 (Optional)
+### NOTE: there's a required Problem 4 at the bottom of the notebook. Don't skip it!
+### Part a
+Modify the loop above to programmatically find the best `max_depth` for a Decision Tree. Print out the training and testing score of just a model that uses that `max_depth`.
+
+
+### Part b
+Now, imagine if you get a `Lannister`'s allegiance wrong, there is a much harsher consequence. To be specific, for any Lannister, the penalty of not predicting that they're a Lannister is 5x the normal penalty. Adjust your scoring mechanism using this new metric (still produce a score normalized by baseline). 
+Note: we're dealing with classification here, not regression, so you'll need to use a classification loss function.
+
+
+### Part c
+Now, imagine that you care twice as much about people whose Death Year is greater than or equal to `300`. Adjust your scoring mechanism using this new metric (still produce a score normalized by baseline). 
+
+
+## Feature-Subset Selection Techniques 
+
+A dataset will usually have many features, many of which will not be useful at all. The key is to determine which are helpful in improving your model.
+
+## Problem 4
+
+Using what you have learned, create a correlation matrix of the data. Use it to decide the three best features to use in predicting Humidity and store those in a list named `three_correlated_features`. Then store the two best features to in a list named `two_correlated_features`. Compare the result of using `three_correlated_features` vs `two_correlated_features` to train a Linear Regression. (When we say compare the results, we mean compare print out the mean squared errors).
+
+Your results should show you an important lesson about feature selection- you don't always need to have all features to show almost the same results, and selecting a feature subset of lesser size may be more resource-efficient. 
+
+```{r}
+weather_numeric = weather[,sapply(weather, is.numeric)] #dropping categorical variables
+cor(weather_numeric)
+```
+
+```{r}
+#Split the data into train and test sets
+train = sample(1:nrow(weather_numeric), 0.80*nrow(weather_numeric))
+train_df = weather_numeric[train,]
+test_df = weather_numeric[-train,]
+
+#Three features model
+model3 = lm(Humidity ~ Temperature..C. + Apparent.Temperature..C. + Visibility..km., data = train_df)
+
+preds3 = predict(model3,test_df)
+
+test_error3 = test_df$Humidity - preds3
+mse3 = mean(test_error3^2)
+
+
+#Two features model
+model2 = lm(Humidity ~ Temperature..C. + Apparent.Temperature..C., data = train_df)
+
+preds2 = predict(model2,test_df)
+
+test_error2 = test_df$Humidity - preds2
+mse2 = mean(test_error2^2)
+
+
+print(paste("3 features model MSE: ", mse3))
+print(paste("2 features model MSE: ", mse2))
+
+```
+
