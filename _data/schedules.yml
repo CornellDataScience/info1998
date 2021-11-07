@@ -111,9 +111,9 @@ lectures:
     contents:
       - title: "Web Scraping Notebook"
         link: "resources/FA21/extras/WebScraping_Workshop.ipynb"
-    # notes:
-    #   - title: "VIDEO"
-    #     link: "https://cornell.box.com/s/my0um9x7l1qswnr14f33wt5zlqq4dy1x"
+    notes:
+      - title: "Spring 2021 Video"
+        link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 5 #########################################
   - date: 2021-10-20
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
