@@ -169,8 +169,8 @@ lectures:
          link: "resources/FA21/assignments/releaseR/a6_release.Rmd"
        - title: "A6 (data)"
          link: "resources/data/lecture6data.csv"
-    #    - title: "A6 (solution)"
-    #      link: "resources/SP21/assignments/solutions/lecture6_solution.ipynb"
+       - title: "A6 (solution)"
+         link: "resources/FA21/assignments/solutions/Lecture6-IntroductiontoClassificationKNN_Solution.ipynb"
   # - date: 
   #   title: "Web Scraping Workshop"
   #   notes:
