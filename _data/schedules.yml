@@ -210,8 +210,8 @@ lectures:
          link: "resources/FA21/demos/Social_Network_Ads.csv"
       #- title: "NOTE 8: CLASS"
       #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
-    #    - title: "VIDEO"
-    #      link: "https://cornell.box.com/s/jl2g6p9tf36djutwgofp0g14wbrtwcrc"
+       - title: "Spring 2021 Video"
+         link: "https://cornell.box.com/s/jl2g6p9tf36djutwgofp0g14wbrtwcrc"
     assignments:
       - title: "A8"
         link: "resources/FA21/assignments/release/lec8_release.ipynb"
@@ -226,8 +226,8 @@ lectures:
     # notes:
     #   - title: "LECTURE 9: UNSUP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
-    #     - title: "VIDEO"
-    #       link: "https://cornell.box.com/s/f7qxcud84hnimny94sgg01qeesaz20sx"
+        - title: "VIDEO"
+          link: "https://cornell.box.com/s/f7qxcud84hnimny94sgg01qeesaz20sx"
     assignments:
       - title: "A9"
         link: "resources/FA21/assignments/release/Lecture_9_Unsupervised_Release.ipynb"
