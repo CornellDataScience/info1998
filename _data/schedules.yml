@@ -171,6 +171,9 @@ lectures:
          link: "resources/data/lecture6data.csv"
        - title: "A6 (solution)"
          link: "resources/FA21/assignments/solutions/Lecture6-IntroductiontoClassificationKNN_Solution.ipynb"
+       - title: "A6 (R solution)"
+         link: "resources/FA21/assignments/solutionsR/a6_solution.Rmd"
+       
   # - date: 
   #   title: "Web Scraping Workshop"
   #   notes:
@@ -197,6 +200,10 @@ lectures:
          link: "resources/FA21/assignments/releaseR/a7_release.Rmd"
        - title: "A7 (data)"
          link: "resources/data/lecture7example.csv"
+       - title: "A7 (solution)"
+         link: "resources/FA21/assignments/solutions/lec7_solution.ipynb"
+       - title: "A7 (R solution)"
+         link: "resources/FA21/assignments/solutionsR/a7_solution.Rmd"
   ######################################## Week 8 #########################################
   - date: 2021-11-10
     title: "Lecture 8: Supervised Learning Pt. II"
