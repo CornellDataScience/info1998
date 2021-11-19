@@ -233,7 +233,8 @@ lectures:
     # notes:
     #   - title: "LECTURE 9: UNSUP"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
-      - title: "VIDEO"
+    notes:
+      - title: "Spring 2021 Video"
         link: "https://cornell.box.com/s/f7qxcud84hnimny94sgg01qeesaz20sx"
     assignments:
       - title: "A9"
