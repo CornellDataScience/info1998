@@ -246,9 +246,9 @@ lectures:
   ######################################## Week 10 #########################################
   - date: 2021-12-01
     title: "Lecture 10: Data Science and ML in the World"
-  #   contents:
-  #     - title: "LECTURE 10: SLIDES"
-  #       link: "resources/SP20/slides/Lecture_10.pdf"
+    contents:
+      - title: "LECTURE 10: SLIDES"
+        link: "resources/FA21/slides/lec10.pdf"
   # - date: TBD
   #   title: "Final Project Released"
   #   contents:
