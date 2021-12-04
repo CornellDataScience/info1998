@@ -224,6 +224,8 @@ lectures:
         link: "resources/FA21/assignments/release/lec8_release.ipynb"
       - title: "A8 (data)"
         link: "resources/data/phone.csv"
+      - title: "A8 (solution)"
+        link: "resources/FA21/assignments/solutions/lec8_solution.ipynb"
   ######################################## Week 9 #########################################
   - date: 2021-11-17
     title: "Lecture 9: Unsupervised Learning"
@@ -247,7 +249,7 @@ lectures:
   - date: 2021-12-01
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      - title: "LECTURE 10: SLIDES"
+      - title: "SLIDES"
         link: "resources/FA21/slides/lec10.pdf"
   # - date: TBD
   #   title: "Final Project Released"
