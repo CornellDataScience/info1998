@@ -3,11 +3,11 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Fall 2021
+INFO 1998, Spring 2022
 
-Lecture time: Wednesdays 4:30-5:30pm
+Lecture time: TBD
 
-Lecture location: Thurston 203
+Lecture location: TBD
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours

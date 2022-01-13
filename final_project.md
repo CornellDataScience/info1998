@@ -5,9 +5,9 @@ layout: main
 
 ### Due Dates
 
-Mid-semester Check-In: **Starting 10/27, Must be Completed by 11/10, Lecture 8**
+Mid-semester Check-In: **TBD**
 
-Final Submission: **12/1**
+Final Submission: **TBD**
 
 
 ---------------------------------------------------------------------------
