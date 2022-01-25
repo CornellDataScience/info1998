@@ -24,7 +24,7 @@ Next is `/_site` which you WILL NOT CHANGE ANYTHING IN. This folder just contain
 
 `/_css` contains our site’s css file. 
 
-`/resources` is where all of our lecture material lives. At the start of each semester create a new folder to hold the lectures… fix this once we restructure the folder to have notebooks we don’t have to change…
+`/resources` is where all of our lecture material lives. The archives folder here holds semester based folders we used before standardizing our notebooks. The assignments folders contains all the jupyter and rmarkdown notebooks. 
 
 `_config.yml` has some definitions for global variables and settings for the whole site. You shouldn’t have to change much (except the semester and year under description).
 

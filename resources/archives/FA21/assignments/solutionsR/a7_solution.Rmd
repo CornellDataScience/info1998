@@ -1,0 +1,282 @@
+
+# Applications of Supervised Learning
+
+## NETID: SOLUTION
+
+
+Last class we covered a popular machine learning model used for classification: K-Nearest Neighbors (KNN). In this lecture we are goint to cover two new kinds of models: Decision Trees and Logistic Regression. These models are useful in classification and each carry their own usefulness.
+
+## Decision Trees
+
+The decision tree algorithm can be used to do both classification as well as regression and has the advantage of not assuming a linear model. Decisions trees are usually easy to represent visually which makes it easy to understand how the model actually works.
+
+
+```{r, fig.width = 1.5}
+library(knitr)
+include_graphics("https://docs.microsoft.com/en-us/azure/machine-learning/studio/media/algorithm-choice/image5.png")
+```
+
+### Mathemtical Intuition
+The *hard* part is really to construct this tree from the data set. The heart of the CART algorithm lies in deciding how/where to split the data (choosing the right feature). The idea is to associate a **quantitative** measure the quality of a split because then we simply choose the best feature to split.
+
+A very common measure is the Shannon entropy:
+Given a discrete probability distribution $(p_1, p_2,...p_n)$. The shannon entropy $E(p_1, p_2,...p_n)$ is:
+$$-\sum_{i = 1}^n p_ilog_2(p_i)$$
+
+The goal of the algorithm is to take the necessary steps to minimize this entropy, by choosing the right features at every stage to accomplish this.
+
+
+### Breast Cancer Diagnosis
+The following dataset contains information about digitized images of a fine needle aspirate (FNA) of a breast mass. Each row in our dataset contains data for a patient. The 'diagnosis' column tells us the outcomne of whether or not a patient was diagnosis was benign (b) or malignant (m)|.
+
+```{r}
+df = read.csv('lecture7example.csv')
+df = subset(df, select = -c(X,id) ) #dropping unhelpful columns
+head(df)
+```
+
+
+Last week, we built a KNN classifier or this problem. In the code below we created a test-train split of our data and trained a KNN classifer. As we learned last class, we can calculate the accuracy, i.e. the ratio of correct prediction we make.
+
+```{r}
+library(class) #you might need to download this package if you haven't before
+train = sample(1:nrow(df), 0.80*nrow(df))
+train_df = df[train,-1]
+test_df = df[-train,-1]
+
+train_df_label = df[train,1]
+test_df_label = df[-train,1]
+
+classifier_knn = knn(train_df, test_df, cl=train_df_label, k = 10)
+
+confusion_matrix = table(test_df_label, classifier_knn)
+confusion_matrix
+```
+
+```{r}
+misclassification_error = mean(classifier_knn != test_df_label)
+accuracy = 1-misclassification_error
+accuracy
+```
+
+
+## Problem 1a)
+Our knn-classifier performed pretty well at predicting which cases are malignant and which are benign. Now we are going to see how a decision tree performs. In the next cell, train the decision tree classifier on our training data and calculate the training accuracy and testing accuracy.
+
+```{r}
+library(rpart)
+train = sample(1:nrow(df), 0.80*nrow(df))
+train_df = df[train,]
+test_df = df[-train,]
+
+tree = rpart(diagnosis~., data = train_df, method = "class", minbucket = 1, minsplit = 2, maxdepth = 10)
+  
+preds_train = predict(tree, train_df, type = "class")
+train_res = table(preds_train,train_df$diagnosis)
+accuracy_Train = sum(diag(train_res)) / sum(train_res)
+
+preds_test = predict(tree, test_df, type = "class")
+test_res = table(preds_test,test_df$diagnosis)
+accuracy_Test = sum(diag(test_res)) / sum(test_res)
+
+print(paste("Training accuracy: ",accuracy_Train))
+print(paste("Testing accuracy: ",accuracy_Test))
+
+```
+
+
+## Problem 1b)
+Interpret the accuracy values you found to with the DecisionTreeClassifier with max depth of 5. Please make sure to answer the following questions:
+1. How do these scores differ with the scores of the KNN classifier?
+2. Is the model underfitting or overfitiing our data?
+3. How do the scores change as we vary the max_depth of our tree?
+
+
+Fill in answer here: 
+1. The Training Accuracy is higher than the KNN classifier but the test accuracy is roughly the same.
+2. The model is slightly overfitting the data since the training accuracy is 5% points higher than the test accuracy.
+3. The training scores increase with higher depth but the testing scores decrease with higher max_depth of the tree.
+
+
+## Logistic Regression
+
+Logistic regression, like linear regression, is a generalized linear model. However, the final output of a logistic regression model is not continuous; it's binary (0 or 1). The following sections will explain how this works.
+
+### What is conditional probability?
+
+Conditional probability is the probability that an event (A) will occur given that some condition (B) is true. For example, say you want to find the probability that a student will take the bus as opposed to walking to class today (A) given that it's snowing heavily outside (B). The probability that the student will take the bus when it's snowing is likely higher than the probability that s/he would take the bus on some other day. 
+
+### An Overview
+The goal of logistic regression is to take a set of datapoints and classify them. This means that we expect to have discrete outputs representing a set of classes. In simple logistic regression, this must be a binary set: our classes must be one of only two possible values. Here are some things that are sometimes modeled as binary classes:
+
+- Sick or Not Sick 
+- Rainy or Dry
+- Democrat or Republican 
+
+The objective is to find an equation that is able to take input data and classify it into one of the two classes. Luckily, the logistic equation is for just such a task. 
+
+The *logistic equation* is the basis of the logistic regression model. It looks like this:
+
+$$
+\sigma(t) = \frac{e^t}{1+e^t} = \frac{1}{1+e^{-t}}
+$$
+
+The t in the equation is some linear combination of n variables, or a linear function in an n-dimensional feature space. The formulation of t therefore has the form ax+b. In fitting a logistic regression model, the goal is therefore to minimize error in the logistic equation with the chosen t (of the form ax+b)  by tuning a and b. 
+
+
+The logistic equation (also known as the sigmoid function) works as follows:
+1. Takes an input of n variables
+2. Takes a linear combination of the variables as parameter t (this is another way of saying t has the form ax+b)
+3. Outputs a value given the input and parameter t
+
+The output of the logistic equation is always between 0 and 1. 
+
+A visualization of the outputs of the logistic equation is as below (note that this is but one possible output of a logit regression model):
+```{r, fig.width = 1.5}
+library(knitr)
+include_graphics("https://upload.wikimedia.org/wikipedia/commons/8/88/Logistic-curve.svg")
+```
+
+## Income Prediction
+
+We'll use logistic regression to predict whether annual income is greater than $50k based on census data. You can read more about the dataset here: https://www.kaggle.com/uciml/adult-census-income
+
+
+```{r}
+df = read.csv('https://archive.ics.uci.edu/ml/machine-learning-databases/adult/adult.data', header = FALSE, col.names = c('age', 'workclass', 'fnlwgt', 'education', 'education.num', 'marital.status', 'occupation', 'relationship', 'race', 'sex', 'capital.gain', 'capital.loss', 'hours.per.week', 'native.country', 'income'))
+df = subset(df, select = -c(education) ) #dropping duplicated education column
+head(df)
+```
+
+### Problem 2a: 
+Our goal is to predict whether a person's income is less than <=50K  or >50K. Right now the data in the income column is stored as a string, but we want to look at it as binary data. Convert the data in that column so that an income value of <=50K would be a 0, and an income value of >50K would be a 1.
+
+You can either convert the column to a factor or iterate over the dataframe and use an if/else statement with " <=50K" and " >50K" (notice the spaces). If you convert it to a factor, be careful with how you assess accuracy in part b (again, notice the spaces...).
+```{r}
+set.seed(42)
+```
+
+```{r}
+#factor method
+df$income = as.factor(df$income)
+head(df)
+```
+
+```{r}
+#for loop method
+df$income_dummy = 0
+for (i in 1:nrow(df)){
+  df[i,'income_dummy'] = ifelse(df[i,'income'] == " >50K", 1, 0)
+}
+head(df, 10)
+```
+
+### Problem 2b:
+
+Build a logistic regression model predicting income based on other income related factors (e.g. Education). You should split the dataset into a training set and a test set as covered previously in the course, fit the model on the observations in the training set, and predict the target variable for the test set. Save your predictions in a variable named "predictions".
+
+```{r}
+set.seed(42)
+#factor method
+train = sample(1:nrow(df), 0.80*nrow(df))
+train_df = df[train,]
+test_df = df[-train,]
+
+logistic_regression = glm(income ~ education.num, data = train_df, family = "binomial")
+
+preds_train = predict(logistic_regression, train_df, type = "response")
+predicted_classes = ifelse(preds_train > 0.5, " >50K", " <=50K")
+mean(predicted_classes == train_df$income)
+
+preds_test = predict(logistic_regression, test_df, type = "response")
+predicted_classes_test = ifelse(preds_test > 0.5, " >50K", " <=50K")
+mean(predicted_classes_test == test_df$income)
+```
+
+```{r}
+set.seed(42)
+#for loop method
+train = sample(1:nrow(df), 0.80*nrow(df))
+train_df = df[train,]
+test_df = df[-train,]
+
+logistic_regression = glm(income ~ education.num, data = train_df, family = "binomial")
+
+preds_train = predict(logistic_regression, train_df, type = "response")
+predicted_classes = ifelse(preds_train > 0.5, 1, 0)
+mean(predicted_classes == train_df$income_dummy)
+
+preds_test = predict(logistic_regression, test_df, type = "response")
+predicted_classes_test = ifelse(preds_test > 0.5, 1, 0)
+mean(predicted_classes_test == test_df$income_dummy)
+```
+
+
+### Problem 2c:
+Let's see how a decision tree classifier performs with different max_depth values. Complete the following code so we find the max_depth that gives us the best test accuracy.
+
+
+```{r}
+accuracies = c()
+best_depth = 0
+best_accuracy = 0
+
+for (i in 1:30){
+  tree = rpart(income ~ education.num, data = train_df, method = "class", minbucket = 1, minsplit = 2, maxdepth = i)
+  
+  preds_test = predict(tree, test_df, type = "class")
+  test_res = table(preds_test,test_df$income)
+  accuracy_Test = sum(diag(test_res)) / sum(test_res)
+  
+  if(accuracy_Test > best_accuracy){
+    best_accuracy = accuracy_Test 
+    best_depth = i
+  }
+  
+}
+
+best_depth
+best_accuracy
+```
+
+
+### Problem 2d:
+Using the most accurate model found in part (c), estimate the test ERROR (not accuracy) of your model by using 5-fold cross validation. 
+
+
+```{r}
+library(caret)
+
+errors = c()
+
+folds = createFolds(df$income, 5)
+
+for(fold in folds){
+  #fold1 = folds$Fold1
+  train_df = df[fold,]
+  test_df = df[fold,]
+  tree = rpart(income ~ education.num, data = train_df, method = "class", minbucket = 1, minsplit = 2, maxdepth = i)
+  
+  preds_test = predict(tree, test_df, type = "class")
+  test_res = table(preds_test,test_df$income)
+  accuracy_Test = sum(diag(test_res)) / sum(test_res)
+  errors = c(errors,accuracy_Test)
+}
+
+avg_er = mean(errors)
+print(1-avg_er)
+```
+
+### Problem 3 (Optional Advanced Problem)
+Random Forests are essentially many decision trees combined. The training algorithm for random forests applies the general technique of bootstrap aggregating, or bagging, to tree learners. Given a training set X = x1, ..., xn with responses Y = y1, ..., yn, bagging repeatedly (B times) selects a random sample with replacement of the training set and fits trees to these samples:
+
+For b = 1, ..., B:
+    Sample, with replacement, n training examples from X, Y; call these Xb, Yb.
+    Train a classification or regression tree fb on Xb, Yb.
+After training, predictions for unseen samples x' can be made by averaging the predictions from all the individual regression trees on x':
+
+Implement a Random forest classifier by creating and training 20 decision trees with max_depth 5. Let the predictions be chosen through majority voting on the total training data. Does your model perform better than using a single decision tree?
+
+#### Note: the sampling with "replacement" is important  
+
+
