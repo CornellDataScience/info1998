@@ -5,7 +5,7 @@ layout: main
 ### Lecture and section information
 INFO 1998, Spring 2022
 
-Lecture time: TBD
+Lecture time: Wednesdays 5:30-6:30PM
 
 Lecture location: TBD
 
@@ -82,7 +82,7 @@ This is a student-run course, so we understand how stressful classes can get. Ab
 
 #### Attendance
 
-Attendance is not required. However, we highly encourage you to attend lecture if you can. We discuss the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments. For people who cannot attend lectures, we will post lecture recording under the "Schedule" section.
+Attendance is not required. However, we highly encourage you to attend lecture if you can. We discuss code relevant to the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments. For people who cannot attend lectures, we will post lecture recordings from Spring 2021 under the "Schedule" section.
 
 #### Academic Integrity
 
