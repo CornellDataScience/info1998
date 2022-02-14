@@ -8,7 +8,7 @@ mainpage: true
 ----------------------------------------------------------------------------------------
 INFO 1998 is a ten week, one credit, S/U only course. 
 
-#### Enrollment pins will be sent out after the first lecture!! Check back for lecture time and location. Any questions in the meantime can be directed to the course manager listed above. To be added to our mailing list for Spring 2022, please fill out this [form](https://forms.gle/95jrtcdCpJfmUbBw5).
+#### Enrollment pins will be sent out after the first lecture!! Any questions can be directed to the course manager listed above. To be added to our mailing list for Spring 2022, please fill out this [form](https://forms.gle/95jrtcdCpJfmUbBw5).
 
 The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models. From the basics of getting your Jupyter environment setup, to manipulating and visualizing data, to building supervised and unsupervised models, this class aims to give you the base intuition and skillset to continue developing and working on ML projects. We hope you exit the course with an understanding of how models and optimization techniques work, as well as have the confidence and tools to solve future problems on your own.
 

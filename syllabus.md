@@ -7,14 +7,14 @@ INFO 1998, Spring 2022
 
 Lecture time: Wednesdays 5:30-6:30PM
 
-Lecture location: TBD
+Lecture location: Gates G01
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
 
-Office hours will be set up soon.
+Office hours are listed on the home page.
 
-If none of these office hours fit into your schedule, please email the course staff or post a private ED note, and we can set up additional office hours.
+If none of these office hours fit into your schedule, please book with the TAs that are by appointment.
 
 ----------------------------------------------------------------------------------------
 ### Course description
