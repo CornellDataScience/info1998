@@ -3,17 +3,17 @@ lectures:
   ######################################## Week 1 #########################################
   - date: 2/16/2021
     title: "Lecture 1: Introduction"
-    # contents:
-    #   - title: "SLIDES"
-    #     link: "resources/FA21/slides/Lecture_1.pdf"
-    # notes:
+    contents:
+      - title: "SLIDES"
+        link: "resources/SP22_slides/lec1.pdf"
+    notes:
     #    - title: "Spring 2021 Video"
     #      link: "https://cornell.box.com/s/ln3wf8ozrg5morbpp1jjlfa3wqzc21lg"
-    # assignments:
-    #   - title: "A1"
-    #     link: "resources/FA21/assignments/release/Lecture 1 - Introduction_Release.ipynb"
-    #   - title: "A1 (R)"
-    #     link: "resources/FA21/assignments/releaseR/a1_release.Rmd"
+    assignments:
+      - title: "A1"
+        link: "resources/assignments/release/lec1_release.ipynb"
+      - title: "A1 (R)"
+        link: "resources/assignments/release/a1_release.Rmd"
     #   - title: "A1 (solution)"
     #     link: "resources/FA21/assignments/solutions/Lecture 1 - Introduction_Solution.ipynb"
     #   - title: "A1 (R solution)"
