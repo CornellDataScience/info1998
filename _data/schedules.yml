@@ -7,8 +7,8 @@ lectures:
       - title: "SLIDES"
         link: "resources/SP22_slides/lec1.pdf"
     notes:
-    #    - title: "Spring 2021 Video"
-    #      link: "https://cornell.box.com/s/ln3wf8ozrg5morbpp1jjlfa3wqzc21lg"
+        - title: "VIDEO"
+          link: "https://cornell.box.com/s/l4vr3bilq7wo95jy4p67tfyxn6spyxul"
     assignments:
       - title: "A1"
         link: "resources/assignments/release/lec1_release.ipynb"
