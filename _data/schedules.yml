@@ -34,7 +34,7 @@ lectures:
     title: "Lecture 2: Data Manipulation"
     # contents:
     #    - title: "SLIDES"
-    #      link: "resources/FA21/slides/Lecture_2.pdf"
+    #      link: "resources/SP22_slides/lec1.pdf"
     # notes:
     #     - title: "Demo"
     #       link: "resources/FA21/demos/lec2demo.ipynb"
@@ -42,11 +42,11 @@ lectures:
     #       link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
     # #   - title: "NOTE 2: MANIP"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
-    # assignments:
-    #    - title: "A2"
-    #      link: "resources/FA21/assignments/release/Lecture 2 - Data Manipulation_Release.ipynb"
-    #    - title: "A2 (R)"
-    #      link: "resources/FA21/assignments/releaseR/a2_release.Rmd"
+    assignments:
+       - title: "A2"
+         link: "resources/assignments/release/lec2_release.ipynb"
+       - title: "A2 (R)"
+         link: "resources/assignments/release/a2_release.Rmd"
     #    - title: "A2 (data)"
     #      link: "resources/data/lecture2data.csv"
     #    - title: "A2 (solution)"
