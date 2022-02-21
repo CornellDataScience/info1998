@@ -32,9 +32,9 @@ lectures:
   ######################################## Week 2 #########################################
   - date: 2/23/2021
     title: "Lecture 2: Data Manipulation"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP22_slides/lec1.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/SP22_slides/lec2.pdf"
     # notes:
     #     - title: "Demo"
     #       link: "resources/FA21/demos/lec2demo.ipynb"
