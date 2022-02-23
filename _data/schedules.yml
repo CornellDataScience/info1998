@@ -34,7 +34,7 @@ lectures:
     title: "Lecture 2: Data Manipulation"
     contents:
        - title: "SLIDES"
-         link: "resources/SP22_slides/lec2.pdf"
+         link: "resources/SP22_slides/lec2_v2.pdf"
     # notes:
     #     - title: "Demo"
     #       link: "resources/FA21/demos/lec2demo.ipynb"
