@@ -22,10 +22,15 @@ lectures:
     title: "Workshop: Python FA 2020"
     contents:
       - title: "Python Demo"
-        link: "resources/FA20/extra/Python_Workshop.ipynb"
+        link: "resources/archives/FA20/extra/Python_Workshop.ipynb"
     notes:
       - title: "VIDEO"
         link: "https://cornell.box.com/s/euruypa53p02rmh7k0gyku8oxhmhz450"
+  - date: 
+    title: "Workshop: Python SP 2022"
+    contents:
+      - title: "Python Demo"
+        link: "resources/resources/python_demoSP22.ipynb"
     # notes:
     #   - title: "Demo Preview"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
