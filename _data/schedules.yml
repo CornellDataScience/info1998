@@ -40,11 +40,11 @@ lectures:
     contents:
        - title: "SLIDES"
          link: "resources/SP22_slides/lec2_v2.pdf"
-    # notes:
+    notes:
     #     - title: "Demo"
     #       link: "resources/FA21/demos/lec2demo.ipynb"
-    #     - title: "Spring 2021 Video"
-    #       link: "https://cornell.box.com/s/r6mauk707ny028my7taru3j2ytc5kvmh"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/cuqpbzm66r78yl4wxe7evobln6epxp4c"
     # #   - title: "NOTE 2: MANIP"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     assignments:
