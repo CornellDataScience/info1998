@@ -61,9 +61,9 @@ lectures:
   ######################################## Week 3 #########################################
   - date: 2022-03-02
     title: "Lecture 3: Data Visualization"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/FA21/slides/lec3.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/SP22_slides/Lecture 3-1.pdf"
     # notes:
     #    - title: "Demo"
     #      link: "resources/FA21/demos/lec3_demo.ipynb"
