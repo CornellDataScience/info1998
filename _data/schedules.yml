@@ -111,11 +111,11 @@ lectures:
     #   - title: "A4 (R solution)"
     #     link: "resources/FA21/assignments/solutionsR/a4_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
-  - date: 
+  - date: 2022-03-05
     title: "Workshop: Web Scraping"
     contents:
       - title: "Web Scraping Notebook"
-        link: "resources/FA21/extras/WebScraping_Workshop.ipynb"
+        link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
     notes:
       - title: "Spring 2021 Video"
         link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
