@@ -89,9 +89,9 @@ lectures:
   ######################################## Week 4 #########################################
   - date: 2022-03-09
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
-    # contents:
-    #   - title: "SLIDES"
-    #     link: "resources/FA21/slides/lec4.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/SP22_slides/Lecture_4_sp22.pdf"
     # notes:
     #   - title: "Demo"
     #     link: "resources/FA21/demos/lec4_demo.ipynb"
