@@ -92,6 +92,8 @@ lectures:
     contents:
        - title: "SLIDES"
          link: "resources/SP22_slides/Lecture 4 sp22.pdf"
+       - title: "Python Demo"
+         link: "resources/resources/Lecture 4 - Demo sp22.ipynb"
     # notes:
     #   - title: "Demo"
     #     link: "resources/FA21/demos/lec4_demo.ipynb"
