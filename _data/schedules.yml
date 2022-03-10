@@ -95,8 +95,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/assignments/Lecture 4 - Demo sp22.ipynb"
-       - title: "VIDEO"
-         link: "https://cornell.box.com/s/22fea4l4ildlfa6epio6h3vrdayb2rx1"
+      - title: "VIDEO"
+        link: "https://cornell.box.com/s/22fea4l4ildlfa6epio6h3vrdayb2rx1"
     # #   - title: "NOTE 4: FUND"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
