@@ -14,10 +14,10 @@ lectures:
         link: "resources/assignments/release/lec1_release.ipynb"
       - title: "A1 (R)"
         link: "resources/assignments/release/a1_release.Rmd"
-    #   - title: "A1 (solution)"
-    #     link: "resources/FA21/assignments/solutions/Lecture 1 - Introduction_Solution.ipynb"
-    #   - title: "A1 (R solution)"
-    #     link: "resources/FA21/assignments/solutionsR/a1_solution.Rmd"
+      - title: "A1 (solution)"
+        link: "resources/assignments/solution/lec1_solution.ipynb"
+      - title: "A1 (R solution)"
+        link: "resources/assignments/solution/a1_solution.Rmd"
   - date: 
     title: "Workshop: Python FA 2020"
     contents:
@@ -54,10 +54,10 @@ lectures:
          link: "resources/assignments/release/a2_release.Rmd"
        - title: "A2 (data)"
          link: "resources/data/lecture2data.csv"
-    #    - title: "A2 (solution)"
-    #      link: "resources/FA21/assignments/solutions/Lecture 2 - Data Manipulation_Solution.ipynb"
-    #    - title: "A2 (R solution)"
-    #      link: "resources/FA21/assignments/solutionsR/a2_solution.Rmd"
+       - title: "A2 (solution)"
+         link: "resources/assignments/solution/lec2_solution.ipynb"
+       - title: "A2 (R solution)"
+         link: "resources/assignments/solution/a2_solution.Rmd"
   ######################################## Week 3 #########################################
   - date: 2022-03-02
     title: "Lecture 3: Data Visualization"
