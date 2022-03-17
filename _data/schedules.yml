@@ -137,9 +137,9 @@ lectures:
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
     assignments:
       - title: "A5"
-        link: "resources/FA21/assignments/release/Lecture_5__Assessing_Model_Accuracy_Release.ipynb"
+        link: "resources/assignments/release/lec5_release.ipynb"
       - title: "A5 (R)"
-        link: "resources/FA21/assignments/releaseR/a5_release.Rmd"
+        link: "resources/assignments/release/a5_release.Rmd"
       - title: "A5 (data 1)"
         link: "resources/data/lecture5dataA.csv"
       - title: "A5 (data 2)"
