@@ -128,8 +128,8 @@ lectures:
     notes:
        - title: "Demo"
          link: "resources/assignments/Lec5Demo.ipynb"
-    #    - title: "Spring 2021 Video"
-    #      link: "https://cornell.box.com/s/qsztngzuv6dgtzqlks6bjndluzjv02ef"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
       
     # #   - title: "NOTE 5: TUNING"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
