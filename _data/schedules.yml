@@ -82,10 +82,10 @@ lectures:
 
     #   # - title: "A3 (Canada data)"
     #   #   link: "resources/data/Canada_AL26335.zip"
-    #    - title: "A3 (solution)"
-    #      link: "resources/FA21/assignments/solutions/lec3_solution.ipynb"
-    #    - title: "A3 (R solution)"
-    #      link: "resources/FA21/assignments/solutionsR/a3_solution.Rmd"
+       - title: "A3 (solution)"
+         link: "resources/assignments/solution/lec3_solution.ipynb"
+       - title: "A3 (R solution)"
+         link: "resources/assignments/solution/a3_solution.Rmd"
   ######################################## Week 4 #########################################
   - date: 2022-03-09
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
@@ -163,8 +163,8 @@ lectures:
     notes:
        - title: "Demo"
          link: "resources/assignments/Lec6Demo.ipynb"
-    #    - title: "Spring 2021 Video"
-    #      link: "https://cornell.box.com/s/b1wwns83ncv8ejctmkbtzwks92sgwhw0"
+       - title: "Spring 2021 Video"
+         link: "https://cornell.box.com/s/oywq0e19rmigjdga00g8qgbio0meo218"
     # #   - title: "NOTE 6: CLASS"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
