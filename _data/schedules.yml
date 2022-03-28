@@ -163,7 +163,7 @@ lectures:
     notes:
        - title: "Demo"
          link: "resources/assignments/Lec6Demo.ipynb"
-       - title: "Spring 2021 Video"
+       - title: "VIDEO"
          link: "https://cornell.box.com/s/oywq0e19rmigjdga00g8qgbio0meo218"
     # #   - title: "NOTE 6: CLASS"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
