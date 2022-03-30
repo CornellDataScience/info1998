@@ -200,9 +200,9 @@ lectures:
          link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
     assignments:
        - title: "A7"
-         link: "resources/FA21/assignments/release/lec7_release.ipynb"
+         link: "resources/assignments/release/lec6_release.ipynb"
        - title: "A7 (R)"
-         link: "resources/FA21/assignments/releaseR/a7_release.Rmd"
+         link: "resources/assignments/release/a7_release.Rmd"
        - title: "A7 (data)"
          link: "resources/data/lecture7example.csv"
     #    - title: "A7 (solution)"
