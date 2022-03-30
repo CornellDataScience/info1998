@@ -200,7 +200,7 @@ lectures:
          link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
     assignments:
        - title: "A7"
-         link: "resources/assignments/release/lec6_release.ipynb"
+         link: "resources/assignments/release/lec7_release.ipynb"
        - title: "A7 (R)"
          link: "resources/assignments/release/a7_release.Rmd"
        - title: "A7 (data)"
