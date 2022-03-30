@@ -106,10 +106,10 @@ lectures:
         link: "resources/assignments/release/a4_release.Rmd"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
-    #   - title: "A4 (solution)"
-    #     link: "resources/FA21/assignments/solutions/lec4_solution.ipynb"
-    #   - title: "A4 (R solution)"
-    #     link: "resources/FA21/assignments/solutionsR/a4_solution.Rmd"
+      - title: "A4 (solution)"
+        link: "resources/FA21/assignments/solutions/lec4_solution.ipynb"
+      - title: "A4 (R solution)"
+        link: "resources/FA21/assignments/solutionsR/a4_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
   - date:
     title: "Workshop: Web Scraping"
@@ -188,23 +188,23 @@ lectures:
   ######################################## Week 7 #########################################
   - date: 2022-03-30
     title: "Lecture 7: Supervised Learning Pt. I"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/FA21/slides/lec7.pdf"
-    # notes:
-    #    - title: "Demo"
-    #      link: "resources/FA21/demos/lec7_demo.ipynb"
+    contents:
+       - title: "SLIDES"
+         link: "resources/SP22_slides/Lecture 7.pdf"
+    notes:
+       - title: "Demo"
+         link: "resources/assignments/lec7demo.ipynb"
     #   #   - title: "NOTE 7: CLASS"
     #   #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
-    #    - title: "Spring 2021 Video"
-    #      link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
-    # assignments:
-    #    - title: "A7"
-    #      link: "resources/FA21/assignments/release/lec7_release.ipynb"
-    #    - title: "A7 (R)"
-    #      link: "resources/FA21/assignments/releaseR/a7_release.Rmd"
-    #    - title: "A7 (data)"
-    #      link: "resources/data/lecture7example.csv"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/cicwlpcjkjfug8hhtws0o7q5mxm7n5tw"
+    assignments:
+       - title: "A7"
+         link: "resources/FA21/assignments/release/lec7_release.ipynb"
+       - title: "A7 (R)"
+         link: "resources/FA21/assignments/releaseR/a7_release.Rmd"
+       - title: "A7 (data)"
+         link: "resources/data/lecture7example.csv"
     #    - title: "A7 (solution)"
     #      link: "resources/FA21/assignments/solutions/lec7_solution.ipynb"
     #    - title: "A7 (R solution)"
