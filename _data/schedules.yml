@@ -212,23 +212,25 @@ lectures:
   ######################################## Week 8 #########################################
   - date: 2022-04-13
     title: "Lecture 8: Supervised Learning Pt. II"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/FA21/slides/lec8.pdf"
-    # notes:
-    #    - title: "Demo"
-    #      link: "resources/FA21/demos/lec8_demo.ipynb"
-    #    - title: "Demo Data"
-    #      link: "resources/FA21/demos/Social_Network_Ads.csv"
+    contents:
+       - title: "SLIDES"
+         link: "resources/SP22_slides/lec8.pdf"
+    notes:
+       - title: "Demo"
+         link: "resources/assignments/lec8_demo.ipynb"
+       - title: "Demo Data"
+         link: "resources/data/Social_Network_Ads.csv"
     #   #- title: "NOTE 8: CLASS"
     #   #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
-    #    - title: "Spring 2021 Video"
-    #      link: "https://cornell.box.com/s/jl2g6p9tf36djutwgofp0g14wbrtwcrc"
-    # assignments:
-    #   - title: "A8"
-    #     link: "resources/FA21/assignments/release/lec8_release.ipynb"
-    #   - title: "A8 (data)"
-    #     link: "resources/data/phone.csv"
+       - title: "VIDEO"
+         link: "https://cornell.box.com/s/u00el8c2mgxcq1en417em66xo966mxzo"
+    assignments:
+      - title: "A8"
+        link: "resources/assignments/release/lec8_release.ipynb"
+      - title: "A8 (R)"
+        link: "resources/assignments/release/Lec8_release.R"
+      - title: "A8 (data)"
+        link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/FA21/assignments/solutions/lec8_solution.ipynb"
   ####################################### Week 9 #########################################
