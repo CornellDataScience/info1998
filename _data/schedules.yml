@@ -239,7 +239,9 @@ lectures:
     contents:
        - title: "SLIDES"
          link: "resources/SP22_slides/Lecture 9.pdf"
-    # # notes:
+    notes:
+       - title: "Demo"
+         link: "resources/assignments/lec9_demo.ipynb"
     # #   - title: "LECTURE 9: UNSUP"
     # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
     # notes:
