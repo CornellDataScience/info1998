@@ -251,7 +251,7 @@ lectures:
        - title: "A9"
          link: "resources/assignments/release/lec9_release.ipynb"
        - title: "A9 (R)"
-         link: "resources/assignments/a9_release.Rmd"
+         link: "resources/assignments/release/a9_release.Rmd"
        - title: "A9 (data)"
          link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
