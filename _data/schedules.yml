@@ -260,6 +260,9 @@ lectures:
     contents:
       - title: "SLIDES"
         link: "resources/SP22_slides/Lecture 10.pdf"
+    notes:
+      - title: "VIDEO"
+        link: https://cornell.box.com/s/v8jttw8m5f1m8xfez3699cilnrpja51l
   # - date: TBD
   #   title: "Final Project Released"
   #   contents:
