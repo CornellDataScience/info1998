@@ -257,9 +257,9 @@ lectures:
   ######################################## Week 10 #########################################
   - date: 2022-04-27
     title: "Lecture 10: Data Science and ML in the World"
-    # contents:
-    #   - title: "SLIDES"
-        # link: "resources/FA21/slides/lec10.pdf"
+    contents:
+      - title: "SLIDES"
+        link: "resources/SP22_slides/Lecture 10.pdf"
   # - date: TBD
   #   title: "Final Project Released"
   #   contents:
