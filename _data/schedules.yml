@@ -205,10 +205,10 @@ lectures:
          link: "resources/assignments/release/a7_release.Rmd"
        - title: "A7 (data)"
          link: "resources/data/lecture7example.csv"
-    #    - title: "A7 (solution)"
-    #      link: "resources/FA21/assignments/solutions/lec7_solution.ipynb"
-    #    - title: "A7 (R solution)"
-    #      link: "resources/FA21/assignments/solutionsR/a7_solution.Rmd"
+       - title: "A7 (solution)"
+         link: "resources/assignments/solution/lec7_solution.ipynb"
+       - title: "A7 (R solution)"
+         link: "resources/assignments/solution/a7_solution.Rmd"
   ######################################## Week 8 #########################################
   - date: 2022-04-13
     title: "Lecture 8: Supervised Learning Pt. II"
@@ -231,8 +231,8 @@ lectures:
         link: "resources/assignments/release/Lec8_release.R"
       - title: "A8 (data)"
         link: "resources/data/phone.csv"
-    #   - title: "A8 (solution)"
-    #     link: "resources/FA21/assignments/solutions/lec8_solution.ipynb"
+      - title: "A8 (solution)"
+        link: "resources/assignments/solution/lec8_solution.ipynb"
   ####################################### Week 9 #########################################
   - date: 2022-04-20
     title: "Lecture 9: Unsupervised Learning"
