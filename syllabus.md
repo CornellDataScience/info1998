@@ -3,11 +3,11 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Spring 2022
+INFO 1998, Fall 2022
 
-Lecture time: Wednesdays 5:30-6:30PM
+Lecture time: TBD
 
-Lecture location: Gates G01
+Lecture location: TBD
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
