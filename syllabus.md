@@ -5,7 +5,7 @@ layout: main
 ### Lecture and section information
 INFO 1998, Fall 2022
 
-Lecture time: TBD
+Lecture time: Wednesdays, 7:30-8:25 PM
 
 Lecture location: TBD
 
@@ -14,7 +14,7 @@ Lecture location: TBD
 
 Office hours are listed on the home page.
 
-If none of these office hours fit into your schedule, please book with the TAs that are by appointment.
+If none of these office hours fit into your schedule, please post your questions to ED and a TA will respond in a timely manner.
 
 ----------------------------------------------------------------------------------------
 ### Course description
@@ -49,7 +49,7 @@ We will use CMS for assignment / project submissions and feedbacks.
 ### Course work
 
 #### Weekly assignments
-One assignment will be assigned at the end of lecture each week, due at the beginning of the next lecture. You may <strong>skip up to one assignment</strong> throughout the semester.
+One assignment will be assigned at the end of lecture each week, due 11:59pm the next Wednesday. You may <strong>skip up to one assignment</strong> throughout the semester.
 
 <!-- ### Mid-Semester Group Project
 There will be one mid-semester project, focused on data cleaning, data manipulation, and data visualization. -->
@@ -82,7 +82,7 @@ This is a student-run course, so we understand how stressful classes can get. Ab
 
 #### Attendance
 
-Attendance is not required. However, we highly encourage you to attend lecture if you can. We discuss code relevant to the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments. For people who cannot attend lectures, we will post lecture recordings from Spring 2021 under the "Schedule" section.
+Attendance is not required. However, we highly encourage you to attend lecture if you can. We discuss code relevant to the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments. 
 
 #### Academic Integrity
 
