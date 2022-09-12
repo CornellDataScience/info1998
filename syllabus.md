@@ -7,7 +7,7 @@ INFO 1998, Fall 2022
 
 Lecture time: Wednesdays, 7:30-8:25 PM
 
-Lecture location: TBD
+Lecture location: Hollister B14
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
