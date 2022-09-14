@@ -11,9 +11,9 @@ lectures:
   #         link: "https://cornell.box.com/s/l4vr3bilq7wo95jy4p67tfyxn6spyxul"
     assignments:
       - title: "A1"
-        link: "resources/assignments/FA22_assign/NEW_lec1_release.ipynb"
-  #     - title: "A1 (R)"
-  #       link: "resources/assignments/release/a1_release.Rmd"
+        link: "resources/assignments/release/lec1_release.ipynb"
+      - title: "A1 (R)"
+        link: "resources/assignments/release/a1_release.Rmd"
   #     - title: "A1 (solution)"
   #       link: "resources/assignments/solution/lec1_solution.ipynb"
   #     - title: "A1 (R solution)"

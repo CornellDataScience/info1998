@@ -212,7 +212,36 @@ setdiff(vec1,vec2)
 ## Problem 3: Find the numbers that are in both 'multiples_15' and 'random_sums' and put them in an array called both
 
 ```{r}
-intersect(multiples_15,random_sums)
+both = intersect(multiples_15,random_sums)
+print(both)
+```
+
+** Size of an array ** 
+To find the size of arrays/vectors in R, use the length() function
+```{r}
+arr1 = c(1,2,3,4,5,6,7)
+print(length(arr1))
+```
+
+
+** Sorting an array ** 
+To sort an array/vector use the sort() function
+```{r}
+arr1 = c(8,4,9,2,3,1,10,12)
+print(sort(arr1))
+
+arr2 = c('bob', 'david', 'chen', 'joseph')
+print(sort(arr2))
+
+#Sorting in reverse order
+print(sort(arr1, decreasing = T))
+```
+
+
+## Problem 4: Print the size of the array you found in Problem 3 above. Then, print the sorted array. (1 pt.)
+```{r}
+print(length(both))
+print(sort(both))
 ```
 
 
