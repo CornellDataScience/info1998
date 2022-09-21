@@ -37,19 +37,19 @@ lectures:
   ######################################## Week 2 #########################################
   - date: 2022-09-21
     title: "Lecture 2: Data Manipulation"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP22_slides/lec2_v2.pdf"
-    # notes:
-    # #     - title: "Demo"
-    # #       link: "resources/FA21/demos/lec2demo.ipynb"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA22_slides/Lecture_2.pptx"
+    notes:
+        - title: "Demo"
+          link: "resources/FA22_Demos/Lecture_2_Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/cuqpbzm66r78yl4wxe7evobln6epxp4c"
     # # #   - title: "NOTE 2: MANIP"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
-    # assignments:
-    #    - title: "A2"
-    #      link: "resources/assignments/release/lec2_release.ipynb"
+    assignments:
+       - title: "A2"
+         link: "resources/assignments/FA22_assign/NEW_lec2_release.ipynb"
     #    - title: "A2 (R)"
     #      link: "resources/assignments/release/a2_release.Rmd"
     #    - title: "A2 (data)"
