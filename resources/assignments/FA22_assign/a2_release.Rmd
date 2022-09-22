@@ -1,0 +1,214 @@
+
+# Data Manipulation
+
+Due midnight after lecture 3
+
+NETID: FILL IN HERE
+
+### Problems
+- Problem 1 (2 points)
+- Problem 2 (1 point)
+- Problem 3 (3 points)
+- Problem 4 (4 points)
+
+
+A lot of the functionality in the Pandas package in Python is built right into R, no need to import an external package. One collections of libraries that will come in handy is called 'tidyverse'. It contains 8 packages designed for data science: 
+
+* ggplot2 (plotting functionality), 
+* dplyr (data manipulation), 
+* tidyr (tidying data), 
+* readr (functionality to read in data),
+* purr (functional programming toolkit), 
+* tibble (different data frame representation), 
+* stringr (string functions), 
+* forcats (handling categorical variables). 
+    
+We won't talk about most of these so don't worry about memorizing what they all do. 
+
+To install tidyverse, run `install.packages("tidyverse")` just once. Whenever you want to access any of the packages within tidyverse, put `library(tidyverse)` in the first code block in your file. 
+
+Additional Resources:
+
+[Tidyverse](https://www.tidyverse.org/)
+
+[dplyr](https://dplyr.tidyverse.org/)
+
+[ggplot2](https://ggplot2.tidyverse.org/)
+
+```{r}
+library(tidyverse)
+```
+
+
+### Data Frames
+
+A data frame is the most common way of storing data tables in R. It is a list of vectors of equal length where each element of the list can be interpreted as a column and the length of the list is the number of rows. Data frames can store elements of different types. 
+
+Creating data frames from vectors:
+
+```{r}
+a = c(10,20,30)
+b = "hello world"
+c = c(TRUE,TRUE,FALSE)
+
+df = data.frame(a,b,c)
+df
+```
+```{r}
+#changing row and column names
+rownames(df) = c("Row 1", "Row 2", "Row 3")
+colnames(df) = c("Column 1", "Column 2", "Column 3")
+df
+```
+
+Some other useful functions:
+```{r}
+attributes(df) #general information about the data frame
+
+```
+
+```{r}
+dim(df) #number of rows and columns
+```
+
+```{r}
+names(df) #prints column names
+```
+
+
+Now let's take a look at some real data. One tip when reading data into R, make sure you have saved your data files in the same directory this notebook is saved in. Before reading any data in, we need to tell R where to look for the data. You can do this a number of ways but the easiest to is to select 'Set Working Directory' under Session in the top bar. Then click 'To Source File Location'. This tells R to look for the data set in the same location this file is in. You can also accomplish this by getting your current working directory (`getwd()`) and setting current working directory (`setwd()`) to that in the R console. 
+
+Okay, now we are ready to read in our data file. We will use the built in read.csv function
+```{r}
+df = read.csv('lecture2data.csv')
+#df # note - if you want to knit your document, comment this out (it'll print out the entire df to the document and take up like a million pages - not ideal)
+```
+##### A Quick Side Note
+If you are interested in the dataset, or interested in exploring other datasets in your free time, here's where we got this datasets from: https://www.kaggle.com/c/titanic
+
+Kaggle is a online community which actively uploads datasets, hosts data science competitions, and overall a beginner-friendly place to learn about data science. They also offer a no-setup, online Jupyter Notebook environment for you to play around with their datasets. You don't need to download or setup anything - just create an account, and start exploring! 
+
+If you're interested in seeing what an end-to-end data science project looks like, you can check out some of the data science projects other users have done on the datasets; just go to any dataset under "Datasets", click "Kernel", and you can follow along what other more experienced users have explored and posted on that dataset!
+
+Back to the lecture material:
+
+
+Let's take a look at the first 5 rows
+```{r}
+head(df,5)
+```
+
+```{r}
+tail(df,5) #last 5 rows
+```
+
+```{r}
+head(df$Age,10) # looking at just one column
+```
+
+
+```{r}
+df[4:10,] #gets 4th-10th rows and all the columns
+```
+
+
+Subsetting data frames:
+
+```{r}
+new_df = df[which(df$Age > 50),]
+head(new_df)
+```
+
+```{r}
+new_df = subset(df, Age > 50) #same result, just different syntax
+head(new_df)
+```
+Another way to filter and subset your data that may make a bit more sense syntactically is using the dplyr package we talked about above.
+
+```{r}
+library(dplyr)
+filtered_df = filter(df, Survived == 1) 
+head(filtered_df)
+```
+
+```{r}
+selected_df = select(df, Age, Class, Name) #another useful function, selects columns by names
+head(selected_df)
+```
+
+```{r}
+filtered_df_logical = filter(df, Age < 40 & Sex == "female") #can concatenate logical statements together within filter
+head(filtered_df_logical)
+```
+### Summary Statistics
+
+```{r}
+mean(df$Age, na.rm = TRUE) # na.rm tells the function to ignore NA values
+```
+
+```{r}
+median(df$Fare, na.rm = TRUE)
+```
+
+```{r}
+summary(df) #useful to see quick overall summary stats
+```
+
+# Problem 1 (2 points):
+### A. Create a dataset, using the filtering technique, that includes only male survivors of the titanic and store it in a variable called 'male_survivors'.
+
+```{r}
+#fill in here
+```
+
+# Problem 2 (1 point): Determine the mean age of all these people and store them in a variable called 'mean_age_male_survivors'.
+
+```{r}
+#fill in here
+```
+
+## Data Imputation
+
+```{r}
+head(df) #have some NA values in Age, Fare and Cabin
+```
+
+```{r}
+df$Cabin[is.na(df$Cabin)] = 'Top Deck' #imputing any NA values with 'Top Deck'
+sum(is.na(df$Cabin)) #checking it worked, should be 0
+```
+
+```{r}
+#Dummy Encoding
+df['male']=0
+df['female']=0
+for (x in seq(1,length(df))){
+    if (df[x,"Sex"]=="male"){
+        df[x,"male"]=1
+    }
+    else{
+        df[x,"female"]=1
+    }
+}
+head(df)
+```
+
+# Problem 3 (3 points): Impute the values that are NaN for the Fare column with the mean
+```{r}
+#fill in here
+```
+
+### But WAIT!
+
+How do you know what data to impute in any case? Here's a quick, high-level comparison of the different ways you can fill up missing data, along with their respective pros and cons: https://towardsdatascience.com/6-different-ways-to-compensate-for-missing-values-data-imputation-with-examples-6022d9ca0779
+
+You can try implementing the first three examples on your free time - the materials covered in this lecture should give you enough information on how to implement them! The fourth example we will actually cover in a later class, but feel free to also explore the source code provided under the github links.
+
+
+# Problem 4 (4 points): There are several rows with nan values for the age.
+### First fill all the nan values with the mean age of the passengers. Then create a new dummy variable/column named 'child' to the dataframe and insert a 1 or a 0 in each row (1 for child/under_18, 0 for non-child/18_or_older).
+```{r}
+#Fill in here
+```
+
+
