@@ -4,6 +4,12 @@
 
 ## NETID: FILL IN HERE
 
+### Problems
+- Problem 1 (4 points)
+- Problem 2 (3 point)
+- Problem 3 (2 points)
+- Problem 4 (1 point)
+
 Now that we have a basic understanding of R and data manipulation, it is time to learn how to represent data visually!
 
 This lecture is comprised of the following components:
@@ -81,7 +87,7 @@ Great! We have a bar graph that compares the average length and width of sepals 
 A histogram is very similar to a bar graph - but it represents a *continuous* variable on its x-axis rather than discrete units like a bar graph. Because it is continuous, we need to specify how many bars we need in total, and in order to do so, we need to set the number of bars to display, called breaks. Now, the built in histogram function in R does something a little funky with the breaks argument. If you give it a single number to indicate the number of bars, it takes that as a suggestion and gives 'pretty' values for the breaks which may result in a different number of bars than what was passed to breaks. Sometimes this is fine and other times we might want direct control over the number of bars, or their exact break points. You can pass break a vector of the exact points to create bars at but this requires a little preprocessing of the data to determine the best values for this vector. 
 
 
-## Problem 1
+# Problem 1 (4 points)
 
 Enter the code to make a histogram with a title and axis labels and 10 breaks. The X axis would be have the 'Sepal Width' column, and the Y axis would have the frequency.
 
@@ -214,10 +220,11 @@ ggplot(data = melted_cormat, aes(x=Var1, y=Var2, fill=value)) +
   geom_tile() + 
 geom_text(aes(Var2, Var1, label = value), color = "white", size = 4)
 ```
-## Problem 2
+
+
+# Problem 2 (3 points)
 
 Download the temperatures dataset from the course website and make sure it is in the same folder as this file. Now pick one of the above graph types to visualize one or more columns from the temperatures dataset. Hint: the `unique` function may come in handy to reduce the number of points.
-
 
 ```{r}
 # FILL IN HERE
@@ -290,7 +297,8 @@ dens = ggplot(data=df, aes(x=y)) + geom_density(fill="#69b3a2", color="#e9ecef",
 scatter2 = ggplot(data=df^2, aes(x=x,y=y)) + geom_point(size = 0.5)
 grid.arrange(line, scatter, dens, scatter2,ncol=2) #need to arrange the plots on a grid to display them side by side
 ```
-## Problem 3
+
+# Problem 3 (2 points)
 
 Tweak your previous graph (or create a new one) so it includes one of the above tips and tricks.
 
@@ -299,8 +307,14 @@ Tweak your previous graph (or create a new one) so it includes one of the above 
 ```
 
 
+# Problem 4 (1 point)
+Find an interesting data visualization from somewhere online. Provide us a link to it, and describe 2 ways in which it is a good visualization and one thing you would improve about it.
+
+
+
+
 Note: You are by no means required to memorize all (or any for that matter) of these functions. Visualizing data isn't always the most straightforward process in R and this notebook should serve as a good reference guide. I've also found this website to be very helpful: https://www.r-graph-gallery.com/index.html
 
-As always, please come to office hours or catch me before/after lecture with any questions!
+As always, please come to office hours or catch one of the TAs before/after lecture with any questions!
 
 

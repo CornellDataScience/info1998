@@ -63,24 +63,24 @@ lectures:
   ######################################## Week 3 #########################################
   - date: 2022-09-28
     title: "Lecture 3: Data Visualization"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP22_slides/Lecture 3-1.pdf"
-    # notes:
-    # #    - title: "Demo"
-    # #      link: "resources/FA21/demos/lec3_demo.ipynb"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA22_slides/Lecture_3.pdf"
+    notes:
+        - title: "Demo"
+          link: "resources/FA22_Demos/lec3_demo.ipynb"
 
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
     # # #   - title: "NOTE 3: VISUAL"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
-    # assignments:
-    #    - title: "A3"
-    #      link: "resources/assignments/release/lec3_release.ipynb"
-    #    - title: "A3 (R)"
-    #      link: "resources/assignments/release/a3_release.Rmd"
-    #    - title: "A3 (Temps data)"
-    #      link: "resources/data/temps.csv"
+    assignments:
+       - title: "A3"
+         link: "resources/assignments/release/lec3_release.ipynb"
+       - title: "A3 (R)"
+         link: "resources/assignments/release/a3_release.Rmd"
+       - title: "A3 (Temps data)"
+         link: "resources/data/temps.csv"
 
     # #   # - title: "A3 (Canada data)"
     # #   #   link: "resources/data/Canada_AL26335.zip"
