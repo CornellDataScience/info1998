@@ -69,8 +69,8 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/FA22_Demos/lec3_demo.ipynb"
-         - title: "Data file"
-         link: "resources/data/temps.csv"
+        - title: "Data file"
+          link: "resources/data/temps.csv"
 
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
