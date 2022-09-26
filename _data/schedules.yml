@@ -69,6 +69,8 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/FA22_Demos/lec3_demo.ipynb"
+         - title: "Data file"
+         link: "resources/data/temps.csv"
 
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
@@ -79,8 +81,7 @@ lectures:
          link: "resources/assignments/release/lec3_release.ipynb"
        - title: "A3 (R)"
          link: "resources/assignments/release/a3_release.Rmd"
-       - title: "Data file"
-         link: "resources/data/temps.csv"
+
 
     # #   # - title: "A3 (Canada data)"
     # #   #   link: "resources/data/Canada_AL26335.zip"
