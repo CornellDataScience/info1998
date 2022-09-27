@@ -39,12 +39,10 @@ lectures:
     title: "Lecture 2: Data Manipulation"
     contents:
        - title: "SLIDES"
-         link: "resources/FA22_slides/Lecture_2.pptx"
+         link: "resources/FA22_slides/Lecture_2_fa22.pdf"
     notes:
         - title: "Demo"
           link: "resources/FA22_Demos/Lecture_2_Demo.ipynb"
-        - title: "Data File"
-          link: "resources/FA22_Demos/lecture2data.csv"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/cuqpbzm66r78yl4wxe7evobln6epxp4c"
     # # #   - title: "NOTE 2: MANIP"
@@ -54,8 +52,8 @@ lectures:
          link: "resources/assignments/FA22_assign/NEW_lec2_release.ipynb"
        - title: "A2 (R)"
          link: "resources/assignments/FA22_assign/a2_release.Rmd"
-    #    - title: "A2 (data)"
-    #      link: "resources/data/lecture2data.csv"
+       - title: "A2 (data)"
+         link: "resources/data/lecture2data.csv"
     #    - title: "A2 (solution)"
     #      link: "resources/assignments/solution/lec2_solution.ipynb"
     #    - title: "A2 (R solution)"
@@ -65,13 +63,10 @@ lectures:
     title: "Lecture 3: Data Visualization"
     contents:
        - title: "SLIDES"
-         link: "resources/FA22_slides/Lecture_3.pdf"
+         link: "resources/FA22_slides/Lecture_3_fa22.pdf"
     notes:
         - title: "Demo"
           link: "resources/FA22_Demos/lec3_demo.ipynb"
-        - title: "Data file"
-          link: "resources/data/temps.csv"
-
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
     # # #   - title: "NOTE 3: VISUAL"
@@ -81,7 +76,8 @@ lectures:
          link: "resources/assignments/release/lec3_release.ipynb"
        - title: "A3 (R)"
          link: "resources/assignments/release/a3_release.Rmd"
-
+       - title: "A3 (data)"
+         link: "resources/data/temps.csv"
 
     # #   # - title: "A3 (Canada data)"
     # #   #   link: "resources/data/Canada_AL26335.zip"
