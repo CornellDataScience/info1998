@@ -14,10 +14,10 @@ lectures:
         link: "resources/assignments/release/lec1_release.ipynb"
       - title: "A1 (R)"
         link: "resources/assignments/release/a1_release.Rmd"
-  #     - title: "A1 (solution)"
-  #       link: "resources/assignments/solution/lec1_solution.ipynb"
-  #     - title: "A1 (R solution)"
-  #       link: "resources/assignments/solution/a1_solution.Rmd"
+      - title: "A1 (solution)"
+        link: "resources/assignments/solution/lec1_solution.ipynb"
+      - title: "A1 (R solution)"
+        link: "resources/assignments/solution/a1_solution.Rmd"
   # - date: 
   #   title: "Workshop: Python FA 2020"
   #   contents:
