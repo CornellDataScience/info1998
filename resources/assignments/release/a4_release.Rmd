@@ -4,6 +4,11 @@
 
 ## NETID: FILL IN HERE
 
+### Problems
+- Problem 1 (1 point)
+- Problem 2 (4 points)
+- Problem 3 (2 points)
+- Problem 4 (3 points)
 
 
 ```{r}
@@ -12,7 +17,7 @@ df = read.csv('lecture4data.csv')
 ```
 
 
-## Problem 1:
+## Problem 1 (1 point):
 ```{r}
 problem_1_data = df
 ```
@@ -135,7 +140,6 @@ How do we increase the model's score (how do we make our model better)?
 
 ## Section 2: Fitting / Training
 
-
 The inputs are called the "features" and the output is called the "target"
 
 The linear regression is our "model"
@@ -221,7 +225,7 @@ The two results were the same. From this, we can conclude that `predict` is real
 
 How do we increase the model's score (how do we make our model better)?
 
-## Problem 2:
+## Problem 2 (4 points):
 
 Use 'cost' and 'compl_4' to predict 'median_earnings'.
 
@@ -281,7 +285,7 @@ mse_test
 
 We will touch on Mean Squared Error more next class so don't worry too much about it right now, but it provides a good general feel to how well your model is preforming on the test set opposed to the train set. 
 
-## Problem 3:
+## Problem 3 (2 points):
 
 Fill in the rest of the code to create a Train-Validate-Test split, fit the model and get the train, validate, and test MSEs
 ```{r}
@@ -315,7 +319,7 @@ mse_test =
 ```
 
 
-## Problem 4:
+## Problem 4 (3 points):
 
 Use 'median_earnings2' to predict 'median_earnings' (median_earnings2 is just a copy of the median_earnings column)
 
