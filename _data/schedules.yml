@@ -88,12 +88,12 @@ lectures:
   ######################################## Week 4 #########################################
   - date: 2022-10-05
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
-    # contents:
-    #   - title: "SLIDES"
-    #     link: "resources/SP22_slides/Lecture_4_sp22.pdf"
-    # notes:
-    #   - title: "Demo"
-    #     link: "resources/assignments/Lecture 4 - Demo sp22.ipynb"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA22_slides/Lecture_4.pdf"
+    notes:
+      - title: "Demo"
+        link: "resources/FA22_Demos/lec4_demo.ipynb"
     #   - title: "VIDEO"
     #     link: "https://cornell.box.com/s/22fea4l4ildlfa6epio6h3vrdayb2rx1"
     # # #   - title: "NOTE 4: FUND"
@@ -103,8 +103,8 @@ lectures:
     #     link: "resources/assignments/release/lec4_release.ipynb"
     #   - title: "A4 (R)"
     #     link: "resources/assignments/release/a4_release.Rmd"
-    #   - title: "A4 (data)"
-    #     link: "resources/data/lecture4data.csv"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
     #   - title: "A4 (solution)"
     #     link: "resources/FA21/assignments/solutions/lec4_solution.ipynb"
     #   - title: "A4 (R solution)"
