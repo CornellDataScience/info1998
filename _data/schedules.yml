@@ -67,6 +67,8 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/FA22_Demos/lec3_demo.ipynb"
+        - title: "Demo (Answer)"
+          link: "resources/FA22_Demos/completed_lec3_demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
     # # #   - title: "NOTE 3: VISUAL"
