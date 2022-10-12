@@ -4,6 +4,12 @@
 
 NETID: SOLUTION
 
+### Problems
+- Problem 1 (2 points)
+- Problem 2 (1 point)
+- Problem 3 (3 points)
+- Problem 4 (4 points)
+
 
 A lot of the functionality in the Pandas package in Python is built right into R, no need to import an external package. One collections of libraries that will come in handy is called 'tidyverse'. It contains 8 packages designed for data science: 
 
@@ -90,6 +96,7 @@ Let's take a look at the first 5 rows
 ```{r}
 head(df,5)
 ```
+
 ```{r}
 tail(df,5) #last 5 rows
 ```
@@ -97,7 +104,6 @@ tail(df,5) #last 5 rows
 ```{r}
 head(df$Age,10) # looking at just one column
 ```
-
 
 ```{r}
 df[4:10,] #gets 4th-10th rows and all the columns
@@ -121,19 +127,22 @@ library(dplyr)
 filtered_df = filter(df, Survived == 1) 
 head(filtered_df)
 ```
+
 ```{r}
 selected_df = select(df, Age, Class, Name) #another useful function, selects columns by names
 head(selected_df)
 ```
+
 ```{r}
 filtered_df_logical = filter(df, Age < 40 & Sex == "female") #can concatenate logical statements together within filter
 head(filtered_df_logical)
 ```
-### Summary Statistics
 
+### Summary Statistics
 ```{r}
 mean(df$Age, na.rm = TRUE) # na.rm tells the function to ignore NA values
 ```
+
 ```{r}
 median(df$Fare, na.rm = TRUE)
 ```
@@ -142,7 +151,7 @@ median(df$Fare, na.rm = TRUE)
 summary(df) #useful to see quick overall summary stats
 ```
 
-# Problem 1:
+# Problem 1 (2 points):
 ### A. Create a dataset, using the filtering technique, that includes only male survivors of the titanic and store it in a variable called 'male_survivors'.
 
 ```{r}
@@ -150,7 +159,7 @@ male_survivors = filter(df, Sex == "male" & Survived == 1)
 head(male_survivors)
 ```
 
-### B. Then determine the mean age of all these people and store them in a variable called 'mean_age_male_survivors'.
+# Problem 2 (1 point): Determine the mean age of all these people and store them in a variable called 'mean_age_male_survivors'.
 
 ```{r}
 mean_age_male_survivors = mean(male_survivors$Age, na.rm = TRUE)
@@ -162,8 +171,6 @@ mean_age_male_survivors
 ```{r}
 head(df) #have some NA values in Age, Fare and Cabin
 ```
-
-
 
 ```{r}
 df$Cabin[is.na(df$Cabin)] = 'Top Deck' #imputing any NA values with 'Top Deck'
@@ -185,7 +192,7 @@ for (x in seq(1,length(df))){
 head(df)
 ```
 
-# Problem 2: Impute the values that are NaN for the Fare column with the mean
+# Problem 3 (3 points): Impute the values that are NaN for the Fare column with the mean
 ```{r}
 df$Fare[is.na(df$Fare)] = mean(df$Fare, na.rm = TRUE)
 
@@ -198,7 +205,7 @@ How do you know what data to impute in any case? Here's a quick, high-level comp
 You can try implementing the first three examples on your free time - the materials covered in this lecture should give you enough information on how to implement them! The fourth example we will actually cover in a later class, but feel free to also explore the source code provided under the github links.
 
 
-# Problem 3: There are several rows with nan values for the age.
+# Problem 4 (4 points): There are several rows with nan values for the age.
 ### First fill all the nan values with the mean age of the passengers. Then create a new dummy variable/column named 'child' to the dataframe and insert a 1 or a 0 in each row (1 for child/under_18, 0 for non-child/18_or_older).
 ```{r}
 

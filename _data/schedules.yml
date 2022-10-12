@@ -54,10 +54,10 @@ lectures:
          link: "resources/assignments/FA22_assign/a2_release.Rmd"
        - title: "A2 (data)"
          link: "resources/data/lecture2data.csv"
-    #    - title: "A2 (solution)"
-    #      link: "resources/assignments/solution/lec2_solution.ipynb"
-    #    - title: "A2 (R solution)"
-    #      link: "resources/assignments/solution/a2_solution.Rmd"
+       - title: "A2 (solution)"
+         link: "resources/assignments/solution/lec2_solution.ipynb"
+       - title: "A2 (R solution)"
+         link: "resources/assignments/solution/a2_solution.Rmd"
   ######################################## Week 3 #########################################
   - date: 2022-09-28
     title: "Lecture 3: Data Visualization"
@@ -123,12 +123,12 @@ lectures:
   ######################################## Week 5 #########################################
   - date: 2022-10-12
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
-    # contents:
-    #   - title: "SLIDES"
-    #     link: "resources/SP22_slides/SP22_Lecture_5.pdf"
-    # notes:
-    #    - title: "Demo"
-    #      link: "resources/assignments/Lec5Demo.ipynb"
+    contents:
+      - title: "SLIDES"
+        link: "resources/FA22_slides/FA22_Lecture5.pdf"
+    notes:
+       - title: "Demo"
+         link: "resources/FA22_Demos/Lec5Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
       
@@ -136,15 +136,15 @@ lectures:
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     # # #   - title: "EXTRA: Validation Set Pitfalls"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
-    # assignments:
-    #   - title: "A5"
-    #     link: "resources/assignments/release/lec5_release.ipynb"
-    #   - title: "A5 (R)"
-    #     link: "resources/assignments/release/a5_release.Rmd"
-    #   - title: "A5 (data 1)"
-    #     link: "resources/data/lecture5dataA.csv"
-    #   - title: "A5 (data 2)"
-    #     link: "resources/data/lecture5dataB.csv"
+    assignments:
+      - title: "A5"
+        link: "resources/assignments/release/lec5_release.ipynb"
+      - title: "A5 (R)"
+        link: "resources/assignments/release/a5_release.Rmd"
+      - title: "A5 (data 1)"
+        link: "resources/data/lecture5dataA.csv"
+      - title: "A5 (data 2)"
+        link: "resources/data/lecture5dataB.csv"
       
     #   - title: "A5 (solution)"
     #     link: "resources/assignments/solution/lec5_solution.ipynb"
