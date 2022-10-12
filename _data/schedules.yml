@@ -272,6 +272,9 @@ lectures:
   ############################ Final Project #######################################
   - date: 2022-11-16
     title: "Final Project Due"
+    contents:
+      - title: "Project PDF"
+        link: "resources/Project_FA22.pdf"
     # assignments:
     #    - title: "Final Project"
     #      link: "resources/SP21/assignments/release/Project.pdf"
