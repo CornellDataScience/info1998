@@ -158,9 +158,9 @@ lectures:
   ######################################## Week 6 #########################################
   - date: 2022-10-19
     title: "Lecture 6: Introduction to Classifiers"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP22_slides/SP22_Lecture_6.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA22_slides/Lecture_6_fa22.pdf"
     # notes:
     #    - title: "Demo"
     #      link: "resources/assignments/Lec6Demo.ipynb"
