@@ -303,8 +303,13 @@ ggplot(df_temps, aes(x = Longitude, y = Latitude, col = AverageTemperature)) + g
 ```
 
 
+# Problem 4 (1 point)
+Find an interesting data visualization from somewhere online. Provide us a link to it, and describe 2 ways in which it is a good visualization and one thing you would improve about it.
+
+
+
 Note: You are by no means required to memorize all (or any for that matter) of these functions. Visualizing data isn't always the most straightforward process in R and this notebook should serve as a good reference guide. I've also found this website to be very helpful: https://www.r-graph-gallery.com/index.html
 
-As always, please come to office hours or catch me before/after lecture with any questions!
+As always, please come to office hours or catch one of the TAs before/after lecture with any questions!
 
 
