@@ -161,9 +161,9 @@ lectures:
     contents:
        - title: "SLIDES"
          link: "resources/FA22_slides/Lecture_6_fa22.pdf"
-    # notes:
-    #    - title: "Demo"
-    #      link: "resources/assignments/Lec6Demo.ipynb"
+    notes:
+       - title: "Demo"
+         link: "resources/FA22_Demos/Lec6Demo_unfilled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/oywq0e19rmigjdga00g8qgbio0meo218"
     # # #   - title: "NOTE 6: CLASS"
