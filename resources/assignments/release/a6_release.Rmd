@@ -4,6 +4,11 @@
 
 NETID: FILL IN HERE
 
+### Problems
+- Problem 1 (4 points)
+- Problem 2 (3 points)
+- Problem 3 (2 points)
+- Problem 4 (1 point)
 
 Two lectures ago we covered linear regression and predicting the value of a continuous variable. We use *classifiers* to predict binary or categorical variables. Classifiers can help us answer yes/no questions or categorize an observation into one of several categories. 
 
@@ -17,7 +22,7 @@ df = subset(df, select = -c(X,id) )
 head(df)
 ```
 
-## Problem 1
+## Problem 1 (4 points)
 
 Build a kNN model predicting whether an observation is benign or malignant. You should split the dataset into a training set and a test set as covered previously in the course, fit the model on the observations in the training set, and predict the target variable for the test set.
 
@@ -97,7 +102,7 @@ print(paste("Accuracy Score when k = 50: ", accuracy_50))
 
 ```
 
-## Problem 2
+## Problem 2 (3 points)
 
 Now we are going to plot the relationship between the value of k and the accuracy score of the model for this data set.
 
@@ -144,9 +149,9 @@ Here are the equations specified in the lecture for your convenience with the ne
 **Precision** = True Positive / (True Positive + False Positive) 
 
 
-## Problem 3
+## Problem 3 (2 points)
 
-Given the Table Below, Calculate the **Specificity**, **Sensitivity**, **Overall Error Rate**, **Overall Accuracy**, **Precision** of the data.
+Given the Table Below, Calculate the **Specificity**, **Sensitivity**, **Overall Error Rate**, **Overall Accuracy**, **Precision** of the data. (Show us the calculations, don't just hardcode the values!)
             
             
             | Positive       | Negative
@@ -164,9 +169,15 @@ Given the Table Below, Calculate the **Specificity**, **Sensitivity**, **Overall
 ```
              
             
-## Problem 4 (extra credit)
+## Problem 4 (1 point)
 
-### Part a
+Let's say you want to run kNN on a dataset with both continuous features and binary features. Can you think of any potential issues that might arise from mixing these data types? Also, how might you preprocess categorical data to use in a kNN? Ordinal data?
+
+
+
+
+## Problem 5 (extra credit)
+
 Before running kNN, which of the following kinds of preprocessing should we do? Choose all that apply.
 
 1) Scale
@@ -178,11 +189,8 @@ Before running kNN, which of the following kinds of preprocessing should we do? 
 4) Remove outliers
 
 
-### Part b
-Let's say you want to run kNN on a dataset with both continuous features and binary features. Can you think of any potential issues that might arise from mixing these data types? Also, how might you preprocess categorical data to use in a kNN? Ordinal data?
 
-
-## Problem 5 (extra credit)
+## Problem 6 (extra credit)
 
 We've talked about sensitivity and specificity. Recall these high level intuitions:
 - high sensitivity -> able to correctly identify positives
@@ -205,7 +213,7 @@ Prove the following statement:
 *If the testing set has the same number of positive and negative examples, then the accuracy is equal to the average of the specificity and sensitivity.*
 
 
-## Problem 6 (0 points)
+## Problem 7 (0 points)
 
 In INFO1998, we focus on the high level concepts and applications, and as a result, we rarely delve into the computations that go into our machine learning algorithms. This isn't to say that those computations are unimportant. When working with *enormous* datasets, some algorithms become *infeasible* since they need to do so much *computation* that training a model could take several days. When working with **complex** datasets with **special properties**, we can sometimes **adapt** algorithms based on our understanding of the algorithm's *computations*.
 
