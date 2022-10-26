@@ -107,10 +107,10 @@ lectures:
         link: "resources/assignments/release/a4_release.Rmd"
       - title: "A4 (data)"
         link: "resources/data/lecture4data.csv"
-    #   - title: "A4 (solution)"
-    #     link: "resources/FA21/assignments/solutions/lec4_solution.ipynb"
-    #   - title: "A4 (R solution)"
-    #     link: "resources/FA21/assignments/solutionsR/a4_solution.Rmd"
+      - title: "A4 (solution)"
+        link: "resources/assignments/solution/lec4_solution.ipynb"
+      - title: "A4 (R solution)"
+        link: "resources/assignments/solution/a4_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
   - date:
     title: "Workshop: Web Scraping"
@@ -146,10 +146,10 @@ lectures:
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
 
-    #   - title: "A5 (solution)"
-    #     link: "resources/assignments/solution/lec5_solution.ipynb"
-    #   - title: "A5 (R solution)"
-    #     link: "resources/assignments/solution/a5_solution.Rmd"
+      - title: "A5 (solution)"
+        link: "resources/assignments/solution/lec5_solution.ipynb"
+      - title: "A5 (R solution)"
+        link: "resources/assignments/solution/a5_solution.Rmd"
   # - date: TBD
   #   title: "Mid Semester Project Check-In"
   #   assignments:
@@ -202,13 +202,13 @@ lectures:
     # #   #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/rfv71tm9hxy3pydhgoyjlpvv67xwpg8z"
-    # assignments:
-    #    - title: "A7"
-    #      link: "resources/assignments/release/lec7_release.ipynb"
-    #    - title: "A7 (R)"
-    #      link: "resources/assignments/release/a7_release.Rmd"
-    #    - title: "A7 (data)"
-    #      link: "resources/data/lecture7example.csv"
+    assignments:
+       - title: "A7"
+         link: "resources/assignments/release/lec7_release.ipynb"
+       - title: "A7 (R)"
+         link: "resources/assignments/release/a7_release.Rmd"
+       - title: "A7 (data)"
+         link: "resources/data/lecture7example.csv"
     #    - title: "A7 (solution)"
     #      link: "resources/assignments/solution/lec7_solution.ipynb"
     #    - title: "A7 (R solution)"

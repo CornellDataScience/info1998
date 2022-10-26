@@ -3,6 +3,12 @@
 
 ## NETID: SOLUTION
 
+### Problems
+- Problem 1 (2 points)
+- Problem 2 (1 point)
+- Problem 3 (4 points)
+- Problem 4 (3 points)
+
 In this lesson, we look over different ways to evaluate whether machine learning models you have created successfully accomplish their intended objective.
 ```{r}
 library(dplyr)
@@ -17,7 +23,7 @@ head(weather)
 In evaluating your models, it's important to remember that different models must be evaluated with the appropriate metric. Classification accuracy is not, for example, the same thing as the mean-squared error used in regression problems. Furthermore, a high score in either of those metrics does not prove a model is "good". 
 
 
-## Problem 1
+## Problem 1 (2 points)
 
 Edit the lines marked with TODO's below to do the following:
 1. Create two columns to `temperatures` to store Temperature and Apparent Temperature in Rankines. Rankines is a  weird unit of temperature. Temperature in Rankines is 9/5 * (temperature in Celsius) + 491.67.
@@ -94,10 +100,12 @@ plotR + geom_line(aes(x=df3$aptR, y=df3$predsR), size = 2)
 ```
 
 
+Problem 2 (1 point): Why do these plots look the same? How do the axes compare? Why do we expect this?
+
 The plots look the same! The only significant difference is the scale of the axes. That's why the MSE for Rankines is bigger: Rankines are generally greater than Celsius, and so their error is naturally bigger. To take care of this, we use a baseline.
 
 
-## Problem 2
+## Problem 3 (4 points)
 Follow the TODOs to calculate normalized scores for your Celcius and Rankines predictions. Then, calculate score = 1 - model_MSE / baseline_MSE. We will essentially be comparing our model to a model that just predicts the average every time. Ask TAs for help!
 You should use the same train/test split as before.
 
@@ -204,7 +212,7 @@ plot(max_depths, test_scores, type = 'l', main = "Testing - there's a sweet spot
 plot(max_depths, train_scores-test_scores, type = 'l', main = "Generalization error")
 ```
 
-## Problem 3 (Optional)
+## Optional Problem
 ### NOTE: there's a required Problem 4 at the bottom of the notebook. Don't skip it!
 ### Part a
 Modify the loop above to programmatically find the best `max_depth` for a Decision Tree. Print out the training and testing score of just a model that uses that `max_depth`.
@@ -223,7 +231,7 @@ Now, imagine that you care twice as much about people whose Death Year is greate
 
 A dataset will usually have many features, many of which will not be useful at all. The key is to determine which are helpful in improving your model.
 
-## Problem 4
+## Problem 4 (3 points)
 
 Using what you have learned, create a correlation matrix of the data. Use it to decide the three best features to use in predicting Humidity and store those in a list named `three_correlated_features`. Then store the two best features to in a list named `two_correlated_features`. Compare the result of using `three_correlated_features` vs `two_correlated_features` to train a Linear Regression. (When we say compare the results, we mean compare print out the mean squared errors).
 
