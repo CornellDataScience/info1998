@@ -18,7 +18,7 @@ lectures:
         link: "resources/assignments/solution/lec1_solution.ipynb"
       - title: "A1 (R solution)"
         link: "resources/assignments/solution/a1_solution.Rmd"
-  # - date: 
+  # - date:
   #   title: "Workshop: Python FA 2020"
   #   contents:
   #     - title: "Python Demo"
@@ -26,7 +26,7 @@ lectures:
   #   notes:
   #     - title: "VIDEO"
   #       link: "https://cornell.box.com/s/euruypa53p02rmh7k0gyku8oxhmhz450"
-  # - date: 
+  # - date:
   #   title: "Workshop: Python SP 2022"
   #   contents:
   #     - title: "Python Demo"
@@ -131,7 +131,7 @@ lectures:
          link: "resources/FA22_Demos/Lec5Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
-      
+
     # # #   - title: "NOTE 5: TUNING"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     # # #   - title: "EXTRA: Validation Set Pitfalls"
@@ -145,7 +145,7 @@ lectures:
         link: "resources/data/lecture5dataA.csv"
       - title: "A5 (data 2)"
         link: "resources/data/lecture5dataB.csv"
-      
+
     #   - title: "A5 (solution)"
     #     link: "resources/assignments/solution/lec5_solution.ipynb"
     #   - title: "A5 (R solution)"
@@ -179,8 +179,8 @@ lectures:
     #      link: "resources/assignments/solution/lec6_solution.ipynb"
     #    - title: "A6 (R solution)"
     #      link: "resources/assignments/solution/a6_solution.Rmd"
-       
-  # - date: 
+
+  # - date:
   #   title: "Web Scraping Workshop"
   #   notes:
   #      - title: "VIDEO"
@@ -189,9 +189,12 @@ lectures:
   ######################################## Week 7 #########################################
   - date: 2022-10-26
     title: "Lecture 7: Supervised Learning Pt. I"
-    # contents:
-    #    - title: "SLIDES"
-    #      link: "resources/SP22_slides/Lecture 7.pdf"
+    contents:
+       - title: "SLIDES"
+         link: "resources/FA22_slides/Lecture_7_FA22.pdf"
+    notes:
+       - title: "Demo"
+         link: "resources/FA22_Demos/lec7_demo.ipynb"
     # notes:
     #    - title: "Demo"
     #      link: "resources/assignments/lec7demo.ipynb"
