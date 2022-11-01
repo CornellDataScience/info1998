@@ -1,16 +1,6 @@
 #INFO 1998: Introduction to Machine Learning; 
 #Assignment 8: Linear Classifiers and Model Validation
 
-## NETID: PLEASE FILL ME IN
-
-# (This looks a little different from our normal R assignments. This is a .R file as opposed to .rmd file
-# it's good to know how to work with both of these file types. There's a couple different ways to run 
-# the code in these files. What I usually do is highlight the lines you want
-# to execute, and hit cmd+return, or ctrl+enter and the code will be sent to the console and run. If you 
-# are trying to run a function be sure to highlight ALL of it to ensure it's run and stored correctly. You 
-# can also put your cursor at the line you want to run and hit cmd+return/ctrl+enter and it'll run that
-# line or chunk of lines if it's a function or a multiline call.)
-
 #There are a total of 4 problems corresponding to 4 examples in this file.
 #All of the problems are required, so do your best to complete them.
 #   If you have any questions, please contact a course staff member.
