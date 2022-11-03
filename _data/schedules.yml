@@ -230,7 +230,7 @@ lectures:
     #      link: "https://cornell.box.com/s/u00el8c2mgxcq1en417em66xo966mxzo"
     assignments:
       - title: "A8"
-        link: "resources/assignments/release/Lec8_release.ipynb"
+        link: "resources/assignments/release/lec8_release.ipynb"
       - title: "A8 (R)"
         link: "resources/assignments/release/Lec8_release.R"
       - title: "A8 (data)"
