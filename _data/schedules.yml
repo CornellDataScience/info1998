@@ -234,7 +234,7 @@ lectures:
       - title: "A8 (R)"
         link: "resources/assignments/release/Lec8_release.R"
       - title: "A8 (data)"
-        link: "resources/data/lec8data_phone.csv"
+        link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
   ####################################### Week 9 #########################################
