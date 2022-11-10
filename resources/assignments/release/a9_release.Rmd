@@ -44,7 +44,7 @@ head(df)
 The iris dataset contains observations on three iris species. Features include sepal length, sepal width, petal length, and petal width. Notice how the species is not identified in the version of the dataset that we use above. Let's see if we can gain this information through hierarchical clustering. 
 
 
-### Problem 1
+### Problem 1 (2 points)
 
 Perform hierarchical clustering on the iris dataset and plot the resulting clusters (as a dendrogram). How many clusters do you see? How does this compare to the number of clusters you expect to see?
 
@@ -75,7 +75,7 @@ We can clearly see the three groupings in the data corresponding to the three sp
 
 
 
-### Problem 2a
+### Problem 2 (3 points)
 
 Perform k-means clustering on the iris dataset (using only the petal length and petal width features).
 
@@ -95,7 +95,7 @@ library(factoextra) #might need to install this package if you have not used it 
 fviz_cluster(kcluster, data = df_2, stand = FALSE)
 ```
 
-## Problem 2b
+## Problem 3 (4 points)
 
 Now we will also apply kmeans clustering on a different dataset about wines. In the section of code specified below, create a kmeans model stored in a variable named `kmeans` and train it on the wines dataset. Use the number of unique values in the 'target' column as the number of clusters.
 
@@ -188,7 +188,7 @@ fviz_cluster(kcluster, data = inp, stand = FALSE)
 As you can see, a K-Means model generally performs quite poorly when fitting any non-circular shapes. Let's see how a GMM performs instead:
   
 
-## Problem 3 (optional)
+## Problem 4 (1 point)
 
 In the cell below, you can see code for how to train a GMM and plot the points while coloring them based on the prediction of the GMM. Run the two cells and compare the output of the GMM classification to the KMeans done above. Does GMM preform better on the non-circular shapes?
 
@@ -245,7 +245,7 @@ t(df.pca$rotation)
 Each number is the correlation between the feature and the component. For example, we can see that the feature which is most strongly correlated with component 2 is satisfaction_level.
 
 
-## Question 4 (Advanced - Optional)
+## Problem 5 (Optional)
 Based on the results of the principal component analysis above, which features would you expect are most important to include in a predictive model? Why?
 
 
