@@ -256,8 +256,8 @@ lectures:
          link: "resources/assignments/release/lec9_release.ipynb"
        - title: "A9 (R)"
          link: "resources/assignments/release/a9_release.Rmd"
-    #    - title: "A9 (data)"
-    #      link: "resources/data/lecture9data.csv"
+       - title: "A9 (data)"
+         link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
   - date: 2022-11-16
     title: "Lecture 10: Data Science and ML in the World"
@@ -273,7 +273,7 @@ lectures:
   #     - title: "Final Project"
   #       link: "resources/SP20/assignments/release/Final_Project.pdf"
   ############################ Final Project #######################################
-  - date: 2022-11-16
+  - date: 2022-11-30
     title: "Final Project Due"
     contents:
       - title: "Project PDF"
