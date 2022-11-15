@@ -167,9 +167,22 @@ print(paste("precision:", 146/(146+21)))
 ```
              
             
-## Problem 4 (extra credit)
+## Problem 4 (1 point)
 
-### Part a
+Let's say you want to run kNN on a dataset with both continuous features and binary features. Can you think of any potential issues that might arise from mixing these data types? Also, how might you preprocess categorical data to use in a kNN? Ordinal data?
+
+solution:
+Let's assume we scale so that data is between 0 and 1. With binary features, the data is either 0 or 1. With continuous features, their values could be any decimal between 0 or 1 -- it's more of a spectrum. So, binary features can begin to feel somewhat extreme. This is best explained in an example: say we're dealing with cars that go between 0 and 100mph. But, we only have the binary feature "car goes >50mph" . Consider a car that goes 49mph vs a car that goes 51mph. Now consider a car that goes 10mph vs a car that goes 100mph. In kNN, the distance between 49mph and 51mph is the same as the distance between 10mph and 100mph!
+
+With that said, it's usually okay to use binary and continuous features together in kNN.
+
+One popular option for categorical data is to use one-hot encoding.
+
+We usually just use ordinal data as is. However, we sometimes run into the same issue as binary data where distance differences can feel a bit extreme.
+
+
+## Problem 5 (extra credit)
+
 Before running kNN, which of the following kinds of preprocessing should we do? Choose all that apply.
 
 1) Scale
@@ -196,19 +209,8 @@ Intuitively, A is pretty similar to C, since they have the same Feature1 and B's
 4) Remove outliers - No. 
 
 
-### Part b
-Let's say you want to run kNN on a dataset with both continuous features and binary features. Can you think of any potential issues that might arise from mixing these data types? Also, how might you preprocess categorical data to use in a kNN? Ordinal data?
 
-solution:
-Let's assume we scale so that data is between 0 and 1. With binary features, the data is either 0 or 1. With continuous features, their values could be any decimal between 0 or 1 -- it's more of a spectrum. So, binary features can begin to feel somewhat extreme. This is best explained in an example: say we're dealing with cars that go between 0 and 100mph. But, we only have the binary feature "car goes >50mph" . Consider a car that goes 49mph vs a car that goes 51mph. Now consider a car that goes 10mph vs a car that goes 100mph. In kNN, the distance between 49mph and 51mph is the same as the distance between 10mph and 100mph!
-
-With that said, it's usually okay to use binary and continuous features together in kNN.
-
-One popular option for categorical data is to use one-hot encoding.
-
-We usually just use ordinal data as is. However, we sometimes run into the same issue as binary data where distance differences can feel a bit extreme.
-
-## Problem 5 (extra credit)
+## Problem 6 (extra credit)
 
 We've talked about sensitivity and specificity. Recall these high level intuitions:
 - high sensitivity -> able to correctly identify positives
@@ -237,7 +239,7 @@ Prove the following statement:
 *If the testing set has the same number of positive and negative examples, then the accuracy is equal to the average of the specificity and sensitivity.*
 
 
-## Problem 6 (0 points)
+## Problem 7 (0 points)
 
 In INFO1998, we focus on the high level concepts and applications, and as a result, we rarely delve into the computations that go into our machine learning algorithms. This isn't to say that those computations are unimportant. When working with *enormous* datasets, some algorithms become *infeasible* since they need to do so much *computation* that training a model could take several days. When working with **complex** datasets with **special properties**, we can sometimes **adapt** algorithms based on our understanding of the algorithm's *computations*.
 

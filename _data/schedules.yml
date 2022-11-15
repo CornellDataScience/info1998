@@ -175,10 +175,10 @@ lectures:
          link: "resources/assignments/release/a6_release.Rmd"
        - title: "A6 (data)"
          link: "resources/data/lecture6data.csv"
-    #    - title: "A6 (solution)"
-    #      link: "resources/assignments/solution/lec6_solution.ipynb"
-    #    - title: "A6 (R solution)"
-    #      link: "resources/assignments/solution/a6_solution.Rmd"
+       - title: "A6 (solution)"
+         link: "resources/assignments/solution/lec6_solution.ipynb"
+       - title: "A6 (R solution)"
+         link: "resources/assignments/solution/a6_solution.Rmd"
 
   # - date:
   #   title: "Web Scraping Workshop"
@@ -209,10 +209,10 @@ lectures:
          link: "resources/assignments/release/a7_release.Rmd"
        - title: "A7 (data)"
          link: "resources/data/lecture7example.csv"
-    #    - title: "A7 (solution)"
-    #      link: "resources/assignments/solution/lec7_solution.ipynb"
-    #    - title: "A7 (R solution)"
-    #      link: "resources/assignments/solution/a7_solution.Rmd"
+       - title: "A7 (solution)"
+         link: "resources/assignments/solution/lec7_solution.ipynb"
+       - title: "A7 (R solution)"
+         link: "resources/assignments/solution/a7_solution.Rmd"
   ######################################## Week 8 #########################################
   - date: 2022-11-02
     title: "Lecture 8: Supervised Learning Pt. II"
