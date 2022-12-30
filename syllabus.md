@@ -3,9 +3,9 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Fall 2022
+INFO 1998, Spring 2023
 
-Lecture time: Wednesdays, 7:30-8:25 PM
+Lecture time: Wednesdays, 4:30-5:30 PM
 
 Lecture location: Hollister B14
 
@@ -69,7 +69,7 @@ We will be providing you with feedback on the Cornell University Course Manageme
 
 This is a 1-credit S/U class. In order to get a Satisfactory (S) grade, you will need at least 70%.
 
-There are three components to grading:
+There are two components to grading:
 - **Weekly Assignments (60%)**
 - **Group Project (40%)**
 
