@@ -12,7 +12,13 @@ On this page you can find some common terminology referenced in this course. Ple
 ### Common INFO 1998 Terminology
 
   
-| Term        | Description | Link          |
+| Term        | Definition | Link          |
 | :---        |    :----:   |          ---: |
-| Data Science      | Title       | [Lecture 1](resources/FA22_slides/Lecture_1.pdf)   |
+| Data Science      | Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.        | [Lecture 1](resources/FA22_slides/Lecture_1.pdf)   |
 | Machine Learning   | Text        | And more      |
+
+
+References:
+<font size = "2">
+https://www.datarobot.com/wiki/data-science/
+</font>
