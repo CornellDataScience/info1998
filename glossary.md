@@ -11,7 +11,7 @@ On this page you can find some common terminology referenced in this course. Ple
 <br/>
 ### Common INFO 1998 Terminology
 
-| ##Term        | ##Description | ##Link          |
+##Term             Description     Link
 | :---        |    :----:   |          ---: |
 | Data Science      | Title       | Here's this   |
 | Machine LEarning   | Text        | And more      |
