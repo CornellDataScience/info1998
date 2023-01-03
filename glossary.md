@@ -9,7 +9,6 @@ On this page you can find some common terminology referenced in this course. Ple
 \
 \
 \
-
 ### Common INFO 1998 Terminology
 
 | ##Term        | ##Description | ##Link          |
