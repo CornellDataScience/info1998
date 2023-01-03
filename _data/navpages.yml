@@ -6,6 +6,8 @@
   name: Syllabus
 - path: final_project.md
   name: Final Project
+- path: glossary.md
+  name: Glossary
 - path: https://edstem.org/us/courses/28945/discussion/
   name: Ed
   external: true
