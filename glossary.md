@@ -13,16 +13,14 @@ On this page you can find some common terminology referenced in this course. Ple
   
 | Term               |        Definition |         Link          |
 | Binning      | Makes continuous data categorical by lumping ranges of data into discrete “levels”        | [Lecture 2](resources/FA22_slides/Lecture_2_fa22.pdf)   |
+| | | |
 |Concatenating  | Combines together two data frames, either row-wise or column-wise. Concatenating is also combining two data frames, but while join offers a low level of control, concat has a lot more options.|[Lecture 2](resources/FA22_slides/Lecture_2_fa22.pdf)   |
+| | | |
 | Machine Learning   | Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior.         | [Lecture 2](resources/FA22_slides/Lecture_2_fa22.pdf)     |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
-| | |
+| | | |
+| | | |
+| | | |
+| | | |
 
 
 <br/>
