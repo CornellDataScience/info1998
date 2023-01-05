@@ -7,15 +7,23 @@ On this page you can find some common terminology referenced in this course. Ple
 <br/>
 <br/>
 <br/>
-<br/>
-<br/>
+
 ### Common INFO 1998 Terminology
 
   
 | Term               |        Definition |         Link          |
-| Data Science      | Data science is the field of study that combines domain expertise, programming skills, and knowledge of mathematics and statistics to extract meaningful insights from data.        | [Lecture 1](resources/FA22_slides/Lecture_1.pdf)   |
-|  |  |
-| Machine Learning   | Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior.         | [Lecture 1](resources/FA22_slides/Lecture_1.pdf)     |
+| Binning      | Makes continuous data categorical by lumping ranges of data into discrete “levels”        | [Lecture 2](resources/FA22_slides/Lecture_2_fa22.pdf)   |
+|Concatenating  | Combines together two data frames, either row-wise or column-wise. Concatenating is also combining two data frames, but while join offers a low level of control, concat has a lot more options.|[Lecture 2](resources/FA22_slides/Lecture_2_fa22.pdf)   |
+| Machine Learning   | Machine learning is a subfield of artificial intelligence, which is broadly defined as the capability of a machine to imitate intelligent human behavior.         | [Lecture 2](resources/FA22_slides/Lecture_2_fa22.pdf)     |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+| | |
+
 
 <br/>
 <br/>
