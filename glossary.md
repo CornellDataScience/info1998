@@ -127,9 +127,9 @@ On this page you can find some common terminology referenced in this course. Ple
 <br/>
 References:
 <font size = "2">
-[https://www.datarobot.com/wiki/data-science/](https://www.datarobot.com/wiki/data-science/)<br/>
+https://www.datarobot.com/wiki/data-science/<br/>
 <br/>
-[https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained](https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained)<br/>
+https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained<br/>
 <br/>
 https://pandas.pydata.org/docs/user_guide/dsintro.html#:~:text=DataFrame%20is%20a%202%2Ddimensional,most%20commonly%20used%20pandas%20object.<br/>
 <br/>
