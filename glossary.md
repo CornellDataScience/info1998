@@ -56,8 +56,7 @@ On this page you can find some common terminology referenced in this course. Ple
 | | | |
 |Heatmap|Describes the density or intensity of variables, visualize patterns, and anomalies. Varying degrees of one metric are represented using color|[Lecture 3](resources/FA22_slides/Lecture_3_fa22.pdf)|
 | | | |
-|Matplotlib|Python data visualization package inspired from MATLAB.
-Capable of handling most data visualization needs|[Lecture 3](resources/FA22_slides/Lecture_3_fa22.pdf)|
+|Matplotlib|Python data visualization package inspired from MATLAB.Capable of handling most data visualization needs|[Lecture 3](resources/FA22_slides/Lecture_3_fa22.pdf)|
 | | | |
 |Residual Plot|Scatter plot of residual values. Residuals are on vertical axis and the independent variable on the horizontal axis. Helps determine the accuracy of line of best fit.|[Lecture 3](resources/FA22_slides/Lecture_3_fa22.pdf)|
 | | | |
@@ -83,8 +82,7 @@ Capable of handling most data visualization needs|[Lecture 3](resources/FA22_sli
 | | | |
 |Classifier|Predict the class/category (based off of target variable) of a set of data points|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
-|K-nearest neighbor (KNN) classifier|Uses k (user-specified value and hyperparameter) nearest data points to predict unknown one
-|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
+|K-nearest neighbor (KNN) classifier|Uses k (user-specified value and hyperparameter) nearest data points to predict unknown one.|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
 |Confusion matrix|Table used to describe the performance of classifier on a set of binary test data for which the true values are known|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
