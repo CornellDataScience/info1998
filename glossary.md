@@ -83,7 +83,8 @@ Capable of handling most data visualization needs|[Lecture 3](resources/FA22_sli
 | | | |
 |Classifier|Predict the class/category (based off of target variable) of a set of data points|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
-|K-nearest neighbor (KNN) classifier| |[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
+|K-nearest neighbor (KNN) classifier|Uses k (user-specified value and hyperparameter) nearest data points to predict unknown one
+|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
 |Confusion matrix|Table used to describe the performance of classifier on a set of binary test data for which the true values are known|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
@@ -97,10 +98,29 @@ Capable of handling most data visualization needs|[Lecture 3](resources/FA22_sli
 | | | |
 |Precision|Proportion of correct positive predictions among all positive predictions ( true positive / (true positive + false positive))|[Lecture 6](resources/FA22_slides/Lecture_6_fa22.pdf)|
 | | | |
+|Decision Trees|Supervised ML model used to predict target by learning decision rules from features|[Lecture 7](resources/FA22_slides/Lecture_7_FA22.pdf)|
 | | | |
+|Classification and regression trees (CART)|Used for classification/regression; models a non-linear relationship|[Lecture 7](resources/FA22_slides/Lecture_7_FA22.pdf)|
 | | | |
+|Logistic Regression|Used for binary classification; transforms linear relationship of probability by using the sigmoid function|[Lecture 7](resources/FA22_slides/Lecture_7_FA22.pdf)|
 | | | |
+|K-fold cross validation|Create equally sized k-partitions/folds of training data. The average of these errors is the validation error|[Lecture 7](resources/FA22_slides/Lecture_7_FA22.pdf)|
 | | | |
+|Linear classifiers|Hyper plane (decision boundary) used to classify data points|[Lecture 8](resources/FA22_slides/Lecture_8.pdf)|
+| | | |
+|Linearly separable|Occurs when you cannot partition a dataset with a linear decision boundary. Not linearly separable, often due to outliers|[Lecture 8](resources/FA22_slides/Lecture_8.pdf)|
+| | | |
+|Perceptron Learning Algorithm|Algorithm that find a normal vector w that perfectly classifies all the points in data set|[Lecture 8](resources/FA22_slides/Lecture_8.pdf)|
+| | | |
+|Support Vector Machine (SVM)|A machine learning model that is able to generalise between two different classes if the set of labeled data is provided in the training set to the algorithm|[Lecture 8](resources/FA22_slides/Lecture_8.pdf)|
+| | | |
+|Margins|Use cost function to penalize misclassified points|[Lecture 8](resources/FA22_slides/Lecture_8.pdf)|
+| | | |
+|Kernels|Map 2 dimensional data onto 3 dimensional data; makes it easier to find a hyperplane|[Lecture 8](resources/FA22_slides/Lecture_8.pdf)|
+| | | |
+|Unsupervised learning|Training data is unlabeled; algorithm tries to learn by itself. E.g. clustering, dimensionality reduction, etc. |[Lecture 9](resources/FA22_slides/Lecture 9.pdf)|
+| | | |
+|Clustering Algorithms|Hierarchical Cluster Analysis (HCA), k-Means clustering, Gaussian Mixture Models (GMMs)|[Lecture 9](resources/FA22_slides/Lecture 9.pdf)|
 
 <br/>
 <br/>
@@ -110,5 +130,19 @@ Capable of handling most data visualization needs|[Lecture 3](resources/FA22_sli
 References:
 <font size = "2">
 https://www.datarobot.com/wiki/data-science/<br/>
-https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained
+https://mitsloan.mit.edu/ideas-made-to-matter/machine-learning-explained<br/>
+
+https://pandas.pydata.org/docs/user_guide/dsintro.html#:~:text=DataFrame%20is%20a%202%2Ddimensional,most%20commonly%20used%20pandas%20object.<br/>
+
+https://www.biologyforlife.com/interpreting-error-bars.html<br/>
+
+http://www.stat.yale.edu/Courses/1997-98/101/linreg.htm<br/>
+
+https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/<br/>
+
+https://www.datacamp.com/blog/classification-machine-learning#:~:text=Classification%20is%20a%20supervised%20machine,prediction%20on%20new%20unseen%20data.<br/>
+
+https://machinelearningmastery.com/overfitting-and-underfitting-with-machine-learning-algorithms/<br/>
+
+https://www.simplilearn.com/tutorials/machine-learning-tutorial/bias-and-variance#:~:text=Errors%20in%20Machine%20Learning,-We%20can%20describe&text=In%20Machine%20Learning%2C%20error%20is,best%20for%20a%20particular%20dataset.<br/>
 </font>
