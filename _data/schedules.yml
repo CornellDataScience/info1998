@@ -1,7 +1,7 @@
 title: "Spring 2023"
 lectures:
   ######################################## Week 1 #########################################
-  - date: 2022-09-14
+  - date: 2023-02-15
     title: "Lecture 1: Intro"
     contents:
       # - title: "SLIDES"
@@ -35,7 +35,7 @@ lectures:
     #   - title: "Demo Preview"
     #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
   ######################################## Week 2 #########################################
-  - date: 2022-09-21
+  - date: 2023-02-22
     title: "Lecture 2: Data Manipulation"
     contents:
       #  - title: "SLIDES"
@@ -59,7 +59,7 @@ lectures:
       #  - title: "A2 (R solution)"
       #    link: "resources/assignments/solution/a2_solution.Rmd"
   ######################################## Week 3 #########################################
-  - date: 2022-09-28
+  - date: 2023-03-01
     title: "Lecture 3: Data Visualization"
     contents:
       #  - title: "SLIDES"
@@ -88,7 +88,7 @@ lectures:
       #  - title: "A3 (R solution)"
       #    link: "resources/assignments/solution/a3_solution.Rmd"
   ######################################## Week 4 #########################################
-  - date: 2022-10-05
+  - date: 2023-03-08
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     contents:
       # - title: "SLIDES"
@@ -121,7 +121,7 @@ lectures:
       # - title: "Spring 2021 Video"
       #   link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 5 #########################################
-  - date: 2022-10-12
+  - date: 2023-03-15
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     contents:
       # - title: "SLIDES"
@@ -156,7 +156,7 @@ lectures:
   #     # - title: "Mid-semester Project"
   #     #   link: "resources/FA20/extra/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
-  - date: 2022-10-19
+  - date: 2023-03-22
     title: "Lecture 6: Introduction to Classifiers"
     contents:
       #  - title: "SLIDES"
@@ -187,7 +187,7 @@ lectures:
   #        link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
 
   ######################################## Week 7 #########################################
-  - date: 2022-10-26
+  - date: 2023-03-29
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
       #  - title: "SLIDES"
@@ -214,7 +214,7 @@ lectures:
       #  - title: "A7 (R solution)"
       #    link: "resources/assignments/solution/a7_solution.Rmd"
   ######################################## Week 8 #########################################
-  - date: 2022-11-02
+  - date: 2023-04-12
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
       #  - title: "SLIDES"
@@ -238,7 +238,7 @@ lectures:
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
   ####################################### Week 9 #########################################
-  - date: 2022-11-09
+  - date: 2023-04-19
     title: "Lecture 9: Unsupervised Learning"
     contents:
       #  - title: "SLIDES"
@@ -259,7 +259,7 @@ lectures:
       #  - title: "A9 (data)"
       #    link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
-  - date: 2022-11-16
+  - date: 2023-04-26
     title: "Lecture 10: Data Science and ML in the World"
     contents:
       # - title: "SLIDES"
@@ -273,7 +273,7 @@ lectures:
   #     - title: "Final Project"
   #       link: "resources/SP20/assignments/release/Final_Project.pdf"
   ############################ Final Project #######################################
-  - date: 2022-11-30
+  - date: 2023-04-26
     title: "Final Project Due"
     contents:
       - title: "Project PDF"

@@ -6,7 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-We handle enrollment via pins in the Spring. In the meantime you can fill out this [interest form](https://forms.gle/Zb7VGPACEnbq69bs7) to get on the mailing list to receive more details closer to the start of the first class (likely mid-February). After the first class, we will send out personal enrollment pins so that you can formally enroll in the class in Student Center.
+We handle enrollment via pins in the Spring. In the meantime you can fill out this [interest form](https://forms.gle/Zb7VGPACEnbq69bs7) to get on the mailing list to receive more details closer to the start of the first class (2/15). After the first class, we will send out personal enrollment pins so that you can formally enroll in the class in Student Center.
 
 ## Overview
 ----------------------------------------------------------------------------------------
