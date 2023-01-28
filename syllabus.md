@@ -5,6 +5,8 @@ layout: main
 ### Lecture and section information
 INFO 1998, Spring 2023
 
+Course Email: cds.info1998@gmail.com
+
 Lecture time: Wednesdays, 4:30-5:30 PM
 
 Lecture location: Hollister B14
