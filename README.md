@@ -28,7 +28,7 @@ Next is `/_site` which you WILL NOT CHANGE ANYTHING IN. This folder just contain
 
 `_config.yml` has some definitions for global variables and settings for the whole site. You shouldn’t have to change much (except the semester and year under description).
 
-The remaining important files are the markdown files (`final_project.md`, `index.md`, `syllabus.md`, `schedule.md`, `getting_started.md`). Changing text in these will change the text on those respective pages on the site. 
+The remaining important files are the markdown files (`final_project.md`, `index.md`, `syllabus.md`, `schedule.md`, `getting_started.md`,`glossary.md`). Changing text in these will change the text on those respective pages on the site. 
 
 That should be about it! Happy teaching!
 
