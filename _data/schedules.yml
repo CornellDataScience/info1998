@@ -4,14 +4,16 @@ lectures:
   - date: 2023-02-15
     title: "Lecture 1: Intro"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA22_slides/Lecture_1.pdf"
-  #   notes:
+      - title: "SLIDES"
+        link: "resources/FA22_slides/Lecture_1.pdf"
+    notes:
+      - title: "Demo"
+        link: "resources/FA22_Demos/lec1demo.ipynb"
   #       - title: "VIDEO"
   #         link: "https://cornell.box.com/s/l4vr3bilq7wo95jy4p67tfyxn6spyxul"
     assignments:
-      # - title: "A1"
-      #   link: "resources/assignments/release/lec1_release.ipynb"
+      - title: "A1"
+        link: "resources/assignments/release/lec1_release.ipynb"
       # - title: "A1 (R)"
       #   link: "resources/assignments/release/a1_release.Rmd"
       # - title: "A1 (solution)"
@@ -276,8 +278,8 @@ lectures:
   - date: 2023-04-26
     title: "Final Project Due"
     contents:
-      - title: "Project PDF"
-        link: "resources/Project_FA22.pdf"
+      # - title: "Project PDF"
+      #   link: "resources/Project_FA22.pdf"
     # assignments:
     #    - title: "Final Project"
     #      link: "resources/SP21/assignments/release/Project.pdf"
