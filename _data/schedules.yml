@@ -76,12 +76,12 @@ lectures:
     # # #   - title: "NOTE 3: VISUAL"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
-      #  - title: "A3"
-      #    link: "resources/assignments/release/lec3_release.ipynb"
+       - title: "A3"
+         link: "resources/assignments/release/lec3_release.ipynb"
       #  - title: "A3 (R)"
       #    link: "resources/assignments/release/a3_release.Rmd"
-      #  - title: "A3 (data)"
-      #    link: "resources/data/temps.csv"
+       - title: "A3 (data)"
+         link: "resources/data/temps.csv"
 
     # #   # - title: "A3 (Canada data)"
     # #   #   link: "resources/data/Canada_AL26335.zip"
