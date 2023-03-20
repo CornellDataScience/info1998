@@ -56,9 +56,9 @@ Some good resources to explore are [Kaggle](https://www.kaggle.com/datasets), [D
 
 Here are some past projects that are good examples. These are meant for inspiration; please do not copy any of their code.
 
-[Predicting Heart Failure](resources/resources/past_projects/sample_project2.ipynb)
+[Predicting Heart Failure](resources/archives/Old/resources/past_projects/sample_project2.ipynb)
 
-[Predicting Used Car Prices](resources/resources/past_projects/sample_project1.ipynb)
+[Predicting Used Car Prices](resources/archives/Old/resources/past_projects/sample_project1.ipynb)
 
 --------------------------------------------------------------
 ### Academic Integrity
