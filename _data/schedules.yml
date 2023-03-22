@@ -161,8 +161,8 @@ lectures:
   - date: 2023-03-22
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-      #  - title: "SLIDES"
-      #    link: "resources/FA22_slides/Lecture_6_fa22.pdf"
+       - title: "SLIDES"
+         link: "resources/FA22_slides/SP23Lecture6.pdf"
     notes:
       #  - title: "Demo"
       #    link: "resources/FA22_Demos/Lec6Demo_unfilled.ipynb"
