@@ -195,8 +195,8 @@ lectures:
        - title: "SLIDES"
          link: "resources/FA22_slides/Lecture_7.pdf"
     notes:
-      #  - title: "Demo"
-      #    link: "resources/FA22_Demos/lec7_demo.ipynb"
+       - title: "Demo"
+         link: "resources/FA22_Demos/lec7_demo.ipynb"
     # notes:
     #    - title: "Demo"
     #      link: "resources/assignments/lec7demo.ipynb"
