@@ -219,11 +219,11 @@ lectures:
   - date: 2023-04-12
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-      #  - title: "SLIDES"
-      #    link: "resources/FA22_slides/Lecture_8.pdf"
+       - title: "SLIDES"
+         link: "resources/FA22_slides/Lecture 8.pdf"
     notes:
-      #  - title: "Demo"
-      #    link: "resources/FA22_Demos/Lecture_8_Demo.ipynb"
+       - title: "Demo (unfilled)"
+         link: "resources/FA22_Demos/Lecture 8 - Demo_unfilled.ipynb"
     #    - title: "Demo Data"
     #      link: "resources/data/Social_Network_Ads.csv"
     # #   #- title: "NOTE 8: CLASS"
@@ -231,12 +231,12 @@ lectures:
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/u00el8c2mgxcq1en417em66xo966mxzo"
     assignments:
-      # - title: "A8"
-      #   link: "resources/assignments/release/lec8_release.ipynb"
+      - title: "A8"
+        link: "resources/assignments/release/lec8_release.ipynb"
       # - title: "A8 (R)"
       #   link: "resources/assignments/release/Lec8_release.R"
-      # - title: "A8 (data)"
-      #   link: "resources/data/phone.csv"
+      - title: "A8 (data)"
+        link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
   ####################################### Week 9 #########################################
