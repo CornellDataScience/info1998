@@ -224,6 +224,8 @@ lectures:
     notes:
        - title: "Demo (unfilled)"
          link: "resources/FA22_Demos/Lecture 8 - Demo_unfilled.ipynb"
+       - title: "Demo (filled)"
+         link: "resources/FA22_Demos/Lecture 8 - Demo_filled.ipynb"
     #    - title: "Demo Data"
     #      link: "resources/data/Social_Network_Ads.csv"
     # #   #- title: "NOTE 8: CLASS"
