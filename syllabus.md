@@ -7,9 +7,9 @@ INFO 1998, Spring 2023
 
 Course Email: cds.info1998@gmail.com
 
-Lecture time: Wednesdays, 4:30-5:30 PM
+Lecture time: Wednesdays, 4:40-5:40 PM
 
-Lecture location: Hollister B14
+Lecture location: Phillips 203
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours

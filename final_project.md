@@ -7,7 +7,7 @@ layout: main
 
 Mid-semester Check-In: Between lecture 6 and lecture 8
 
-Final Submission: **April 26, 2023**
+Final Submission: **November 15, 2023**
 
 
 ---------------------------------------------------------------------------
