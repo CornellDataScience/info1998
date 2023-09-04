@@ -3,7 +3,7 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Spring 2023
+INFO 1998, Fall 2023
 
 Course Email: cds.info1998@gmail.com
 
