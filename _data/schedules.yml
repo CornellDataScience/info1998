@@ -40,18 +40,18 @@ lectures:
   - date: 2023-09-20
     title: "Lecture 2: Data Manipulation"
     contents:
-      #  - title: "SLIDES"
-      #    link: "resources/FA22_slides/Lecture 2.pdf"
+        - title: "SLIDES"
+          link: "resources/FA22_slides/Lecture_2_FA23.pdf"
     notes:
-        # - title: "Demo"
-        #   link: "resources/FA22_Demos/Lecture_2_Demo.ipynb"
+         - title: "Demo"
+           link: "resources/FA22_Demos/Lecture_2_Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/cuqpbzm66r78yl4wxe7evobln6epxp4c"
     # # #   - title: "NOTE 2: MANIP"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     assignments:
-      #  - title: "A2"
-      #    link: "resources/assignments/FA22_assign/NEW_lec2_release.ipynb"
+        - title: "A2"
+          link: "resources/assignments/FA22_assign/NEW_lec2_release.ipynb"
       #  - title: "A2 (R)"
       #    link: "resources/assignments/FA22_assign/a2_release.Rmd"
       #  - title: "A2 (data)"
