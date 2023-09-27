@@ -84,7 +84,7 @@ lectures:
       #    link: "resources/data/temps.csv"
 
         - title: "A3 (Canada data)"
-          link: "resources/data/Canada_AL26335.zip.icloud"
+          link: "resources/data/Canada_AL26335.zip"
       #  - title: "A3 (solution)"
       #    link: "resources/assignments/solution/lec3_solution.ipynb"
       #  - title: "A3 (R solution)"
