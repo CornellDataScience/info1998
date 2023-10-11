@@ -127,7 +127,7 @@ lectures:
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     contents:
        - title: "SLIDES"
-         link: "resources/FA22_slides/Lecture 5F.pptx"
+         link: "resources/FA22_slides/Lecture 5.pdf"
     notes:
         - title: "Demo"
           link: "resources/FA22_slides/Lec5Demo.ipynb"
