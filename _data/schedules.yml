@@ -130,7 +130,7 @@ lectures:
          link: "resources/FA22_slides/Lecture 5.pdf"
     notes:
         - title: "Demo"
-          link: "resources/FA22_slides/Lec5Demo.ipynb"
+          link: "resources/FA22_Demos/Lec5Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
 
