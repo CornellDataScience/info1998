@@ -127,10 +127,10 @@ lectures:
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     contents:
        - title: "SLIDES"
-         link: "resources/SP23/Lecture 5 - New.pptx"
+         link: "resources/FA22_slides/Lecture 5F.pptx"
     notes:
         - title: "Demo"
-          link: "resources/SP23/Lec5Demo.ipynb"
+          link: "resources/FA22_slides/Lec5Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
 
