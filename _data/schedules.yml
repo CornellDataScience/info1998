@@ -162,7 +162,7 @@ lectures:
     title: "Lecture 6: Introduction to Classifiers"
     contents:
         - title: "SLIDES"
-          link: "resources/FA22_slides/FA 23 Lecture 6.pdf"
+          link: "resources/FA22_slides/FA23Lecture6.pdf"
     notes:
         - title: "Demo"
           link: "resources/FA22_Demos/lec6_demo.ipynb"
