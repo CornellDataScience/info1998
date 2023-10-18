@@ -171,7 +171,7 @@ lectures:
     # # #   - title: "NOTE 6: CLASS"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
-       - title: "A6"
+        - title: "A6"
           link: "resources/assignments/release/lec6_release.ipynb"
       #  - title: "A6 (R)"
       #    link: "resources/assignments/release/a6_release.Rmd"
