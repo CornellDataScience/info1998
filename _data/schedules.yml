@@ -192,11 +192,11 @@ lectures:
   - date: 2023-10-25
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
-      #  - title: "SLIDES"
-      #    link: "resources/FA22_slides/Lecture_7.pdf"
+       - title: "SLIDES"
+         link: "resources/FA22_slides/Lecture_7_FA23.pdf"
     notes:
-      #  - title: "Demo"
-      #    link: "resources/FA22_Demos/lec7_demo.ipynb"
+       - title: "Demo"
+         link: "resources/FA22_Demos/lec7_FA23_demo.ipynb"
     # notes:
     #    - title: "Demo"
     #      link: "resources/assignments/lec7demo.ipynb"
@@ -205,12 +205,12 @@ lectures:
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/rfv71tm9hxy3pydhgoyjlpvv67xwpg8z"
     assignments:
-      #  - title: "A7"
-      #    link: "resources/assignments/release/lec7_release.ipynb"
+       - title: "A7"
+         link: "resources/assignments/release/lec7_release.ipynb"
       #  - title: "A7 (R)"
       #    link: "resources/assignments/release/a7_release.Rmd"
-      #  - title: "A7 (data)"
-      #    link: "resources/data/lecture7example.csv"
+       - title: "A7 (data)"
+         link: "resources/data/lecture7example.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
       #  - title: "A7 (R solution)"
