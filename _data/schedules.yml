@@ -196,10 +196,7 @@ lectures:
          link: "resources/FA22_slides/Lecture_7_FA23.pdf"
     notes:
        - title: "Demo"
-         link: "resources/FA22_Demos/lec7_FA23_demo.ipynb"
-    # notes:
-    #    - title: "Demo"
-    #      link: "resources/assignments/lec7demo.ipynb"
+         link: "resources/FA22_Demos/lec7_demo.ipynb"
     # #   #   - title: "NOTE 7: CLASS"
     # #   #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
     #    - title: "VIDEO"
