@@ -220,7 +220,7 @@ lectures:
           link: "resources/FA22_slides/Lecture 8.pdf"
     notes:
         - title: "Demo"
-          link: "resources/FA22_Demos/Lecture_8_Demo.ipynb"
+          link: "resources/FA22_Demos/Lecture 8 - Demo_filled.ipynb"
       #  - title: "Demo (filled)"
       #    link: "resources/FA22_Demos/Lecture 8 - Demo_filled.ipynb"
     #    - title: "Demo Data"
