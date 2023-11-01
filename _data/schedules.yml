@@ -16,8 +16,8 @@ lectures:
         link: "resources/assignments/release/lec1_release.ipynb"
       # - title: "A1 (R)"
       #   link: "resources/assignments/release/a1_release.Rmd"
-      # - title: "A1 (solution)"
-      #   link: "resources/assignments/solution/lec1_solution.ipynb"
+      - title: "A1 (solution)"
+        link: "resources/assignments/solution/lec1_solution.ipynb"
       # - title: "A1 (R solution)"
       #   link: "resources/assignments/solution/a1_solution.Rmd"
   # - date:
@@ -56,8 +56,8 @@ lectures:
       #    link: "resources/assignments/FA22_assign/a2_release.Rmd"
         - title: "A2 (data)"
           link: "resources/data/lecture2data.csv"
-      #  - title: "A2 (solution)"
-      #    link: "resources/assignments/solution/lec2_solution.ipynb"
+        - title: "A2 (solution)"
+          link: "resources/assignments/solution/lec2_solution.ipynb"
       #  - title: "A2 (R solution)"
       #    link: "resources/assignments/solution/a2_solution.Rmd"
   ######################################## Week 3 #########################################
@@ -85,8 +85,8 @@ lectures:
 
       #  - title: "A3 (Canada data)"
       #    link: "resources/data/Canada_AL26335.zip"
-      #  - title: "A3 (solution)"
-      #    link: "resources/assignments/solution/lec3_solution.ipynb"
+        - title: "A3 (solution)"
+          link: "resources/assignments/solution/lec3_solution.ipynb"
       #  - title: "A3 (R solution)"
       #    link: "resources/assignments/solution/a3_solution.Rmd"
   ######################################## Week 4 #########################################
@@ -109,8 +109,8 @@ lectures:
       #   link: "resources/assignments/release/a4_release.Rmd"
        - title: "A4 (data)"
          link: "resources/data/lecture4data.csv"
-      # - title: "A4 (solution)"
-      #   link: "resources/assignments/solution/lec4_solution.ipynb"
+       - title: "A4 (solution)"
+         link: "resources/assignments/solution/lec4_solution.ipynb"
       # - title: "A4 (R solution)"
       #   link: "resources/assignments/solution/a4_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
@@ -148,8 +148,8 @@ lectures:
        - title: "A5 (data 2)"
          link: "resources/data/lecture5dataB.csv"
 
-      # - title: "A5 (solution)"
-      #   link: "resources/assignments/solution/lec5_solution.ipynb"
+       - title: "A5 (solution)"
+         link: "resources/assignments/solution/lec5_solution.ipynb"
       # - title: "A5 (R solution)"
       #   link: "resources/assignments/solution/a5_solution.Rmd"
   # - date: TBD
