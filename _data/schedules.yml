@@ -257,8 +257,8 @@ lectures:
     assignments:
        - title: "A9"
          link: "resources/assignments/release/lec9_release.ipynb"
-       - title: "A9 (R)"
-         link: "resources/assignments/release/a9_release.Rmd"
+      #  - title: "A9 (R)"
+      #    link: "resources/assignments/release/a9_release.Rmd"
        - title: "A9 (data)"
          link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
@@ -276,7 +276,7 @@ lectures:
   #     - title: "Final Project"
   #       link: "resources/SP20/assignments/release/Final_Project.pdf"
   ############################ Final Project #######################################
-  - date: 2023-11-15
+  - date: 2023-11-29
     title: "Final Project Due"
     contents:
       # - title: "Project PDF"
