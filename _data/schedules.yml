@@ -245,10 +245,10 @@ lectures:
        - title: "SLIDES"
          link: "resources/FA22_slides/Lecture 9.pdf"
     notes:
-       - title: "Demo (unfilled)"
-         link: "resources/FA22_Demos/lec9_demo_empty.ipynb"
-      #  - title: "Demo (filled)"
-      #    link: "resources/FA22_Demos/lec9_demo_template.ipynb"
+      #  - title: "Demo (unfilled)"
+      #    link: "resources/FA22_Demos/lec9_demo_empty.ipynb"
+       - title: "Demo (filled)"
+         link: "resources/FA22_Demos/lec9_demo_template.ipynb"
     # # #   - title: "LECTURE 9: UNSUP"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
     # # notes:
