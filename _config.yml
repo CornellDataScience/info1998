@@ -14,9 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: INFO 1998
-email: jl3248@cornell.edu
+email: db823@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Introduction to Machine Learning, Fall 2023
+  Introduction to Machine Learning, Spring 2024
 baseurl: "/info1998" # the subpath of your site, e.g. /blog
 url: "cornelldatascience.github.io" # the base hostname & protocol for your site
 plugin:

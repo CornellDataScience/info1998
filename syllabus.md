@@ -3,13 +3,13 @@ title: Syllabus
 layout: main
 ---
 ### Lecture and section information
-INFO 1998, Fall 2023
+INFO 1998, Spring 2024
 
 Course Email: cds.info1998@gmail.com
 
-Lecture time: Wednesdays, 4:40-5:40 PM
+Lecture time: Wednesdays, 4:30-5:30 PM
 
-Lecture location: Hollister 110
+Lecture location: Hollister B14
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
