@@ -4,34 +4,18 @@ lectures:
   - date: 2024-02-14
     title: "Lecture 1: Intro"
     contents:
-      # - title: "SLIDES"
-      #   link: "COMING SOON!"
+       - title: "Slides"
+         link: "resources/SP24_slides/lec1_slides.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "COMING SOON!"
-  #       - title: "VIDEO"
-  #         link: "https://cornell.box.com/s/l4vr3bilq7wo95jy4p67tfyxn6spyxul"
+       - title: "Demo"
+         link: "resources/demos/lec1demo.ipynb"
+        # - title: "Demo (Answer)"
+        #    link: "resources/demos/filled/..."
     assignments:
-      # - title: "A1"
-      #   link: "-"
+        - title: "A1"
+          link: "resources/assignments/lec1_release.ipynb"
       # - title: "A1 (solution)"
       #   link: "resources/assignments/solution/lec1_solution.ipynb"
-  # - date:
-  #   title: "Workshop: Python FA 2020"
-  #   contents:
-  #     - title: "Python Demo"
-  #       link: "resources/archives/FA20/extra/Python_Workshop.ipynb"
-  #   notes:
-  #     - title: "VIDEO"
-  #       link: "https://cornell.box.com/s/euruypa53p02rmh7k0gyku8oxhmhz450"
-  # - date:
-  #   title: "Workshop: Python SP 2022"
-  #   contents:
-  #     - title: "Python Demo"
-  #       link: "resources/resources/python_demoSP22.ipynb"
-    # notes:
-    #   - title: "Demo Preview"
-    #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/Python_Workshop_Starter_Notebook.ipynb"
   ######################################## Week 2 #########################################
   - date: 2024-02-21
     title: "Lecture 2: Data Manipulation"
@@ -48,8 +32,6 @@ lectures:
     # assignments:
     #     - title: "A2"
     #       link: "resources/assignments/FA22_assign/NEW_lec2_release.ipynb"
-      #  - title: "A2 (R)"
-      #    link: "resources/assignments/FA22_assign/a2_release.Rmd"
         # - title: "A2 (data)"
         #   link: "resources/data/lecture2data.csv"
         # - title: "A2 (solution)"
