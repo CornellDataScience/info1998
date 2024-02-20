@@ -9,8 +9,6 @@ lectures:
     notes:
        - title: "Demo"
          link: "resources/demos/lec1demo.ipynb"
-        # - title: "Demo (Answer)"
-        #    link: "resources/demos/filled/..."
     assignments:
         - title: "A1"
           link: "resources/assignments/lec1_release.ipynb"
@@ -27,8 +25,6 @@ lectures:
     #        link: "resources/FA22_Demos/Lecture_2_Demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/cuqpbzm66r78yl4wxe7evobln6epxp4c"
-    # # #   - title: "NOTE 2: MANIP"
-    # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_2__Data_Manipulation.ipynb"
     # assignments:
     #     - title: "A2"
     #       link: "resources/assignments/FA22_assign/NEW_lec2_release.ipynb"
