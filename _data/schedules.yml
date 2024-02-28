@@ -40,24 +40,22 @@ lectures:
   - date: 2024-02-28
     title: "Lecture 3: Data Visualization"
     contents:
-        #  - title: "SLIDES"
-        #    link: "resources/SP23/lec3/Lecture_3_SP23_.pdf"
+         - title: "Slides"
+           link: "resources/SP24_slides/lec3_slides.pdf"
     notes:
-          # - title: "Demo"
-          #   link: "resources/SP23/lec3/Lecture_3_Demo_SP23.ipynb"
-        # - title: "Demo (Answer)"
+          - title: "Demo"
+            link: "resources/demos/lec3_demo.ipynb"
+        # - title: "Demo (filled)"
         #   link: "resources/FA22_Demos/completed_lec3_demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
-    # # #   - title: "NOTE 3: VISUAL"
-    # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_3__Data_Visualization.ipynb"
     assignments:
-        # - title: "A3"
-        #   link: "resources/assignments/release/lec3_release.ipynb"
+        - title: "A3"
+          link: "resources/assignments/lec3_release.ipynb"
       #  - title: "A3 (R)"
       #    link: "resources/assignments/release/a3_release.Rmd"
-        # - title: "A3 (data)"
-        #   link: "resources/data/temps.csv"
+        - title: "A3 (data)"
+          link: "resources/data/temps.csv"
 
       #  - title: "A3 (Canada data)"
       #    link: "resources/data/Canada_AL26335.zip"
