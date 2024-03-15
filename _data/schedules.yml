@@ -96,6 +96,8 @@ lectures:
     notes:
         - title: "Demo"
           link: "resources/demos/lec5demo.ipynb"
+        - title: "Demo (filled)"
+          link: "resources/demos/lec5Demo_filled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
 
