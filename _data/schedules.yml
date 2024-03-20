@@ -127,22 +127,22 @@ lectures:
   - date: 2024-03-20
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-        # - title: "SLIDES"
-        #   link: "resources/FA22_slides/FA23Lecture6.pdf"
+        - title: "Slides"
+          link: "resources/SP24_slides/lec6_slides.pdf"
     notes:
-        # - title: "Demo"
-        #   link: "resources/FA22_Demos/Lec6Demo_unfilled.ipynb"
+        - title: "Demo (unfilled)"
+          link: "resources/demos/lec6_demo_unfilled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/oywq0e19rmigjdga00g8qgbio0meo218"
     # # #   - title: "NOTE 6: CLASS"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
-        # - title: "A6"
-        #   link: "resources/assignments/release/lec6_release.ipynb"
+        - title: "A6"
+          link: "resources/assignments/lec6_release.ipynb"
       #  - title: "A6 (R)"
       #    link: "resources/assignments/release/a6_release.Rmd"
-        # - title: "A6 (data)"
-        #   link: "resources/data/lecture6data.csv"
+        - title: "A6 (data)"
+          link: "resources/data/lecture6data.csv"
       #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
       #  - title: "A6 (R solution)"
@@ -153,15 +153,6 @@ lectures:
   #   notes:
   #      - title: "VIDEO"
   #        link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
-######################################## Web Scraping Workshop #########################################
-  - date: 2024-03-20
-    title: "Workshop: Web Scraping"
-    contents:
-      # - title: "Web Scraping Notebook"
-      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
-    notes:
-      # - title: "Spring 2021 Video"
-      #   link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 7 #########################################
   - date: 2024-03-27
     title: "Lecture 7: Supervised Learning Pt. I"
@@ -186,6 +177,15 @@ lectures:
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
       #  - title: "A7 (R solution)"
       #    link: "resources/assignments/solution/a7_solution.Rmd"
+  ######################################## Web Scraping Workshop #########################################
+  - date: 2024-03-27
+    title: "Workshop: Web Scraping"
+    contents:
+      # - title: "Web Scraping Notebook"
+      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
+    notes:
+      # - title: "Spring 2021 Video"
+      #   link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 8 #########################################
   - date: 2024-04-10
     title: "Lecture 8: Supervised Learning Pt. II"
