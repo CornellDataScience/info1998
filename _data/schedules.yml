@@ -132,6 +132,8 @@ lectures:
     notes:
         - title: "Demo (unfilled)"
           link: "resources/demos/lec6_demo_unfilled.ipynb"
+        - title: "Demo (filled)"
+          link: "resources/demos/lec6_demo_filled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/oywq0e19rmigjdga00g8qgbio0meo218"
     # # #   - title: "NOTE 6: CLASS"
