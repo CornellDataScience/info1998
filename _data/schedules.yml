@@ -130,7 +130,7 @@ lectures:
         - title: "Slides"
           link: "resources/SP24_slides/lec6_slides.pdf"
     notes:
-        - title: "Demo (unfilled)"
+        - title: "Demo"
           link: "resources/demos/lec6_demo_unfilled.ipynb"
         - title: "Demo (filled)"
           link: "resources/demos/lec6_demo_filled.ipynb"
@@ -159,30 +159,32 @@ lectures:
   - date: 2024-03-27
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
-      #  - title: "SLIDES"
-      #    link: "resources/FA22_slides/Lecture_7_FA23.pdf"
+       - title: "Slides"
+         link: "resources/SP24_slides/lec7_slides.pdf"
     notes:
-      #  - title: "Demo"
-      #    link: "resources/FA22_Demos/lec7_demo.ipynb"
+       - title: "Demo"
+         link: "resources/demos/lec7_demo.ipynb"
     # #   #   - title: "NOTE 7: CLASS"
     # #   #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/rfv71tm9hxy3pydhgoyjlpvv67xwpg8z"
     assignments:
-      #  - title: "A7"
-      #    link: "resources/assignments/release/lec7_release.ipynb"
+       - title: "A7"
+         link: "resources/assignments/lec7_release.ipynb"
       #  - title: "A7 (R)"
       #    link: "resources/assignments/release/a7_release.Rmd"
-      #  - title: "A7 (data)"
-      #    link: "resources/data/lecture7example.csv"
+       - title: "A7 (data)"
+         link: "resources/data/lecture7example.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
       #  - title: "A7 (R solution)"
       #    link: "resources/assignments/solution/a7_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
   - date: 2024-03-27
-    title: "Workshop: Web Scraping"
+    title: "Web Scraping Workshop"
     contents:
+      - title: "Slides"
+        link: "resources/SP24_slides/(SP24) webscraping_workshop.pdf"
       # - title: "Web Scraping Notebook"
       #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
     notes:
@@ -246,11 +248,6 @@ lectures:
     # notes:
     #   - title: "VIDEO"
     #     link: https://cornell.box.com/s/v8jttw8m5f1m8xfez3699cilnrpja51l
-  # - date: TBD
-  #   title: "Final Project Released"
-  #   contents:
-  #     - title: "Final Project"
-  #       link: "resources/SP20/assignments/release/Final_Project.pdf"
   ############################ Final Project #######################################
   - date: 2024-04-24
     title: "Final Project Due"
