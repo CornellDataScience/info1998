@@ -243,8 +243,8 @@ lectures:
   - date: 2024-04-24
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      # - title: "SLIDES"
-      #   link: "resources/FA22_slides/Lecture 10.pdf"
+      - title: "Slides"
+        link: "resources/SP24_slides/lec10-slides.pdf"
     # notes:
     #   - title: "VIDEO"
     #     link: https://cornell.box.com/s/v8jttw8m5f1m8xfez3699cilnrpja51l
