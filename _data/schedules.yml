@@ -1,119 +1,106 @@
-title: "Spring 2024"
+title: "Fall 2024"
 lectures:
   ######################################## Week 1 #########################################
-  - date: 2024-02-14
+  - date: 2024-09-11
     title: "Lecture 1: Intro"
     contents:
-       - title: "Slides"
-         link: "resources/SP24_slides/lec1_slides.pdf"
+      # - title: "Slides"
+        #  link: "resources/SP24_slides/lec1_slides.pdf"
     notes:
-       - title: "Demo"
-         link: "resources/demos/lec1demo.ipynb"
+      # - title: "Demo"
+        #  link: "resources/demos/lec1demo.ipynb"
     assignments:
-        - title: "A1"
-          link: "resources/assignments/lec1_release.ipynb"
+       # - title: "A1"
+          # link: "resources/assignments/lec1_release.ipynb"
       # - title: "A1 (solution)"
       #   link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
-  - date: 2024-02-21
+  - date: 2024-09-18
     title: "Lecture 2: Data Manipulation"
     contents:
-         - title: "Slides"
-           link: "resources/SP24_slides/lec2_slides.pdf"
+        # - title: "Slides"
+          #  link: "resources/SP24_slides/lec2_slides.pdf"
     notes:
-         - title: "Demo"
-           link: "resources/demos/lec2_demo.ipynb"
-         - title: "Demo (filled)"
-           link: "resources/demos/lec2_demo_filled.ipynb"
+        # - title: "Demo"
+        #    link: "resources/demos/lec2_demo.ipynb"
+        #  - title: "Demo (filled)"
+        #    link: "resources/demos/lec2_demo_filled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/cuqpbzm66r78yl4wxe7evobln6epxp4c"
     assignments:
-        - title: "A2"
-          link: "resources/assignments/lec2_release.ipynb"
-        - title: "A2 (data)"
-          link: "resources/data/lecture2data.csv"
+        #- title: "A2"
+        #   link: "resources/assignments/lec2_release.ipynb"
+        # - title: "A2 (data)"
+        #   link: "resources/data/lecture2data.csv"
         # - title: "A2 (solution)"
         #   link: "resources/assignments/solution/lec2_solution.ipynb"
-      #  - title: "A2 (R solution)"
-      #    link: "resources/assignments/solution/a2_solution.Rmd"
   ######################################## Week 3 #########################################
-  - date: 2024-02-28
+  - date: 2024-09-25
     title: "Lecture 3: Data Visualization"
     contents:
-         - title: "Slides"
-           link: "resources/SP24_slides/lec3_slides.pdf"
+         #- title: "Slides"
+          #  link: "resources/SP24_slides/lec3_slides.pdf"
     notes:
-          - title: "Demo"
-            link: "resources/demos/lec3_demo.ipynb"
+          #- title: "Demo"
+            # link: "resources/demos/lec3_demo.ipynb"
         # - title: "Demo (filled)"
         #   link: "resources/FA22_Demos/completed_lec3_demo.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/woiipdn66wwpazh7gduuluhyy0oarhv1"
     assignments:
-        - title: "A3"
-          link: "resources/assignments/lec3_release.ipynb"
-      #  - title: "A3 (R)"
-      #    link: "resources/assignments/release/a3_release.Rmd"
-        - title: "A3 (data)"
-          link: "resources/data/temps.csv"
+        #- title: "A3"
+          # link: "resources/assignments/lec3_release.ipynb"
+        #- title: "A3 (data)"
+          # link: "resources/data/temps.csv"
 
       #  - title: "A3 (Canada data)"
       #    link: "resources/data/Canada_AL26335.zip"
         # - title: "A3 (solution)"
         #   link: "resources/assignments/solution/lec3_solution.ipynb"
-      #  - title: "A3 (R solution)"
-      #    link: "resources/assignments/solution/a3_solution.Rmd"
   ######################################## Week 4 #########################################
-  - date: 2024-03-06
+  - date: 2024-10-02
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     contents:
-        - title: "Slides"
-          link: "resources/SP24_slides/lec4_slides_SP24.pdf"
+        #- title: "Slides"
+          # link: "resources/SP24_slides/lec4_slides_SP24.pdf"
     notes:
-        - title: "Demo"
-          link: "resources/demos/lec4_demo.ipynb"
+        #- title: "Demo"
+          # link: "resources/demos/lec4_demo.ipynb"
     #   - title: "VIDEO"
     #     link: "https://cornell.box.com/s/22fea4l4ildlfa6epio6h3vrdayb2rx1"
     # # #   - title: "NOTE 4: FUND"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_4__ML_Fundamentals.ipynb"
     assignments:
-        - title: "A4"
-          link: "resources/assignments/lec4_release.ipynb"
-      # - title: "A4 (R)"
-      #   link: "resources/assignments/release/a4_release.Rmd"
-        - title: "A4 (data)"
-          link: "resources/data/lecture4data.csv"
+        #- title: "A4"
+          # link: "resources/assignments/lec4_release.ipynb"
+      #  - title: "A4 (data)"
+          # link: "resources/data/lecture4data.csv"
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
-      # - title: "A4 (R solution)"
-      #   link: "resources/assignments/solution/a4_solution.Rmd"
   ######################################## Week 5 #########################################
-  - date: 2024-03-13
+  - date: 2024-10-09
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     contents:
-       - title: "Slides"
-         link: "resources/SP24_slides/lec5_slides.pdf"
+       #- title: "Slides"
+        #  link: "resources/SP24_slides/lec5_slides.pdf"
     notes:
-        - title: "Demo"
-          link: "resources/demos/lec5demo.ipynb"
-        - title: "Demo (filled)"
-          link: "resources/demos/lec5Demo_filled.ipynb"
+        #- title: "Demo"
+        #   link: "resources/demos/lec5demo.ipynb"
+        # - title: "Demo (filled)"
+        #   link: "resources/demos/lec5Demo_filled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/sugepkpibvyuvl4oub83yvq51tzbc7bq"
-
     # # #   - title: "NOTE 5: TUNING"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_5__Assessing_Model_Accuracy.ipynb"
     # # #   - title: "EXTRA: Validation Set Pitfalls"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/extra/ValidationSet_Pitfall.ipynb"
     assignments:
-       - title: "A5"
-         link: "resources/assignments/lec5_release.ipynb"
-      # - title: "A5 (R)"
-      #   link: "resources/assignments/release/a5_release.Rmd"
-       - title: "A5 (data 1)"
-         link: "resources/data/lecture5dataA.csv"
-       - title: "A5 (data 2)"
-         link: "resources/data/lecture5dataB.csv"
+      # - title: "A5"
+      #    link: "resources/assignments/lec5_release.ipynb"
+      #  - title: "A5 (data 1)"
+      #    link: "resources/data/lecture5dataA.csv"
+      #  - title: "A5 (data 2)"
+      #    link: "resources/data/lecture5dataB.csv"
       #  - title: "A5 (solution)"
       #    link: "resources/assignments/solution/lec5_solution.ipynb"
       # - title: "A5 (R solution)"
@@ -124,28 +111,26 @@ lectures:
   #     # - title: "Mid-semester Project"
   #     #   link: "resources/FA20/extra/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
-  - date: 2024-03-20
+  - date: 2024-10-16
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-        - title: "Slides"
-          link: "resources/SP24_slides/lec6_slides.pdf"
+        #- title: "Slides"
+          # link: "resources/SP24_slides/lec6_slides.pdf"
     notes:
-        - title: "Demo"
-          link: "resources/demos/lec6_demo_unfilled.ipynb"
-        - title: "Demo (filled)"
-          link: "resources/demos/lec6_demo_filled.ipynb"
+        #- title: "Demo"
+        #   link: "resources/demos/lec6_demo_unfilled.ipynb"
+        # - title: "Demo (filled)"
+        #   link: "resources/demos/lec6_demo_filled.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/oywq0e19rmigjdga00g8qgbio0meo218"
     # # #   - title: "NOTE 6: CLASS"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_6__Introduction_to_Classification_KNN.ipynb"
     assignments:
-        - title: "A6"
-          link: "resources/assignments/lec6_release.ipynb"
-      #  - title: "A6 (R)"
-      #    link: "resources/assignments/release/a6_release.Rmd"
-        - title: "A6 (data)"
-          link: "resources/data/lecture6data.csv"
-      #  - title: "A6 (solution)"
+        #- title: "A6"
+          # link: "resources/assignments/lec6_release.ipynb"
+      #   - title: "A6 (data)"
+      #     link: "resources/data/lecture6data.csv"
+      # #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
       #  - title: "A6 (R solution)"
       #    link: "resources/assignments/solution/a6_solution.Rmd"
@@ -156,104 +141,100 @@ lectures:
   #      - title: "VIDEO"
   #        link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 7 #########################################
-  - date: 2024-03-27
+  - date: 2024-10-23
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
-       - title: "Slides"
-         link: "resources/SP24_slides/lec7_slides.pdf"
+       #- title: "Slides"
+        #  link: "resources/SP24_slides/lec7_slides.pdf"
     notes:
-       - title: "Demo"
-         link: "resources/demos/lec7_demo.ipynb"
+       #- title: "Demo"
+    #     link: "resources/demos/lec7_demo.ipynb"
     # #   #   - title: "NOTE 7: CLASS"
     # #   #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_7__Supervised_Learning_Pt1.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/rfv71tm9hxy3pydhgoyjlpvv67xwpg8z"
     assignments:
-       - title: "A7"
-         link: "resources/assignments/lec7_release.ipynb"
+       #- title: "A7"
+      #   link: "resources/assignments/lec7_release.ipynb"
       #  - title: "A7 (R)"
       #    link: "resources/assignments/release/a7_release.Rmd"
-       - title: "A7 (data)"
-         link: "resources/data/lecture7example.csv"
+      # - title: "A7 (data)"
+      #   link: "resources/data/lecture7example.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
       #  - title: "A7 (R solution)"
       #    link: "resources/assignments/solution/a7_solution.Rmd"
   ######################################## Web Scraping Workshop #########################################
-  - date: 2024-03-27
+  - date: TBD
     title: "Web Scraping Workshop"
     contents:
-      - title: "Slides"
-        link: "resources/SP24_slides/(SP24) webscraping_workshop.pdf"
+      #- title: "Slides"
+   #     link: "resources/SP24_slides/(SP24) webscraping_workshop.pdf"
       # - title: "Web Scraping Notebook"
       #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
     notes:
       # - title: "Spring 2021 Video"
       #   link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 8 #########################################
-  - date: 2024-04-10
+  - date: 2024-10-30
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-      - title: "Slides"
-        link: "resources/SP24_slides/lec8_slides.pdf"
+      #- title: "Slides"
+    #    link: "resources/SP24_slides/lec8_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec8_demo.ipynb"
+      #- title: "Demo"
+   #     link: "resources/demos/lec8_demo.ipynb"
       #  - title: "Demo (filled)"
       #    link: "resources/FA22_Demos/Lecture 8 - Demo_filled.ipynb"
-      - title: "Demo (data)"
-        link: "resources/data/Social_Network_Ads.csv"
+    #  - title: "Demo (data)"
+     #   link: "resources/data/Social_Network_Ads.csv"
     # #   #- title: "NOTE 8: CLASS"
     # #   #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/u00el8c2mgxcq1en417em66xo966mxzo"
     assignments:
-       - title: "A8"
-         link: "resources/assignments/lec8_release.ipynb"
-      # - title: "A8 (R)"
-      #   link: "resources/assignments/release/Lec8_release.R"
-       - title: "A8 (data)"
-         link: "resources/data/phone.csv"
+      #  - title: "A8"
+      #    link: "resources/assignments/lec8_release.ipynb"
+      #  - title: "A8 (data)"
+      #    link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
   ####################################### Week 9 #########################################
-  - date: 2024-04-17
+  - date: 2024-11-06
     title: "Lecture 9: Unsupervised Learning"
     contents:
-       - title: "Slides"
-         link: "resources/SP24_slides/lec9-slides.pdf"
+      #  - title: "Slides"
+        #  link: "resources/SP24_slides/lec9-slides.pdf"
     notes:
-       - title: "Demo (unfilled)"
-         link: "resources/demos/lec9_demo_empty.ipynb"
-       - title: "Demo (filled)"
-         link: "resources/demos/lec9_demo_filled.ipynb"
+      #  - title: "Demo (unfilled)"
+      #    link: "resources/demos/lec9_demo_empty.ipynb"
+      #  - title: "Demo (filled)"
+      #    link: "resources/demos/lec9_demo_filled.ipynb"
     # # #   - title: "LECTURE 9: UNSUP"
     # # #     link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_9_Assignment.ipynb"
     # # notes:
     #    - title: "VIDEO"
     #      link: "https://cornell.box.com/s/bmu6im7h5w75j9y76yop680jp1hwdvw6"
     assignments:
-       - title: "A9"
-         link: "resources/assignments/lec9_release.ipynb"
-      # #  - title: "A9 (R)"
-      # #    link: "resources/assignments/release/a9_release.Rmd"
-       - title: "A9 (data)"
-         link: "resources/data/lecture9data.csv"
+      #  - title: "A9"
+      #    link: "resources/assignments/lec9_release.ipynb"
+      #  - title: "A9 (data)"
+      #    link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
-  - date: 2024-04-24
+  - date: 2024-11-13
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      - title: "Slides"
-        link: "resources/SP24_slides/lec10-slides.pdf"
+      # - title: "Slides"
+    #    link: "resources/SP24_slides/lec10-slides.pdf"
     # notes:
     #   - title: "VIDEO"
     #     link: https://cornell.box.com/s/v8jttw8m5f1m8xfez3699cilnrpja51l
   ############################ Final Project #######################################
-  - date: 2024-05-01
+  - date: 2024-11-20
     title: "Final Project Due"
     contents:
-      - title: "Project Info PDF"
-        link: "resources/SP24_slides/Final-Project_SP24.pdf"
+      # - title: "Project Info PDF"
+        #link: "resources/SP24_slides/Final-Project_SP24.pdf"
     # assignments:
     #    - title: "Final Project"
     #      link: "resources/SP21/assignments/release/Project.pdf"

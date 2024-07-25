@@ -6,7 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for the course on Student Center begins around the first day of the course (February 14th). Please contact the course manager for more information (add deadline for Spring 2024 is February 23rd).
+Enrollment for the course on Student Center begins around the first day of the course (tentatively September 11 for Fall 2024). Please contact the course manager for more information.
 <!-- In the meantime, please fill out [this form](https://forms.gle/eHpqSJhGmQdbccfEA) to be placed on our interest form list. -->
 
 Unfortunately, this semester we are unable to accommodate for students who are at the hard credit limit, or have a scheduling conflict in Student Center.
