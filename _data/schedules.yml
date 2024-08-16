@@ -105,11 +105,24 @@ lectures:
       #    link: "resources/assignments/solution/lec5_solution.ipynb"
       # - title: "A5 (R solution)"
       #   link: "resources/assignments/solution/a5_solution.Rmd"
+
+  ######################################## Mid-Semester Project Check-In #########################################
   # - date: TBD
   #   title: "Mid Semester Project Check-In"
   #   assignments:
   #     # - title: "Mid-semester Project"
   #     #   link: "resources/FA20/extra/MidSemester_Project.pdf"
+ ######################################## Web Scraping Workshop #########################################
+  - date: TBD
+    title: "Web Scraping Workshop"
+    contents:
+      #- title: "Slides"
+   #     link: "resources/SP24_slides/(SP24) webscraping_workshop.pdf"
+      # - title: "Web Scraping Notebook"
+      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
+    notes:
+      # - title: "Spring 2021 Video"
+      #   link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 6 #########################################
   - date: 2024-10-16
     title: "Lecture 6: Introduction to Classifiers"
@@ -135,11 +148,6 @@ lectures:
       #  - title: "A6 (R solution)"
       #    link: "resources/assignments/solution/a6_solution.Rmd"
 
-  # - date:
-  #   title: "Web Scraping Workshop"
-  #   notes:
-  #      - title: "VIDEO"
-  #        link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 7 #########################################
   - date: 2024-10-23
     title: "Lecture 7: Supervised Learning Pt. I"
@@ -164,17 +172,6 @@ lectures:
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
       #  - title: "A7 (R solution)"
       #    link: "resources/assignments/solution/a7_solution.Rmd"
-  ######################################## Web Scraping Workshop #########################################
-  - date: TBD
-    title: "Web Scraping Workshop"
-    contents:
-      #- title: "Slides"
-   #     link: "resources/SP24_slides/(SP24) webscraping_workshop.pdf"
-      # - title: "Web Scraping Notebook"
-      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
-    notes:
-      # - title: "Spring 2021 Video"
-      #   link: "https://cornell.box.com/s/4jxororzzs5nvzius1rtrhw0kljiu3co"
   ######################################## Week 8 #########################################
   - date: 2024-10-30
     title: "Lecture 8: Supervised Learning Pt. II"
@@ -188,10 +185,6 @@ lectures:
       #    link: "resources/FA22_Demos/Lecture 8 - Demo_filled.ipynb"
     #  - title: "Demo (data)"
      #   link: "resources/data/Social_Network_Ads.csv"
-    # #   #- title: "NOTE 8: CLASS"
-    # #   #  link: "https://nbviewer.jupyter.org/github/CornellDataScience/info1998/blob/master/resources/SP20/assignments/release/Lecture_8_Assignment_Release.ipynb"
-    #    - title: "VIDEO"
-    #      link: "https://cornell.box.com/s/u00el8c2mgxcq1en417em66xo966mxzo"
     assignments:
       #  - title: "A8"
       #    link: "resources/assignments/lec8_release.ipynb"
@@ -199,6 +192,13 @@ lectures:
       #    link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
+
+  ######################################## Deep Learning Workshop #########################################
+  - date: TBD
+    title: "Deep Learning Workshop"
+    notes:
+      # - title: "Slides"
+  #        link: "..."
   ####################################### Week 9 #########################################
   - date: 2024-11-06
     title: "Lecture 9: Unsupervised Learning"
@@ -233,8 +233,8 @@ lectures:
   - date: 2024-11-20
     title: "Final Project Due"
     contents:
-      # - title: "Project Info PDF"
-        #link: "resources/SP24_slides/Final-Project_SP24.pdf"
+      - title: "PDF"
+        link: "resources/FA24_slides/INFO1998-Final-Project.pdf"
     # assignments:
     #    - title: "Final Project"
     #      link: "resources/SP21/assignments/release/Project.pdf"

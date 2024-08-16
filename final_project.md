@@ -5,16 +5,15 @@ layout: main
 
 ### Due Dates
 
-Mid-semester Check-In: Between lecture 6 and lecture 8
+Mid-semester Check-In: Between lecture 5 and lecture 7
 
-Final Submission (tentative): **April 24, 2024**
-
+Final Submission (tentative): **November 20, 2024**
 
 ---------------------------------------------------------------------------
 
 ### Project Description
 
-The final project is worth **40%** of your grade and it is meant to be a culmination of all the knowledge and techniques you acquired during the semester. We will be working on it throughout the entirety of the course, with the mid-semester check-in helping to guide you along. It's recommended to work in a group but completing it alone is also fine this semester. See the [project pdf](resources/SP24_slides/Final-Project_SP24.pdf) for more details on the exact requirements.
+The final project is worth **40%** of your grade and it is meant to be a culmination of all the knowledge and techniques you acquired during the semester. We will be working on it throughout the entirety of the course, with the mid-semester check-in helping to guide you along. It's recommended to work in a group but completing it alone is also fine this semester. See the [project pdf](resources/FA24_slides/INFO1998-Final-Project.pdf) for more details on the exact requirements.
 
 
 

@@ -7,9 +7,9 @@ INFO 1998, Fall 2024
 
 Course Email: cds.info1998@gmail.com
 
-Lecture time: Wednesdays, 7:30-8:20pm
+Lecture Time: Wednesdays, 7:30-8:20pm
 
-Lecture location: Olin Hall 165
+Lecture Location: Olin Hall 165
 
 ----------------------------------------------------------------------------------------
 ### Staff and office hours
@@ -69,8 +69,9 @@ We will be providing you with feedback on the Cornell University Course Manageme
 This is a 1-credit S/U class. In order to get a Satisfactory (S) grade, you will need at least 70%.
 
 There are two components to grading:
-- **Weekly Assignments (60%)**
+- **Weekly Assignments (55%)**
 - **Group Project (40%)**
+- **Lecture Attendance (5%)**
 
 This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any **reasonable** cases to make for deadline extensions, please reach out the course manager or post a private note on ED immediately. We would love to see you succeed, but can only help if you notify us in time.
 
