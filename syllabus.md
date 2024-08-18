@@ -2,7 +2,7 @@
 title: Syllabus
 layout: main
 ---
-### Lecture and section information
+### Lecture Information
 INFO 1998, Fall 2024
 
 Course Email: cds.info1998@gmail.com
@@ -12,14 +12,14 @@ Lecture Time: Wednesdays, 7:30-8:20pm
 Lecture Location: Olin Hall 165
 
 ----------------------------------------------------------------------------------------
-### Staff and office hours
+### Staff and Office Hours
 
 Office hours are listed on the home page.
 
 If none of these office hours fit into your schedule, please post your questions to ED and a TA will respond in a timely manner.
 
 ----------------------------------------------------------------------------------------
-### Course description
+### Course Description
 
 The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick, implementation-oriented toolkit you develop yourself to a variety of fields and problems.
 
@@ -31,7 +31,7 @@ If you are interested in a solid mathematical foundation for data science and ma
 No prerequisites; Basic Python experience (at the level of **CS 1110**) is encouraged.
 
 ----------------------------------------------------------------------------------------
-### Course technologies
+### Course Technologies
 
 - We will be working together on in-class assignments/exercises during lectures, so please
 bring a laptop (or tablet) to fully participate.
@@ -48,9 +48,9 @@ slides, notes, and demos.
 We will use CMS for assignment / project submissions and feedbacks.
 
 ----------------------------------------------------------------------------------------
-### Course work
+### Course Work
 
-#### Weekly assignments
+#### Weekly Assignments
 One assignment will be assigned at the end of lecture each week, due 11:59pm the next Wednesday. You may <strong>skip up to one assignment</strong> throughout the semester.
 
 ### Final Group Project
@@ -78,11 +78,11 @@ This is a student-run course, so we understand how stressful classes can get. Ab
 
 
 ----------------------------------------------------------------------------------------
-### Course policies
+### Course Policies
 
 #### Attendance
 
-Attendance is not required. However, we highly encourage you to attend lecture if you can. We discuss code relevant to the answers to the assigned assignments in class, and coming to lectures ensures at least a fairly high score on assignments.
+Attendance is required and accounts for 5% of your final grade. We also demo code relevant to the assignments, so coming to lecture is in your best interest (we promise)!
 
 #### Academic Integrity
 

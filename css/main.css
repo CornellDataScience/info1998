@@ -1,7 +1,3 @@
----
-layout:
----
-
 /* http://getbootstrap.com/components/#navbar-fixed-top */
 body {
   padding-top: 77px;
@@ -9,19 +5,43 @@ body {
 
 /* Prevent footer from getting squished at the bottom. */
 footer {
-  padding-top:    4%;
+  padding-top: 4%;
   padding-bottom: 4%;
 }
 
-{% if site.pygments_theme %}
-  {% for theme in site.data.pygments_themes %}
-    {% if site.pygments_theme == theme.name %}
-pre[class^="highlight"] {
-  background-color: {{ theme.background }};
+  {
+  % if site.pygments_theme %
 }
-    {% endif %}
-  {% endfor %}
-{% endif %}
+
+  {
+  % for theme in site.data.pygments_themes %
+}
+
+  {
+  % if site.pygments_theme==theme.name %
+}
+
+pre[class^="highlight"] {
+  background-color: {
+      {
+      theme.background
+    }
+  }
+
+  ;
+}
+
+  {
+  % endif %
+}
+
+  {
+  % endfor %
+}
+
+  {
+  % endif %
+}
 
 /* http://stackoverflow.com/a/22949489/3814202 */
 .carousel-control {
@@ -31,8 +51,8 @@ pre[class^="highlight"] {
 }
 
 /* http://stackoverflow.com/a/15660723/3814202 */
-.carousel-inner > .item > img {
-    margin: 0 auto !important;
+.carousel-inner>.item>img {
+  margin: 0 auto !important;
 }
 
 /* Text */
@@ -43,6 +63,7 @@ p {
   color: #404040;
   vertical-align: top;
 }
+
 table {
   font-size: medium;
   line-height: 1.6;
@@ -52,16 +73,16 @@ table {
 }
 
 a {
-  color: #407bda;
+  color: #613CB0;
 }
 
 a:hover {
   text-decoration: none;
-  color: #1f4480;
+  color: #554081;
 }
 
 h3 {
-  color: #407bda;
+  color: #613CB0;
   font-weight: normal;
   line-height: 1.5;
   padding-bottom: 0.5rem;
@@ -85,32 +106,25 @@ li {
   font-size: small;
 }
 
-/*
-blockquote {
-  border-left-color: #F9EEB6;
-}
-*/
-
 /* Panel */
 .panel-cds {
-  border-color: #eaeef5;
+  border-color: #f8f5fa;
   border-width: thin;
 }
 
 .panel-heading {
-  background-color: #eaeef5;
+  background-color: #f8f5fa;
 }
 
 .panel-title {
   padding: 0.5rem 0rem;
   font-size: small;
-  color: #1f4480;
+  color: #554081;
 }
 
 /* Table */
 .table-responsive table tr td {
   vertical-align: middle;
-  
 }
 
 .table-responsive table tr th {
@@ -119,26 +133,31 @@ blockquote {
 
 /* Misc Components */
 .slide-image {
-  border: 0.1rem solid #ddd; /* Gray border */
-  border-radius: 0.4rem;  /* Rounded border */
-  padding: 0.5rem; /* Some padding */
-  width: 11rem; /* Set a small width */
+  border: 0.1rem solid #ddd;
+  /* Gray border */
+  border-radius: 0.4rem;
+  /* Rounded border */
+  padding: 0.5rem;
+  /* Some padding */
+  width: 11rem;
+  /* Set a small width */
 }
-/* Add a hover effect (blue shadow) */
+
+/* Add a hover effect (purple shadow) */
 .slide-image:hover {
-  box-shadow: 0 0 0.2rem 0.1rem rgba(0, 140, 186, 0.5);
+  box-shadow: 0 0 0.2rem 0.1rem rgba(97, 60, 176, 0.5);
 }
 
 .btn-cds {
-  border-color: #407bda;
+  border-color: #613CB0;
   border-width: 10;
   /*width: 60%;*/
   margin: 0.2rem;
 }
 
 .btn-cds:hover {
-  color: #1f4480;
-  border-color: #1f4480;
+  color: #554081;
+  border-color: #554081;
 }
 
 .navbar-logo {
@@ -148,6 +167,6 @@ blockquote {
 }
 
 .jumbotron {
-  background-color: #f2f7ff;
+  background-color: #f8f5fa;
   font-family: Arial, Helvetica, sans-serif;
 }

@@ -5,7 +5,7 @@ layout: main
 
 ### Due Dates
 
-Mid-semester Check-In: Between lecture 5 and lecture 7
+Mid-Semester Check-In: Between lecture 5 and lecture 7
 
 Final Submission (tentative): **November 20, 2024**
 
@@ -17,7 +17,7 @@ The final project is worth **40%** of your grade and it is meant to be a culmina
 
 
 
-Each week in this course we introduce a new Machine Learning concept. It is expected that you are working on your project bit by bit each week. Use what we learned in lecture and from the assignment that week and apply it to your project. This way, when the end of the semester comes your project should be mostly done.
+Each week in this course we introduce a new machine learning concept. It is expected that you are working on your project bit by bit each week. Use what we learned in lecture and from the assignment that week and apply it to your project. This way, when the end of the semester comes your project should be mostly done.
 
 
 -------------------------------------------------------------------
@@ -63,4 +63,4 @@ Here are some past projects that are good examples. These are meant for inspirat
 ### Academic Integrity
 
 Many of the data sets you find online also have a data science project associated with them. Do not copy any of these projects or others you find online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade. Refer to the Cornell University Code of Academic Integrity
-([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm))
+[http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)
