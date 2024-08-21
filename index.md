@@ -6,15 +6,14 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for the course on Student Center begins around the first day of the course (tentatively September 11 for Fall 2024). Please contact the course manager for more information.
-<!-- In the meantime, please fill out [this form](https://forms.gle/eHpqSJhGmQdbccfEA) to be placed on our interest form list. -->
+Enrollment for the course on Student Center begins around the first day of the course (tentatively September 11 for Fall 2024).
+In the meantime, please fill out [this form](https://forms.gle/TE624BDynPsoAkMc7) to be placed on our interest list.
 
-Unfortunately, this semester we are unable to accommodate for students who are at the hard credit limit, or have a scheduling conflict in Student Center.
+Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center.
 
 ## Overview
 ----------------------------------------------------------------------------------------
 INFO 1998 is a ten week, one credit, S/U only course. 
-
 
 The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models. From the basics of getting your Jupyter environment setup, to manipulating and visualizing data, to building supervised and unsupervised models, this class aims to give you the base intuition and skillset to continue developing and working on ML projects. We hope you exit the course with an understanding of how models and optimization techniques work, as well as have the confidence and tools to solve future problems on your own.
 

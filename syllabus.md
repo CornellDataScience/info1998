@@ -23,7 +23,7 @@ If none of these office hours fit into your schedule, please post your questions
 
 The goal of this course is to provide you with a high-level exposure to a wide range of Data Science techniques and Machine Learning models, for the purpose of enabling you to solve real problems with machine learning. The course covers getting set up, manipulating and visualizing large datasets, building supervised and unsupervised machine learning models, and a discussion about the various application of these methods in the real world. If you have religiously followed the course throughout the semester, you should expect to have a high-level and intuitive understanding of how data problems could be tackled. You can apply this quick, implementation-oriented toolkit you develop yourself to a variety of fields and problems.
 
-If you are interested in a solid mathematical foundation for data science and machine learning, this class is not sufficient in itself. This course, however, should serve as a head start for you.
+If you are interested in building a solid mathematical foundation for data science and machine learning, this class is not sufficient in and of itself. However, it should serve as a head start for you. We highly encourage you to reach out to course staff if you have any questions about future coursework.
 
 ----------------------------------------------------------------------------------------
 ### Prerequisites
@@ -45,7 +45,7 @@ page for more information.
 Class material will be posted on our course website, including the assignments, lecture
 slides, notes, and demos.
 
-We will use CMS for assignment / project submissions and feedbacks.
+We will use CMS for assignment / project submissions and feedback.
 
 ----------------------------------------------------------------------------------------
 ### Course Work
