@@ -132,11 +132,13 @@ lectures:
     notes:
        #- title: "Demo"
     #     link: "resources/demos/lec7_demo.ipynb"
+        #-title: "Demo (data)"
+          # link: "resources/data/2d-lin-separable-data.csv"
     assignments:
        #- title: "A7"
       #   link: "resources/assignments/lec7_release.ipynb"
       # - title: "A7 (data)"
-      #   link: "resources/data/lecture7example.csv"
+      #   link: "resources/data/??"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
@@ -149,14 +151,14 @@ lectures:
       #- title: "Demo"
    #     link: "resources/demos/lec8_demo.ipynb"
       #  - title: "Demo (filled)"
-      #    link: "resources/FA22_Demos/Lecture 8 - Demo_filled.ipynb"
+      #    link: "resources/...."
     #  - title: "Demo (data)"
      #   link: "resources/data/Social_Network_Ads.csv"
     assignments:
       #  - title: "A8"
       #    link: "resources/assignments/lec8_release.ipynb"
       #  - title: "A8 (data)"
-      #    link: "resources/data/phone.csv"
+      #    link: "resources/data/lecture8example.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
