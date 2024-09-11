@@ -4,14 +4,14 @@ lectures:
   - date: 2024-09-11
     title: "Lecture 1: Intro"
     contents:
-      # - title: "Slides"
-        #  link: "resources/FA24_slides/lec1_slides.pdf"
+      - title: "Slides"
+         link: "resources/FA24_slides/lec1_slides.pdf"
     notes:
-      # - title: "Demo"
-        #  link: "resources/demos/lec1demo.ipynb"
+      - title: "Demo"
+         link: "resources/demos/lec1demo.ipynb"
     assignments:
-       # - title: "A1"
-          # link: "resources/assignments/lec1_release.ipynb"
+       - title: "A1"
+          link: "resources/assignments/lec1_release.ipynb"
       # - title: "A1 (solution)"
       #   link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################

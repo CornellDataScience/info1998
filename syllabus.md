@@ -5,8 +5,6 @@ layout: main
 ### Lecture Information
 INFO 1998, Fall 2024
 
-Course Email: cds.info1998@gmail.com
-
 Lecture Time: Wednesdays, 7:30-8:20pm
 
 Lecture Location: Olin Hall 165
