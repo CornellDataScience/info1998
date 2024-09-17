@@ -6,8 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for the course on Student Center begins around the first day of the course (tentatively September 11 for Fall 2024).
-In the meantime, please fill out [this form](https://forms.gle/TE624BDynPsoAkMc7) to be placed on our interest list.
+Enrollment for the course on Student Center is currently open! Please fill out [this form](https://forms.gle/TE624BDynPsoAkMc7) to be placed on our interest list.
 
 Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center.
 

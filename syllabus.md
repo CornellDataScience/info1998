@@ -43,7 +43,7 @@ page for more information.
 Class material will be posted on our course website, including the assignments, lecture
 slides, notes, and demos.
 
-We will use CMS for assignment / project submissions and feedback.
+We will use CMSx for assignment / project submissions and feedback.
 
 ----------------------------------------------------------------------------------------
 ### Course Work
@@ -60,7 +60,7 @@ This is your chance to showcase how much you've learned!
 #### Feedback and Grade Postings
 
 We will be providing you with feedback on the Cornell University Course Management System
-([CMS](https://cmsx.cs.cornell.edu/)). We will grade your work within 8 days of the due date.
+([CMSx](https://cmsx.cs.cornell.edu/)). We will grade your work within 8 days of the due date.
 
 #### Grading
 
@@ -84,6 +84,5 @@ Attendance is required and accounts for 5% of your final grade. We also demo cod
 
 #### Academic Integrity
 
-All Cornell students are expected to follow the Cornell University Code of Academic Integrity
-([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade.
+All Cornell students are expected to follow the Cornell University Code of Academic Integrity([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade.
 

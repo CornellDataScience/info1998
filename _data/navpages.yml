@@ -12,7 +12,7 @@
   name: Ed
   external: true
 - path: https://cmsx.cs.cornell.edu/
-  name: CMS
+  name: CMSx
   external: true
   #- path: archives.md
   #  name: Archives
