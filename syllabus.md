@@ -84,5 +84,4 @@ Attendance is required and accounts for 5% of your final grade. We also demo cod
 
 #### Academic Integrity
 
-All Cornell students are expected to follow the Cornell University Code of Academic Integrity([http://cuinfo.cornell.edu/aic.cfm](http://cuinfo.cornell.edu/aic.cfm)). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade.
-
+All Cornell students are expected to follow the [Cornell University Code of Academic Integrity](http://cuinfo.cornell.edu/aic.cfm). Do not refer to notes from previous semesters or data science projects available online. Our instructors have caught these in the past and the penalty for plagiarism is an unsatisfactory (U) grade.
