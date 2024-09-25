@@ -36,8 +36,8 @@ lectures:
   - date: 2024-09-25
     title: "Lecture 3: Data Visualization"
     contents:
-         #- title: "Slides"
-          #  link: "resources/FA24_slides/lec3_slides.pdf"
+      - title: "Slides"
+        link: "resources/FA24_slides/lec3_slides.pdf"
     notes:
       - title: "Demo"
         link: "resources/demos/lec3_demo.ipynb"
