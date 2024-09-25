@@ -21,15 +21,15 @@ lectures:
         - title: "Slides"
           link: "resources/FA24_slides/lec2_slides.pdf"
     notes:
-        - title: "Demo"
-          link: "resources/demos/lec2_demo.ipynb"
-        #  - title: "Demo (filled)"
-        #    link: "resources/demos/lec2_demo_filled.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec2_demo.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec2_demo_filled.ipynb"
     assignments:
-        - title: "A2"
-          link: "resources/assignments/lec2_release.ipynb"
-        - title: "A2 (data)"
-          link: "resources/data/lecture2data.csv"
+      - title: "A2"
+        link: "resources/assignments/lec2_release.ipynb"
+      - title: "A2 (data)"
+        link: "resources/data/lecture2data.csv"
         # - title: "A2 (solution)"
         #   link: "resources/assignments/solution/lec2_solution.ipynb"
   ######################################## Week 3 #########################################
@@ -39,18 +39,15 @@ lectures:
          #- title: "Slides"
           #  link: "resources/FA24_slides/lec3_slides.pdf"
     notes:
-          #- title: "Demo"
-            # link: "resources/demos/lec3_demo.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec3_demo.ipynb"
         # - title: "Demo (filled)"
         #   link: "resources/FA22_Demos/completed_lec3_demo.ipynb"
     assignments:
-        #- title: "A3"
-          # link: "resources/assignments/lec3_release.ipynb"
-        #- title: "A3 (data)"
-          # link: "resources/data/temps.csv"
-
-      #  - title: "A3 (Canada data)"
-      #    link: "resources/data/Canada_AL26335.zip"
+      - title: "A3"
+        link: "resources/assignments/lec3_release.ipynb"
+      - title: "A3 (data)"
+        link: "resources/data/temps.csv"
         # - title: "A3 (solution)"
         #   link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
@@ -69,6 +66,15 @@ lectures:
           # link: "resources/data/lecture4data.csv"
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
+  ######################################## Web Scraping Workshop #########################################
+  - date: 2024-10-02
+    title: "Web Scraping Workshop"
+    contents:
+      #- title: "Slides"
+   #     link: "resources/FA24_slides/(SP24) webscraping_workshop.pdf"
+      # - title: "Web Scraping Notebook"
+      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
+    notes:
   ######################################## Week 5 #########################################
   - date: 2024-10-09
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
@@ -96,15 +102,6 @@ lectures:
   #   assignments:
   #     # - title: "Mid-semester Project"
   #     #   link: "resources/FA20/extra/MidSemester_Project.pdf"
- ######################################## Web Scraping Workshop #########################################
-  - date: TBD
-    title: "Web Scraping Workshop"
-    contents:
-      #- title: "Slides"
-   #     link: "resources/FA24_slides/(SP24) webscraping_workshop.pdf"
-      # - title: "Web Scraping Notebook"
-      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
-    notes:
   ######################################## Week 6 #########################################
   - date: 2024-10-16
     title: "Lecture 6: Introduction to Classifiers"

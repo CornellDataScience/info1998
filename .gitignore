@@ -10,3 +10,6 @@ Gemfile.lock
 # ignore emacs temp files
 **/#*#
 **/vendor/
+
+# ignore assignment solution files (for now)
+resources/assignment-solutions

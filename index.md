@@ -6,7 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for the course on Student Center is currently open! Please fill out [this form](https://forms.gle/TE624BDynPsoAkMc7) to be placed on our interest list.
+Enrollment for the course on Student Center is currently open. The add deadline is Friday, September 27th. Please email the course manager if you're interested in enrolling or audting the course!
 
 Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center.
 
