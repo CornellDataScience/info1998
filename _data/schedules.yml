@@ -54,27 +54,27 @@ lectures:
   - date: 2024-10-02
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     contents:
-        #- title: "Slides"
-          # link: "resources/FA24_slides/lec4_slides_SP24.pdf"
+      - title: "Slides"
+        link: "resources/FA24_slides/lec4_slides.pdf"
     notes:
-        #- title: "Demo"
-          # link: "resources/demos/lec4_demo.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec4_demo.ipynb"
     assignments:
-        #- title: "A4"
-          # link: "resources/assignments/lec4_release.ipynb"
-      #  - title: "A4 (data)"
-          # link: "resources/data/lecture4data.csv"
+      - title: "A4"
+        link: "resources/assignments/lec4_release.ipynb"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
   - date: 2024-10-02
     title: "Web Scraping Workshop"
     contents:
-      #- title: "Slides"
-   #     link: "resources/FA24_slides/(SP24) webscraping_workshop.pdf"
-      # - title: "Web Scraping Notebook"
-      #   link: "resources/archives/FA21/extras/Web_Scraping_Workshop.ipynb"
+      - title: "Slides"
+        link: "resources/FA24_slides/webscraping_workshop_slides.pdf"
     notes:
+      - title: "Demo"
+        link: "resources/demos/web-scraping-demo.ipynb"
   ######################################## Week 5 #########################################
   - date: 2024-10-09
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
