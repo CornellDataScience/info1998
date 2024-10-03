@@ -59,6 +59,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/demos/lec4_demo.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec4_demo_filled.ipynb"
     assignments:
       - title: "A4"
         link: "resources/assignments/lec4_release.ipynb"
