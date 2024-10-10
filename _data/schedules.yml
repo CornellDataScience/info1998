@@ -86,8 +86,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/demos/lec5demo.ipynb"
-        # - title: "Demo (filled)"
-        #   link: "resources/demos/lec5Demo_filled.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec5Demo_filled.ipynb"
     assignments:
       - title: "A5"
         link: "resources/assignments/lec5_release.ipynb"
