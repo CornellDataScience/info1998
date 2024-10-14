@@ -131,13 +131,11 @@ lectures:
     notes:
        #- title: "Demo"
     #     link: "resources/demos/lec7_demo.ipynb"
-        #-title: "Demo (data)"
-          # link: "resources/data/2d-lin-separable-data.csv"
     assignments:
        #- title: "A7"
       #   link: "resources/assignments/lec7_release.ipynb"
       # - title: "A7 (data)"
-      #   link: "resources/data/??"
+      #   link: "resources/data/phone.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
@@ -196,6 +194,3 @@ lectures:
     contents:
       - title: "PDF"
         link: "resources/FA24_slides/INFO1998-Final-Project.pdf"
-    # assignments:
-    #    - title: "Final Project"
-    #      link: "resources/SP21/assignments/release/Project.pdf"
