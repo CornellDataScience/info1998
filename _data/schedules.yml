@@ -108,18 +108,18 @@ lectures:
   - date: 2024-10-16
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-        #- title: "Slides"
-          # link: "resources/FA24_slides/lec6_slides.pdf"
+      - title: "Slides"
+        link: "resources/FA24_slides/lec6_slides.pdf"
     notes:
-        #- title: "Demo"
-        #   link: "resources/demos/lec6_demo_unfilled.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec6_demo_unfilled.ipynb"
         # - title: "Demo (filled)"
         #   link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
-        #- title: "A6"
-          # link: "resources/assignments/lec6_release.ipynb"
-      #   - title: "A6 (data)"
-      #     link: "resources/data/lecture6data.csv"
+      - title: "A6"
+        link: "resources/assignments/lec6_release.ipynb"
+      - title: "A6 (data)"
+        link: "resources/data/lecture6data.csv"
       # #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
