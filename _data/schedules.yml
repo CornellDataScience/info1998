@@ -146,9 +146,9 @@ lectures:
         link: "resources/FA24_slides/lec8_slides.pdf"
     notes:
       - title: "Demo"
+        link: "resources/demos/lec8_demo_unfilled.ipynb"
+      - title: "Demo (filled)"
         link: "resources/demos/lec8_demo.ipynb"
-      #  - title: "Demo (filled)"
-      #    link: "resources/...."
       - title: "Demo (data)"
         link: "resources/data/Social_Network_Ads.csv"
     assignments:
