@@ -168,8 +168,8 @@ lectures:
     notes:
       - title: "Demo (unfilled)"
         link: "resources/demos/lec9_demo_empty.ipynb"
-      #  - title: "Demo (filled)"
-      #    link: "resources/demos/lec9_demo_filled.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec9_demo_filled.ipynb"
     assignments:
       - title: "A9"
         link: "resources/assignments/lec9_release.ipynb"
