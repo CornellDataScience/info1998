@@ -163,18 +163,18 @@ lectures:
   - date: 2024-11-06
     title: "Lecture 9: Unsupervised Learning"
     contents:
-      #  - title: "Slides"
-        #  link: "resources/FA24_slides/lec9-slides.pdf"
+      - title: "Slides"
+        link: "resources/FA24_slides/lec9_slides.pdf"
     notes:
-      #  - title: "Demo (unfilled)"
-      #    link: "resources/demos/lec9_demo_empty.ipynb"
+      - title: "Demo (unfilled)"
+        link: "resources/demos/lec9_demo_empty.ipynb"
       #  - title: "Demo (filled)"
       #    link: "resources/demos/lec9_demo_filled.ipynb"
     assignments:
-      #  - title: "A9"
-      #    link: "resources/assignments/lec9_release.ipynb"
-      #  - title: "A9 (data)"
-      #    link: "resources/data/lecture9data.csv"
+      - title: "A9"
+        link: "resources/assignments/lec9_release.ipynb"
+      - title: "A9 (data)"
+        link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
   - date: 2024-11-13
     title: "Lecture 10: Data Science and ML in the World"
