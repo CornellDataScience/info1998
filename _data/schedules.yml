@@ -179,8 +179,8 @@ lectures:
   - date: 2024-11-13
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      # - title: "Slides"
-    #    link: "resources/FA24_slides/lec10-slides.pdf"
+      - title: "Slides"
+        link: "resources/FA24_slides/lec10_slides.pdf"
     notes:
 
 ######################################## Deep Learning Workshop #########################################
