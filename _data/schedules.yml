@@ -186,9 +186,9 @@ lectures:
 ######################################## Deep Learning Workshop #########################################
   - date: 2024-11-20
     title: "Deep Learning Workshop"
-    notes:
-      # - title: "Slides"
-  #        link: "..."
+    contents:
+      - title: "Slides"
+        link: "resources/FA24_slides/deep_learning_workshop.pdf"
   ############################ Final Project #######################################
   - date: 2024-11-20
     title: "Final Project Due"
