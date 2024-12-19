@@ -4,97 +4,97 @@ lectures:
   - date: 2024-09-11
     title: "Lecture 1: Intro"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec1_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec1_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec1demo.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec1demo.ipynb"
     assignments:
-      - title: "A1"
-        link: "resources/assignments/lec1_release.ipynb"
+      # - title: "A1"
+      #   link: "resources/assignments/lec1_release.ipynb"
       # - title: "A1 (solution)"
       #   link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
   - date: 2024-09-18
     title: "Lecture 2: Data Manipulation"
-    contents:
-        - title: "Slides"
-          link: "resources/FA24_slides/lec2_slides.pdf"
+    # contents:
+    #     - title: "Slides"
+    #       link: "resources/FA24_slides/lec2_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec2_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec2_demo_filled.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec2_demo.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec2_demo_filled.ipynb"
     assignments:
-      - title: "A2"
-        link: "resources/assignments/lec2_release.ipynb"
-      - title: "A2 (data)"
-        link: "resources/data/lecture2data.csv"
+      # - title: "A2"
+      #   link: "resources/assignments/lec2_release.ipynb"
+      # - title: "A2 (data)"
+      #   link: "resources/data/lecture2data.csv"
         # - title: "A2 (solution)"
         #   link: "resources/assignments/solution/lec2_solution.ipynb"
   ######################################## Week 3 #########################################
   - date: 2024-09-25
     title: "Lecture 3: Data Visualization"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec3_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec3_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec3_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec3_demo_filled.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec3_demo.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec3_demo_filled.ipynb"
     assignments:
-      - title: "A3"
-        link: "resources/assignments/lec3_release.ipynb"
-      - title: "A3 (data)"
-        link: "resources/data/temps.csv"
+      # - title: "A3"
+      #   link: "resources/assignments/lec3_release.ipynb"
+      # - title: "A3 (data)"
+      #   link: "resources/data/temps.csv"
         # - title: "A3 (solution)"
         #   link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
   - date: 2024-10-02
     title: "Lecture 4: Fundamentals of Machine Learning Pt. I"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec4_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec4_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec4_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec4_demo_filled.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec4_demo.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec4_demo_filled.ipynb"
     assignments:
-      - title: "A4"
-        link: "resources/assignments/lec4_release.ipynb"
-      - title: "A4 (data)"
-        link: "resources/data/lecture4data.csv"
+      # - title: "A4"
+      #   link: "resources/assignments/lec4_release.ipynb"
+      # - title: "A4 (data)"
+      #   link: "resources/data/lecture4data.csv"
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
   - date: 2024-10-02
     title: "Web Scraping Workshop"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/webscraping_workshop_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/webscraping_workshop_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/web_scraping_demo.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/web_scraping_demo.ipynb"
   ######################################## Week 5 #########################################
   - date: 2024-10-09
     title: "Lecture 5: Fundamentals of Machine Learning Pt. II"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec5_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec5_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec5demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec5Demo_filled.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec5demo.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec5Demo_filled.ipynb"
     assignments:
-      - title: "A5"
-        link: "resources/assignments/lec5_release.ipynb"
-      - title: "A5 (data 1)"
-        link: "resources/data/lecture5dataA.csv"
-      - title: "A5 (data 2)"
-        link: "resources/data/lecture5dataB.csv"
+      # - title: "A5"
+      #   link: "resources/assignments/lec5_release.ipynb"
+      # - title: "A5 (data 1)"
+      #   link: "resources/data/lecture5dataA.csv"
+      # - title: "A5 (data 2)"
+      #   link: "resources/data/lecture5dataB.csv"
     #  - title: "A5 (solution)"
       #    link: "resources/assignments/solution/lec5_solution.ipynb"
   
@@ -108,54 +108,54 @@ lectures:
   - date: 2024-10-16
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec6_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec6_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec6_demo_unfilled.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec6_demo_filled.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec6_demo_unfilled.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
-      - title: "A6"
-        link: "resources/assignments/lec6_release.ipynb"
-      - title: "A6 (data)"
-        link: "resources/data/lecture6data.csv"
+      # - title: "A6"
+      #   link: "resources/assignments/lec6_release.ipynb"
+      # - title: "A6 (data)"
+      #   link: "resources/data/lecture6data.csv"
       # #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
   - date: 2024-10-23
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec7_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec7_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec7_demo.ipynb"
+      # - title: "Demo"
+      #   link: "resources/demos/lec7_demo.ipynb"
     assignments:
-      - title: "A7"
-        link: "resources/assignments/lec7_release.ipynb"
-      - title: "A7 (data)"
-        link: "resources/data/phone.csv"
+      # - title: "A7"
+      #   link: "resources/assignments/lec7_release.ipynb"
+      # - title: "A7 (data)"
+      #   link: "resources/data/phone.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
   - date: 2024-10-30
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec8_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec8_slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec8_demo_unfilled.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec8_demo.ipynb"
-      - title: "Demo (data)"
-        link: "resources/data/Social_Network_Ads.csv"
+      # - title: "Demo"
+      #   link: "resources/demos/lec8_demo_unfilled.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec8_demo.ipynb"
+      # - title: "Demo (data)"
+      #   link: "resources/data/Social_Network_Ads.csv"
     assignments:
-      - title: "A8"
-        link: "resources/assignments/lec8_release.ipynb"
-      - title: "A8 (data)"
-        link: "resources/data/lecture8example.csv"
+      # - title: "A8"
+      #   link: "resources/assignments/lec8_release.ipynb"
+      # - title: "A8 (data)"
+      #   link: "resources/data/lecture8example.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
@@ -163,35 +163,35 @@ lectures:
   - date: 2024-11-06
     title: "Lecture 9: Unsupervised Learning"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec9_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec9_slides.pdf"
     notes:
-      - title: "Demo (unfilled)"
-        link: "resources/demos/lec9_demo_empty.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec9_demo_filled.ipynb"
+      # - title: "Demo (unfilled)"
+      #   link: "resources/demos/lec9_demo_empty.ipynb"
+      # - title: "Demo (filled)"
+      #   link: "resources/demos/lec9_demo_filled.ipynb"
     assignments:
-      - title: "A9"
-        link: "resources/assignments/lec9_release.ipynb"
-      - title: "A9 (data)"
-        link: "resources/data/lecture9data.csv"
+      # - title: "A9"
+      #   link: "resources/assignments/lec9_release.ipynb"
+      # - title: "A9 (data)"
+      #   link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
   - date: 2024-11-13
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/lec10_slides.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/lec10_slides.pdf"
     notes:
 
 ######################################## Deep Learning Workshop #########################################
   - date: 2024-11-20
     title: "Deep Learning Workshop"
     contents:
-      - title: "Slides"
-        link: "resources/FA24_slides/deep_learning_workshop.pdf"
+      # - title: "Slides"
+      #   link: "resources/FA24_slides/deep_learning_workshop.pdf"
   ############################ Final Project #######################################
   - date: 2024-11-20
     title: "Final Project Due"
     contents:
-      - title: "PDF"
-        link: "resources/FA24_slides/INFO1998-Final-Project.pdf"
+      # - title: "PDF"
+      #   link: "resources/FA24_slides/INFO1998-Final-Project.pdf"

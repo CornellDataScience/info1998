@@ -6,7 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for Fall 2024 is now closed. We do offer the course every semester, so please check back in January 2025. We hope to see you in a future semester!
+Enrollment for Spring 2025 will open in January 2025!
 
 <!-- Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center. -->
 

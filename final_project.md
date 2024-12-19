@@ -7,7 +7,7 @@ layout: main
 
 Mid-Semester Check-In: Between lecture 5 and lecture 7
 
-Final Submission: **November 20, 2024**
+Final Submission: TBD
 
 ---------------------------------------------------------------------------
 

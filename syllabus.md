@@ -3,11 +3,11 @@ title: Syllabus
 layout: main
 ---
 ### Lecture Information
-INFO 1998, Fall 2024
+INFO 1998, Spring 2025
 
-Lecture Time: Wednesdays, 7:30-8:20pm
+Lecture Time: TBD
 
-Lecture Location: Olin Hall 165
+Lecture Location: TBD
 
 ----------------------------------------------------------------------------------------
 ### Staff and Office Hours
