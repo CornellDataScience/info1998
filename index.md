@@ -6,7 +6,8 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for Spring 2025 will open in January 2025!
+Enrollment for Spring 2025 will open in January 2025! Please fill out our [interest form.](https://docs.google.com/forms/d/e/1FAIpQLSfhipdnPHETS2pjxRzvis_fNHuLeoiHnhXVo3DssASIkWyJ3Q/viewform)
+
 
 <!-- Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center. -->
 
