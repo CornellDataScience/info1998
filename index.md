@@ -6,7 +6,8 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-Enrollment for Spring 2025 will open in January 2025! Please fill out our [interest form.](https://docs.google.com/forms/d/e/1FAIpQLSfhipdnPHETS2pjxRzvis_fNHuLeoiHnhXVo3DssASIkWyJ3Q/viewform)
+**Our first lecture will be Monday, February 3rd!** Please fill out our [interest form.](https://docs.google.com/forms/d/e/1FAIpQLSfhipdnPHETS2pjxRzvis_fNHuLeoiHnhXVo3DssASIkWyJ3Q/viewform) 
+*Enrollment pins to officially add the course will be distributed during the first lecture.* 
 
 
 <!-- Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center. -->
