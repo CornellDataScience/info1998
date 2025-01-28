@@ -5,9 +5,9 @@ layout: main
 ### Lecture Information
 INFO 1998, Spring 2025
 
-Lecture Time: TBD
+Lecture Time: Mondays, 7:30-8:20 PM
 
-Lecture Location: TBD
+Lecture Location: Gates G01
 
 ----------------------------------------------------------------------------------------
 ### Staff and Office Hours
