@@ -1,7 +1,7 @@
 title: "Spring 2025"
 lectures:
   ######################################## Week 1 #########################################
-  - date: 2024-09-11
+  - date: 2025-02-03
     title: "Lecture 1: Intro"
     contents:
       - title: "Slides"
@@ -15,21 +15,21 @@ lectures:
       - title: "A1 (solution)"
         link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
-  - date: 2024-09-18
+  - date: 2025-02-10
     title: "Lecture 2: Data Manipulation"
-    # contents:
-    #     - title: "Slides"
-    #       link: "resources/FA24_slides/lec2_slides.pdf"
+    contents:
+        - title: "Slides"
+          link: "resources/SP25/lec2.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "resources/demos/lec2_demo.ipynb"
-      # - title: "Demo (filled)"
-      #   link: "resources/demos/lec2_demo_filled.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec2_demo.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec2_demo_filled.ipynb"
     assignments:
-      # - title: "A2"
-      #   link: "resources/assignments/lec2_release.ipynb"
-      # - title: "A2 (data)"
-      #   link: "resources/data/lecture2data.csv"
+      - title: "A2"
+        link: "resources/assignments/lec2_release.ipynb"
+      - title: "A2 (data)"
+        link: "resources/data/lecture2data.csv"
         # - title: "A2 (solution)"
         #   link: "resources/assignments/solution/lec2_solution.ipynb"
   ######################################## Week 3 #########################################
