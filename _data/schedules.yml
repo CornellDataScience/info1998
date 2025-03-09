@@ -69,11 +69,11 @@ lectures:
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
-  - date: TBD
+  - date: 2025-03-10
     title: "Web Scraping Workshop"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA24_slides/webscraping_workshop_slides.pdf"
+      - title: "Slides"
+        link: "resources/SP25/webscraping_workshop_slides.pdf"
     notes:
       # - title: "Demo"
       #   link: "resources/demos/web_scraping_demo.ipynb"
