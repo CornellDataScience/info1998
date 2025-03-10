@@ -81,8 +81,8 @@ lectures:
   - date: 2025-03-10
     title: "Lecture 5: Elements of Machine Learning Pt. II"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA24_slides/lec5_slides.pdf"
+      - title: "Slides"
+        link: "resources/FA24_slides/lec5.pdf"
     notes:
       # - title: "Demo"
       #   link: "resources/demos/lec5demo.ipynb"
