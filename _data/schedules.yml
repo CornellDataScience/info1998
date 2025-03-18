@@ -82,7 +82,7 @@ lectures:
     title: "Lecture 5: Elements of Machine Learning Pt. II"
     contents:
       - title: "Slides"
-        link: "resources/FA24_slides/lec5.pdf"
+        link: "resources/SP25/lec6-slides.pdf"
     notes:
       # - title: "Demo"
       #   link: "resources/demos/lec5demo.ipynb"
