@@ -1,79 +1,79 @@
-title: "Spring 2025"
+title: "Fa;; 2025"
 lectures:
   ######################################## Week 1 #########################################
   - date: 2025-02-03
     title: "Lecture 1: Intro"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec1.pdf"
+      #- title: "Slides"
+      #  link: "resources/SP25/lec1.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec1demo.ipynb"
+      #- title: "Demo"
+      #  link: "resources/demos/lec1demo.ipynb"
     assignments:
-      - title: "A1"
-        link: "resources/assignments/lec1_release.ipynb"
-      - title: "A1 (solution)"
-        link: "resources/assignments/solution/lec1_solution.ipynb"
+      # - title: "A1"
+      #  link: "resources/assignments/lec1_release.ipynb"
+      #- title: "A1 (solution)"
+      #  link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
   - date: 2025-02-10
     title: "Lecture 2: Data Manipulation"
     contents:
-        - title: "Slides"
-          link: "resources/SP25/lec2.pdf"
+        #- title: "Slides"
+        #  link: "resources/SP25/lec2.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec2_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec2_demo_filled.ipynb"
+      #- title: "Demo"
+      #  link: "resources/demos/lec2_demo.ipynb"
+      #- title: "Demo (filled)"
+      #  link: "resources/demos/lec2_demo_filled.ipynb"
     assignments:
-      - title: "A2"
-        link: "resources/assignments/lec2_release.ipynb"
-      - title: "A2 (data)"
-        link: "resources/data/lecture2data.csv"
+     # - title: "A2"
+     #   link: "resources/assignments/lec2_release.ipynb"
+     # - title: "A2 (data)"
+     #   link: "resources/data/lecture2data.csv"
         # - title: "A2 (solution)"
         #   link: "resources/assignments/solution/lec2_solution.ipynb"
   ######################################## Week 3 #########################################
   - date: 2025-03-24
     title: "Lecture 3: Data Visualization"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec3.pdf"
+    #  - title: "Slides"
+    #    link: "resources/SP25/lec3.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec3_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec3_demo_filled.ipynb"
+    #  - title: "Demo"
+    #    link: "resources/demos/lec3_demo.ipynb"
+    #  - title: "Demo (filled)"
+    #    link: "resources/demos/lec3_demo_filled.ipynb"
     assignments:
-      - title: "A3"
-        link: "resources/assignments/lec3_release.ipynb"
-      - title: "A3 (data)"
-        link: "resources/data/temps.csv"
+    #  - title: "A3"
+    #    link: "resources/assignments/lec3_release.ipynb"
+    #  - title: "A3 (data)"
+    #    link: "resources/data/temps.csv"
         # - title: "A3 (solution)"
         #   link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
   - date: 2025-03-03
     title: "Lecture 4: Elements of Machine Learning Pt. I"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec4.pdf"
+    #  - title: "Slides"
+    #    link: "resources/SP25/lec4.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec4_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec4_demo_filled.ipynb"
+    #  - title: "Demo"
+    #    link: "resources/demos/lec4_demo.ipynb"
+    #  - title: "Demo (filled)"
+    #    link: "resources/demos/lec4_demo_filled.ipynb"
     assignments:
-      - title: "A4"
-        link: "resources/assignments/lec4_release.ipynb"
-      - title: "A4 (data)"
-        link: "resources/data/lecture4data.csv"
+    #  - title: "A4"
+    #    link: "resources/assignments/lec4_release.ipynb"
+    #  - title: "A4 (data)"
+    #    link: "resources/data/lecture4data.csv"
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
   - date: 2025-03-10
     title: "Web Scraping Workshop"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/webscraping_workshop_slides.pdf"
+    #  - title: "Slides"
+    #    link: "resources/SP25/webscraping_workshop_slides.pdf"
     notes:
       # - title: "Demo"
       #   link: "resources/demos/web_scraping_demo.ipynb"
@@ -81,8 +81,8 @@ lectures:
   - date: 2025-03-10
     title: "Lecture 5: Elements of Machine Learning Pt. II"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec5.pdf"
+    #  - title: "Slides"
+    #    link: "resources/SP25/lec5.pdf"
     notes:
       # - title: "Demo"
       #   link: "resources/demos/lec5demo.ipynb"
@@ -108,54 +108,54 @@ lectures:
   - date: 2025-03-17
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec6-slides.pdf"
+    #  - title: "Slides"
+    #    link: "resources/SP25/lec6-slides.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec6_demo_unfilled.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec6_demo_filled.ipynb"
+    #  - title: "Demo"
+    #    link: "resources/demos/lec6_demo_unfilled.ipynb"
+    #  - title: "Demo (filled)"
+    #    link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
-      - title: "A6"
-        link: "resources/assignments/lec6_release.ipynb"
-      - title: "A6 (data)"
-        link: "resources/data/lecture6data.csv"
+    #  - title: "A6"
+    #    link: "resources/assignments/lec6_release.ipynb"
+    #  - title: "A6 (data)"
+    #    link: "resources/data/lecture6data.csv"
       # #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
   - date: 2025-03-24
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec7-slides.pdf"   
+    #  - title: "Slides"
+    #    link: "resources/SP25/lec7-slides.pdf"   
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec7_demo.ipynb"
+    #  - title: "Demo"
+    #    link: "resources/demos/lec7_demo.ipynb"
     assignments:
-      - title: "A7"
-        link: "resources/assignments/lec7_release.ipynb"
-      - title: "A7 (data)"
-        link: "resources/data/phone.csv"
+    #  - title: "A7"
+    #    link: "resources/assignments/lec7_release.ipynb"
+    #  - title: "A7 (data)"
+    #    link: "resources/data/phone.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
   - date: 2025-04-07
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-      - title: "Slides"
-        link: "resources/SP25/lec8-slides.pdf"   
+    #  - title: "Slides"
+    #    link: "resources/SP25/lec8-slides.pdf"   
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec8_demo_unfilled.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec8_demo.ipynb"
-      - title: "Demo (data)"
-        link: "resources/data/Social_Network_Ads.csv"
+    #  - title: "Demo"
+    #    link: "resources/demos/lec8_demo_unfilled.ipynb"
+    #  - title: "Demo (filled)"
+    #    link: "resources/demos/lec8_demo.ipynb"
+    #  - title: "Demo (data)"
+    #    link: "resources/data/Social_Network_Ads.csv"
     assignments:
-      - title: "A8"
-        link: "resources/assignments/lec8_release.ipynb"
-      - title: "A8 (data)"
-        link: "resources/data/lecture8example.csv"
+    #  - title: "A8"
+    #    link: "resources/assignments/lec8_release.ipynb"
+    #  - title: "A8 (data)"
+    #    link: "resources/data/lecture8example.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
