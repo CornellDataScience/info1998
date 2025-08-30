@@ -1,7 +1,7 @@
 title: "Fall 2025"
 lectures:
   ######################################## Week 1 #########################################
-  - date: 2025-02-03
+  - date: 2025-09-17
     title: "Lecture 1: Intro"
     contents:
       #- title: "Slides"
@@ -15,7 +15,7 @@ lectures:
       #- title: "A1 (solution)"
       #  link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
-  - date: 2025-02-10
+  - date: 2025-09-24
     title: "Lecture 2: Data Manipulation"
     contents:
         #- title: "Slides"
@@ -33,7 +33,7 @@ lectures:
         # - title: "A2 (solution)"
         #   link: "resources/assignments/solution/lec2_solution.ipynb"
   ######################################## Week 3 #########################################
-  - date: 2025-03-24
+  - date: 2025-10-01
     title: "Lecture 3: Data Visualization"
     contents:
     #  - title: "Slides"
@@ -51,7 +51,7 @@ lectures:
         # - title: "A3 (solution)"
         #   link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
-  - date: 2025-03-03
+  - date: 2025-10-08
     title: "Lecture 4: Elements of Machine Learning Pt. I"
     contents:
     #  - title: "Slides"
@@ -69,7 +69,7 @@ lectures:
       #  - title: "A4 (solution)"
       #    link: "resources/assignments/solution/lec4_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
-  - date: 2025-03-10
+  - date: 2025-10-13
     title: "Web Scraping Workshop"
     contents:
     #  - title: "Slides"
@@ -78,7 +78,7 @@ lectures:
       # - title: "Demo"
       #   link: "resources/demos/web_scraping_demo.ipynb"
   ######################################## Week 5 #########################################
-  - date: 2025-03-10
+  - date: 2025-10-15
     title: "Lecture 5: Elements of Machine Learning Pt. II"
     contents:
     #  - title: "Slides"
@@ -105,7 +105,7 @@ lectures:
   #     # - title: "Mid-semester Project"
   #     #   link: "resources/FA20/extra/MidSemester_Project.pdf"
   ######################################## Week 6 #########################################
-  - date: 2025-03-17
+  - date: 2025-10-22
     title: "Lecture 6: Introduction to Classifiers"
     contents:
     #  - title: "Slides"
@@ -123,7 +123,7 @@ lectures:
       # #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
-  - date: 2025-03-24
+  - date: 2025-10-29
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
     #  - title: "Slides"
@@ -139,7 +139,7 @@ lectures:
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
-  - date: 2025-04-07
+  - date: 2025-11-05
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
     #  - title: "Slides"
@@ -160,7 +160,7 @@ lectures:
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
   ####################################### Week 9 #########################################
-  - date: 2025-04-14
+  - date: 2025-11-12
     title: "Lecture 9: Unsupervised Learning"
     contents:
       # - title: "Slides"
@@ -176,7 +176,7 @@ lectures:
       # - title: "A9 (data)"
       #   link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
-  - date: 2025-04-21
+  - date: 2025-11-19
     title: "Lecture 10: Data Science and ML in the World"
     contents:
       # - title: "Slides"
