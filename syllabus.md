@@ -3,11 +3,11 @@ title: Syllabus
 layout: main
 ---
 ### Lecture Information
-INFO 1998, Spring 2025
+INFO 1998, Fall 2025
 
-Lecture Time: Mondays, 7:30-8:20 PM
+Lecture Time: Wednesdays, 3:35-4:25 PM
 
-Lecture Location: Gates G01
+Lecture Location: Kimball B11
 
 ----------------------------------------------------------------------------------------
 ### Staff and Office Hours
