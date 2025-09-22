@@ -64,7 +64,7 @@
         {% if lec.notes %}
         <td>
           {% for note in lec.notes %}
-          <a href="{{ note.link }}">{{ note.title }}</a><br />
+          <a href="{{ note.link }}" download>{{ note.title }}</a><br />
           {% endfor %}
         </td>
         {% else %}
