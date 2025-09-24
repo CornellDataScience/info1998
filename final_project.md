@@ -7,7 +7,7 @@ layout: main
 
 Mid-Semester Check-In: Between lecture 5 and lecture 7
 
-Final Submission: TBD
+Final Submission: December 3rd
 
 ---------------------------------------------------------------------------
 
