@@ -12,8 +12,8 @@ lectures:
     assignments:
        - title: "A1"
          link: "resources/assignments/lec1_release.ipynb"
-      #- title: "A1 (solution)"
-      #  link: "resources/assignments/solution/lec1_solution.ipynb"
+       - title: "A1 (solution)"
+         link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
   - date: 2025-09-24
     title: "Lecture 2: Data Manipulation"
