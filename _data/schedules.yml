@@ -54,13 +54,13 @@ lectures:
   - date: 2025-10-08
     title: "Lecture 4: Elements of Machine Learning Pt. I"
     contents:
-      - title: "Slides"
-        link: "resources/FA25/lec4.pdf"
+      #- title: "Slides"
+      #  link: "resources/FA25/lec4.pdf"
     notes:
-      - title: "Demo"
-        link: "resources/demos/lec4_demo.ipynb"
-      - title: "Demo (filled)"
-        link: "resources/demos/lec4_demo_filled.ipynb"
+     #- title: "Demo"
+      #  link: "resources/demos/lec4_demo.ipynb"
+     # - title: "Demo (filled)"
+      #  link: "resources/demos/lec4_demo_filled.ipynb"
     assignments:
     #  - title: "A4"
     #    link: "resources/assignments/lec4_release.ipynb"
