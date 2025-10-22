@@ -116,8 +116,8 @@ lectures:
     #  - title: "Demo (filled)"
     #    link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
-    #  - title: "A6"
-    #    link: "resources/assignments/lec6_release.ipynb"
+      - title: "A6"
+        link: "resources/assignments/lec6_release.ipynb"
     #  - title: "A6 (data)"
     #    link: "resources/data/lecture6data.csv"
       # #  - title: "A6 (solution)"
