@@ -108,11 +108,11 @@ lectures:
   - date: 2025-10-22
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-    #  - title: "Slides"
-    #    link: "resources/SP25/lec6-slides.pdf"
+      - title: "Slides"
+        link: "resources/FA25/lec6-slides.pdf"
     notes:
-    #  - title: "Demo"
-    #    link: "resources/demos/lec6_demo_unfilled.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec6_demo_unfilled.ipynb"
     #  - title: "Demo (filled)"
     #    link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
