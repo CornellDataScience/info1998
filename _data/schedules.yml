@@ -118,8 +118,8 @@ lectures:
     assignments:
       - title: "A6"
         link: "resources/assignments/lec6_release.ipynb"
-    #  - title: "A6 (data)"
-    #    link: "resources/data/lecture6data.csv"
+      - title: "A6 (data)"
+        link: "resources/data/lecture6data.csv"
       # #  - title: "A6 (solution)"
       #    link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
