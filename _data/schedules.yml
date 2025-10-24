@@ -48,8 +48,8 @@ lectures:
         link: "resources/assignments/lec3_release.ipynb"
       - title: "A3 (data)"
         link: "resources/data/temps.csv"
-        # - title: "A3 (solution)"
-        #   link: "resources/assignments/solution/lec3_solution.ipynb"
+      - title: "A3 (solution)"
+        link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
   - date: 2025-10-08
     title: "Lecture 4: Elements of Machine Learning Pt. I"
