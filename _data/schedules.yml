@@ -113,8 +113,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/demos/lec6_demo_unfilled.ipynb"
-    #  - title: "Demo (filled)"
-    #    link: "resources/demos/lec6_demo_filled.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
       - title: "A6"
         link: "resources/assignments/lec6_release.ipynb"
