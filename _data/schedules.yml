@@ -129,13 +129,15 @@ lectures:
     - title: "Slides"
       link: "resources/FA25/lec7-slides.pdf"   
     notes:
-    #  - title: "Demo"
-    #    link: "resources/demos/lec7_demo.ipynb"
+    - title: "Demo"
+      link: "resources/FA25/lec7_demo_unfilled.ipynb"
+    # - title: "Demo (filled)"
+    #   link: "resources/FA25/lec7_demo_filled.ipynb"
     assignments:
-    #  - title: "A7"
-    #    link: "resources/assignments/lec7_release.ipynb"
-    #  - title: "A7 (data)"
-    #    link: "resources/data/phone.csv"
+     - title: "A7"
+       link: "resources/FA25/lec7_release.ipynb"
+     - title: "A7 (data)"
+       link: "resources/data/Social_Network_Ads.csv"
       #  - title: "A7 (solution)"
       #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
@@ -150,7 +152,7 @@ lectures:
     #  - title: "Demo (filled)"
     #    link: "resources/demos/lec8_demo.ipynb"
     #  - title: "Demo (data)"
-    #    link: "resources/data/Social_Network_Ads.csv"
+    #    link: "resources/data/phone.csv"
     assignments:
     #  - title: "A8"
     #    link: "resources/assignments/lec8_release.ipynb"
