@@ -147,8 +147,8 @@ lectures:
       - title: "Slides"
         link: "resources/FA25/lec8-slides.pdf"   
     notes:
-    #  - title: "Demo"
-    #    link: "resources/demos/lec8_demo_unfilled.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec8_demo.ipynb"
     #  - title: "Demo (filled)"
     #    link: "resources/demos/lec8_demo.ipynb"
     #  - title: "Demo (data)"
