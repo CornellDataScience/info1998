@@ -154,10 +154,10 @@ lectures:
     #  - title: "Demo (data)"
     #    link: "resources/data/phone.csv"
     assignments:
-    #  - title: "A8"
-    #    link: "resources/assignments/lec8_release.ipynb"
-    #  - title: "A8 (data)"
-    #    link: "resources/data/lecture8example.csv"
+      - title: "A8"
+        link: "resources/FA25/lec8_release.ipynb"
+      - title: "A8 (data)"
+        link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
