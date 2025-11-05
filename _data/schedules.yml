@@ -144,8 +144,8 @@ lectures:
   - date: 2025-11-05
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-    #  - title: "Slides"
-    #    link: "resources/SP25/lec8-slides.pdf"   
+      - title: "Slides"
+        link: "resources/FA25/lec8-slides.pdf"   
     notes:
     #  - title: "Demo"
     #    link: "resources/demos/lec8_demo_unfilled.ipynb"
