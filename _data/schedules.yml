@@ -120,8 +120,8 @@ lectures:
         link: "resources/assignments/lec6_release.ipynb"
       - title: "A6 (data)"
         link: "resources/data/lecture6data.csv"
-      # #  - title: "A6 (solution)"
-      #    link: "resources/assignments/solution/lec6_solution.ipynb"
+      - title: "A6 (solution)"
+        link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
   - date: 2025-10-29
     title: "Lecture 7: Supervised Learning Pt. I"
@@ -165,18 +165,18 @@ lectures:
   - date: 2025-11-12
     title: "Lecture 9: Unsupervised Learning"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA24_slides/lec9_slides.pdf"
+       - title: "Slides"
+         link: "resources/FA25_slides/lec9_slides.pdf"
     notes:
-      # - title: "Demo (unfilled)"
-      #   link: "resources/demos/lec9_demo_empty.ipynb"
-      # - title: "Demo (filled)"
-      #   link: "resources/demos/lec9_demo_filled.ipynb"
+       - title: "Demo (unfilled)"
+         link: "resources/demos/lec9_demo_empty.ipynb"
+       - title: "Demo (filled)"
+         link: "resources/demos/lec9_demo_filled.ipynb"
     assignments:
-      # - title: "A9"
-      #   link: "resources/assignments/lec9_release.ipynb"
-      # - title: "A9 (data)"
-      #   link: "resources/data/lecture9data.csv"
+       - title: "A9"
+         link: "resources/assignments/lec9_release.ipynb"
+       - title: "A9 (data)"
+         link: "resources/data/lecture9data.csv"
   ######################################## Week 10 #########################################
   - date: 2025-11-19
     title: "Lecture 10: Data Science and ML in the World"
