@@ -131,8 +131,8 @@ lectures:
     notes:
     - title: "Demo"
       link: "resources/FA25/lec7_demo_unfilled.ipynb"
-    # - title: "Demo (filled)"
-    #   link: "resources/FA25/lec7_demo_filled.ipynb"
+    - title: "Demo (filled)"
+      link: "resources/FA25/lec7_demo_filled.ipynb"
     assignments:
      - title: "A7"
        link: "resources/FA25/lec7_release.ipynb"
@@ -149,10 +149,10 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/demos/lec8_demo.ipynb"
-    #  - title: "Demo (filled)"
-    #    link: "resources/demos/lec8_demo.ipynb"
-    #  - title: "Demo (data)"
-    #    link: "resources/data/phone.csv"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec8_demo.ipynb"
+      - title: "Demo (data)"
+        link: "resources/data/phone.csv"
     assignments:
       - title: "A8"
         link: "resources/FA25/lec8_release.ipynb"
