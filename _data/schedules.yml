@@ -181,8 +181,8 @@ lectures:
   - date: 2025-11-19
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA24_slides/lec10_slides.pdf"
+      - title: "Slides"
+        link: "resources/FA25/lec10-slides.pdf"
     notes:
 
 ######################################## Deep Learning Workshop #########################################
