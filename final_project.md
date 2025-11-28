@@ -13,7 +13,7 @@ Final Submission: December 3rd
 
 ### Project Description
 
-The final project is worth **40%** of your grade and it is meant to be a culmination of all the knowledge and techniques you acquired during the semester. We will be working on it throughout the entirety of the course, with the mid-semester check-in helping to guide you along. It's recommended to work in a group but completing it alone is also fine this semester. See the [project pdf](resources/SP25/INFO1998-Final-Project-SP25.pdf) for more details on the exact requirements.
+The final project is worth **40%** of your grade and it is meant to be a culmination of all the knowledge and techniques you acquired during the semester. We will be working on it throughout the entirety of the course, with the mid-semester check-in helping to guide you along. It's recommended to work in a group but completing it alone is also fine this semester. See the [project pdf](resources/FA25/INFO1998-Final-Project.pdf) for more details on the exact requirements.
 
 
 

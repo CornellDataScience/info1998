@@ -138,8 +138,8 @@ lectures:
        link: "resources/FA25/lec7_release.ipynb"
      - title: "A7 (data)"
        link: "resources/data/Social_Network_Ads.csv"
-      #  - title: "A7 (solution)"
-      #    link: "resources/assignments/solution/lec7_solution.ipynb"
+     - title: "A7 (solution)"
+       link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
   - date: 2025-11-05
     title: "Lecture 8: Supervised Learning Pt. II"
@@ -186,14 +186,14 @@ lectures:
     notes:
 
 ######################################## Deep Learning Workshop #########################################
-  - date: TBD
+  - date: 2025-11-24
     title: "Deep Learning Workshop"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA24_slides/deep_learning_workshop.pdf"
+       - title: "Slides"
+         link: "resources/archives/FA24_slides/deep_learning_workshop.pdf"
   ############################ Final Project #######################################
   - date: 2025-12-03
     title: "Final Project Due"
     contents:
-      # - title: "PDF"
-      #   link: "resources/FA24_slides/INFO1998-Final-Project.pdf"
+       - title: "PDF"
+         link: "resources/FA25/INFO1998-Final-Project.pdf"
