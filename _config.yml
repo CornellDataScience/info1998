@@ -16,7 +16,7 @@
 title: INFO 1998
 email: mst223@cornell.edu
 description: > # this means to ignore newlines until "baseurl:"
-  Introduction to Machine Learning, Fall 2025
+  Introduction to Machine Learning, Spring 2026
 baseurl: "/info1998" # the subpath of your site, e.g. /blog
 url: "cornelldatascience.github.io" # the base hostname & protocol for your site
 plugin:

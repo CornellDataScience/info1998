@@ -3,9 +3,9 @@ title: Syllabus
 layout: main
 ---
 ### Lecture Information
-INFO 1998, Fall 2025
+INFO 1998, Spring 2026
 
-Lecture Time: Wednesdays, 3:35-4:25 PM
+Lecture Time: Wednesdays, 7:30-8:20 PM
 
 Lecture Location: Kimball B11
 

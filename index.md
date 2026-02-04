@@ -6,7 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-**Our first lecture will be Wednesday, September 17th!** Please fill out our [interest form.](https://forms.gle/N88eYkRCAqxxSNfs7) 
+**Our first lecture will be Wednesday, February 11th!** Please fill out our [interest form.](https://forms.gle/HW4tZpzzPFrZWPg9A) 
 *Enrollment pins to officially add the course will be distributed during the first lecture.* 
 
 
