@@ -4,16 +4,16 @@ lectures:
   - date: 2026-02-11
     title: "Lecture 1: Intro"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA25/lec1_slides.pdf"
+      - title: "Slides"
+        link: "resources/SP26/lec1_slides.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "resources/FA25/lec1demo.ipynb"
-    assignments:
-      #  - title: "A1"
-      #    link: "resources/assignments/lec1_release.ipynb"
-      #  - title: "A1 (solution)"
-      #    link: "resources/assignments/solution/lec1_solution.ipynb"
+      - title: "Demo"
+        link: "resources/archives/FA25/lec1demo.ipynb"
+    # assignments:
+    #    - title: "A1"
+    #      link: "resources/assignments/lec1_release.ipynb"
+    #    - title: "A1 (solution)"
+    #      link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
   - date: 2026-02-18
     title: "Lecture 2: Data Manipulation"
