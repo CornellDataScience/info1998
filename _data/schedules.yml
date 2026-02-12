@@ -9,11 +9,11 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/archives/FA25/lec1demo.ipynb"
-    # assignments:
-    #    - title: "A1"
-    #      link: "resources/assignments/lec1_release.ipynb"
-    #    - title: "A1 (solution)"
-    #      link: "resources/assignments/solution/lec1_solution.ipynb"
+    assignments:
+      - title: "A1"
+        link: "https://drive.google.com/file/d/1uBZwoiOG8V1KE6Z56r0rqRW_XFZRO0Nf/view?usp=sharing"
+      # - title: "A1 (solution)"
+      #   link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
   - date: 2026-02-18
     title: "Lecture 2: Data Manipulation"

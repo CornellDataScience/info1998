@@ -74,7 +74,7 @@
         {% if lec.assignments %}
         <td>
           {% for assignment in lec.assignments %}
-          <a href="{{ assignment.link }}" download>{{ assignment.title }}</a><br />
+          <a href="{{ assignment.link }}" >{{ assignment.title }}</a><br />
           {% endfor %}
         </td>
         {% else %}
