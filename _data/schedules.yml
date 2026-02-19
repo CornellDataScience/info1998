@@ -18,18 +18,18 @@ lectures:
   - date: 2026-02-18
     title: "Lecture 2: Data Manipulation"
     contents:
-        # - title: "Slides"
-        #   link: "resources/FA25/lec2_slides.pdf"
+        - title: "Slides"
+          link: "resources/SP26/lec2_slides.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "resources/demos/lec2_demo.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec2_demo.ipynb"
       # - title: "Demo (filled)"
       #   link: "resources/demos/lec2_demo_filled.ipynb"
     assignments:
-      # - title: "A2"
-      #   link: "resources/assignments/lec2_release.ipynb"
-      # - title: "A2 (data)"
-      #   link: "resources/data/lecture2data.csv"
+      - title: "A2"
+        link: "https://drive.google.com/file/d/1WK-uLqLSLTxh09KQD0vRmHjGotAGnXHe/view?usp=sharing"
+      - title: "A2 (data)"
+        link: "resources/data/lecture2data.csv"
       # - title: "A2 (solution)"
       #   link: "resources/assignments/solution/lec2_solution.ipynb"
   ######################################## Week 3 #########################################
