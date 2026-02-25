@@ -36,18 +36,18 @@ lectures:
   - date: 2026-02-25
     title: "Lecture 3: Data Visualization"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA25/lec3_slides2025.pdf"
+      - title: "Slides"
+        link: "resources/SP26/lec3_slides2025.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "resources/demos/lec3_demo.ipynb"
+      - title: "Demo"
+        link: "resources/demos/lec3_demo.ipynb"
       # - title: "Demo (filled)"
       #   link: "resources/demos/lec3_demo_filled.ipynb"
     assignments:
-      # - title: "A3"
-      #   link: "resources/assignments/lec3_release.ipynb"
-      # - title: "A3 (data)"
-      #   link: "resources/data/temps.csv"
+      - title: "A3"
+        link: "resources/assignments/lec3_release.ipynb"
+      - title: "A3 (data)"
+        link: "resources/data/temps.csv"
       # - title: "A3 (solution)"
       #   link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
