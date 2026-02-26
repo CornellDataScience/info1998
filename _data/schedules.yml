@@ -37,7 +37,7 @@ lectures:
     title: "Lecture 3: Data Visualization"
     contents:
       - title: "Slides"
-        link: "resources/SP26/lec3_slides2025.pdf"
+        link: "resources/SP26/lec3_slides.pdf"
     notes:
       - title: "Demo"
         link: "resources/demos/lec3_demo.ipynb"
@@ -45,7 +45,7 @@ lectures:
       #   link: "resources/demos/lec3_demo_filled.ipynb"
     assignments:
       - title: "A3"
-        link: "resources/assignments/lec3_release.ipynb"
+        link: "https://drive.google.com/file/d/1mmV0uwDO1SqzSCCN0v3YMC74oeHR9fh4/view?usp=sharing"
       - title: "A3 (data)"
         link: "resources/data/temps.csv"
       # - title: "A3 (solution)"
