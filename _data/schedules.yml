@@ -12,8 +12,8 @@ lectures:
     assignments:
       - title: "A1"
         link: "https://drive.google.com/file/d/1uBZwoiOG8V1KE6Z56r0rqRW_XFZRO0Nf/view?usp=sharing"
-      # - title: "A1 (solution)"
-      #   link: "resources/assignments/solution/lec1_solution.ipynb"
+      - title: "A1 (solution)"
+        link: "resources/assignments/solution/lec1_solution.ipynb"
   ######################################## Week 2 #########################################
   - date: 2026-02-18
     title: "Lecture 2: Data Manipulation"
@@ -23,8 +23,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/demos/lec2_demo.ipynb"
-      # - title: "Demo (filled)"
-      #   link: "resources/demos/lec2_demo_filled.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec2_demo_filled.ipynb"
     assignments:
       - title: "A2"
         link: "https://drive.google.com/file/d/1WK-uLqLSLTxh09KQD0vRmHjGotAGnXHe/view?usp=sharing"
@@ -41,8 +41,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "resources/demos/lec3_demo.ipynb"
-      # - title: "Demo (filled)"
-      #   link: "resources/demos/lec3_demo_filled.ipynb"
+      - title: "Demo (filled)"
+        link: "resources/demos/lec3_demo_filled.ipynb"
     assignments:
       - title: "A3"
         link: "https://drive.google.com/file/d/1mmV0uwDO1SqzSCCN0v3YMC74oeHR9fh4/view?usp=sharing"
@@ -54,18 +54,20 @@ lectures:
   - date: 2026-03-04
     title: "Lecture 4: Elements of Machine Learning Pt. I"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA25/lec4-slides.pdf"
+      - title: "Slides"
+        link: "resources/SP26/lec4-slides.pdf"
     notes:
-    #  - title: "Demo"
-    #    link: "resources/demos/lec4_demo.ipynb"
+     - title: "Demo"
+       link: "https://drive.google.com/file/d/1QrpxzBNsgD0YRT4lc2U7AXuOa985NwEq/view?usp=sharing"
+      #  link: "resources/demos/lec4_demo.ipynb"
     #  - title: "Demo (filled)"
     #    link: "resources/demos/lec4_demo_filled.ipynb"
     assignments:
-    #  - title: "A4"
-    #    link: "resources/assignments/lec4_release.ipynb"
-    #  - title: "A4 (data)"
-    #    link: "resources/data/lecture4data.csv"
+     - title: "A4"
+       link: "https://drive.google.com/file/d/1N-PL_wsydaXMkU8MSMUG5oqDuJ36qS7P/view?usp=sharing"
+      #  link: "resources/assignments/lec4_release.ipynb"
+     - title: "A4 (data)"
+       link: "resources/data/lecture4data.csv"
     #  - title: "A4 (solution)"
     #    link: "resources/assignments/solution/lec4_solution.ipynb"
   ######################################## Web Scraping Workshop #########################################
