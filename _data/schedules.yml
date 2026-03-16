@@ -74,11 +74,11 @@ lectures:
   - date: 2026-03-09
     title: "Web Scraping Workshop"
     contents:
-    # - title: "Slides"
-    #   link: "resources/SP25/webscraping_workshop_slides.pdf"
+    - title: "Slides"
+      link: "resources/archives/SP25/webscraping_workshop_slides.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "resources/demos/web_scraping_demo.ipynb"
+      - title: "Demo"
+        link: "resources/demos/web_scraping_demo.ipynb"
   ######################################## Week 5 #########################################
   - date: 2026-03-11
     title: "Lecture 5: Elements of Machine Learning Pt. II"
