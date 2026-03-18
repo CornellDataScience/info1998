@@ -110,18 +110,18 @@ lectures:
   - date: 2026-03-18
     title: "Lecture 6: Introduction to Classifiers"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA25/lec6-slides.pdf"
+      - title: "Slides"
+        link: "resources/SP26/lec6-slides.pdf"
     notes:
-      # - title: "Demo"
-      #   link: "resources/demos/lec6_demo_unfilled.ipynb"
+      - title: "Demo"
+        link: "https://drive.google.com/file/d/1-AyyzNlARiPKBXvHqmA793F8ZWYWY-5B/view?usp=sharing"
       # - title: "Demo (filled)"
       #   link: "resources/demos/lec6_demo_filled.ipynb"
     assignments:
-      # - title: "A6"
-      #   link: "resources/assignments/lec6_release.ipynb"
-      # - title: "A6 (data)"
-      #   link: "resources/data/lecture6data.csv"
+      - title: "A6"
+        link: "https://drive.google.com/file/d/1Be8ZhPzEAKBCu8_yLguvXE7MtHEfH4s3/view?usp=sharing"
+      - title: "A6 (data)"
+        link: "resources/data/lecture6data.csv"
       # - title: "A6 (solution)"
       #   link: "resources/assignments/solution/lec6_solution.ipynb"
   ######################################## Week 7 #########################################
