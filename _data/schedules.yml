@@ -141,7 +141,7 @@ lectures:
      - title: "A7"
        link: "https://drive.google.com/file/d/1itwUOyt4kSntG3xpPCdrRWJ9LQHnia4r/view?usp=sharing"
      - title: "A7 (data)"
-       link: "resources/data/Social_Network_Ads.csv"
+       link: "resources/data/phone.csv"
     #  - title: "A7 (solution)"
     #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
@@ -156,7 +156,7 @@ lectures:
       # - title: "Demo (filled)"
       #   link: "resources/demos/lec8_demo.ipynb"
       # - title: "Demo (data)"
-      #   link: "resources/data/phone.csv"
+      #   link: "resources/data/Social_Network_Ads.csv"
     assignments:
       # - title: "A8"
       #   link: "resources/FA25/lec8_release.ipynb"
