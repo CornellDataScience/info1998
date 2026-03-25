@@ -48,8 +48,8 @@ lectures:
         link: "https://drive.google.com/file/d/1mmV0uwDO1SqzSCCN0v3YMC74oeHR9fh4/view?usp=sharing"
       - title: "A3 (data)"
         link: "resources/data/temps.csv"
-      # - title: "A3 (solution)"
-      #   link: "resources/assignments/solution/lec3_solution.ipynb"
+      - title: "A3 (solution)"
+        link: "resources/assignments/solution/lec3_solution.ipynb"
   ######################################## Week 4 #########################################
   - date: 2026-03-04
     title: "Lecture 4: Elements of Machine Learning Pt. I"
@@ -61,7 +61,7 @@ lectures:
        link: "https://drive.google.com/file/d/1QrpxzBNsgD0YRT4lc2U7AXuOa985NwEq/view?usp=sharing"
        link: "resources/demos/lec4_demo.ipynb"
      - title: "Demo (filled)"
-    #    link: "resources/demos/lec4_demo_filled.ipynb"
+       link: "https://drive.google.com/file/d/1olWoaZd9qWSOmYoL6vl1I5uMCQExn0rj/view?usp=share_link"
     assignments:
      - title: "A4"
        link: "https://drive.google.com/file/d/1N-PL_wsydaXMkU8MSMUG5oqDuJ36qS7P/view?usp=sharing"
@@ -87,9 +87,9 @@ lectures:
         link: "resources/SP26/lec5-slides.pdf"
     notes:
        - title: "Demo"
-         link: "https://colab.research.google.com/drive/1oL5BLyAwxk8fHzEiOUq-c-ZpUvsZkULM"
-      #  - title: "Demo (filled)"
-      #    link: "resources/demos/lec5Demo_filled.ipynb"
+         link: "https://drive.google.com/file/d/1oL5BLyAwxk8fHzEiOUq-c-ZpUvsZkULM/view?usp=share_link"
+       - title: "Demo (filled)"
+         link: "https://drive.google.com/file/d/1olWoaZd9qWSOmYoL6vl1I5uMCQExn0rj/view?usp=share_link"
     assignments:
        - title: "A5"
          link: "https://colab.research.google.com/drive/1OIsQ0EL2om2TrnMDi8__kXUpH8JJRbmw"
@@ -115,8 +115,8 @@ lectures:
     notes:
       - title: "Demo"
         link: "https://drive.google.com/file/d/1-AyyzNlARiPKBXvHqmA793F8ZWYWY-5B/view?usp=sharing"
-      # - title: "Demo (filled)"
-      #   link: "resources/demos/lec6_demo_filled.ipynb"
+      - title: "Demo (filled)"
+        link: "https://drive.google.com/file/d/1jkbNoESdXeVd05FvFB448JkcEjlgLoZP/view?usp=sharing"
     assignments:
       - title: "A6"
         link: "https://drive.google.com/file/d/1Be8ZhPzEAKBCu8_yLguvXE7MtHEfH4s3/view?usp=sharing"
@@ -128,20 +128,20 @@ lectures:
   - date: 2026-03-25
     title: "Lecture 7: Supervised Learning Pt. I"
     contents:
-    # - title: "Slides"
-    #   link: "resources/FA25/lec7-slides.pdf"   
+    - title: "Slides"
+      link: "resources/SP26/lec7-slides.pdf"   
     notes:
-    # - title: "Demo"
-    #   link: "resources/FA25/lec7_demo_unfilled.ipynb"
+    - title: "Demo"
+      link: "https://drive.google.com/file/d/1sqgZRcO9W9L2xMJV2cQZQmihlhRRc8k_/view?usp=sharing"
     # - title: "Demo (filled)"
     #   link: "resources/FA25/lec7_demo_filled.ipynb"
     # - title: "CV Workshop Demo"
     #   link: "resources/demo/cv_demo.py"
     assignments:
-    #  - title: "A7"
-    #    link: "resources/FA25/lec7_release.ipynb"
-    #  - title: "A7 (data)"
-    #    link: "resources/data/Social_Network_Ads.csv"
+     - title: "A7"
+       link: "https://drive.google.com/file/d/1itwUOyt4kSntG3xpPCdrRWJ9LQHnia4r/view?usp=sharing"
+     - title: "A7 (data)"
+       link: "resources/data/Social_Network_Ads.csv"
     #  - title: "A7 (solution)"
     #    link: "resources/assignments/solution/lec7_solution.ipynb"
   ######################################## Week 8 #########################################
