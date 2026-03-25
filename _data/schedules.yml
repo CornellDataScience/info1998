@@ -136,7 +136,7 @@ lectures:
     # - title: "Demo (filled)"
     #   link: "resources/FA25/lec7_demo_filled.ipynb"
     - title: "CV Workshop Demo"
-      link: "resources/demo/cv_demo.py"
+      link: "resources/demos/cv_demo.py"
     assignments:
      - title: "A7"
        link: "https://drive.google.com/file/d/1itwUOyt4kSntG3xpPCdrRWJ9LQHnia4r/view?usp=sharing"
