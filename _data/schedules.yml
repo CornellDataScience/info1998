@@ -148,20 +148,20 @@ lectures:
   - date: 2026-04-08
     title: "Lecture 8: Supervised Learning Pt. II"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA25/lec8-slides.pdf"   
+      - title: "Slides"
+        link: "resources/SP26/lec8-slides.pdf"   
     notes:
-      # - title: "Demo"
-      #   link: "resources/demos/lec8_demo.ipynb"
+      - title: "Demo"
+        link: "https://drive.google.com/file/d/16i0vjkhCWYgw8FUi1hGCjJXxz58seXbo/view?usp=drive_link"
       # - title: "Demo (filled)"
       #   link: "resources/demos/lec8_demo.ipynb"
-      # - title: "Demo (data)"
-      #   link: "resources/data/Social_Network_Ads.csv"
+      - title: "Demo (data)"
+        link: "https://drive.google.com/file/d/1oGbmmuKSk5jzS26K0ik0GDXJEmDPxbPE/view?usp=drive_link"
     assignments:
-      # - title: "A8"
-      #   link: "resources/FA25/lec8_release.ipynb"
-      # - title: "A8 (data)"
-      #   link: "resources/data/phone.csv"
+      - title: "A8"
+        link: "https://drive.google.com/file/d/1RtZr81g7CnnPrXG2mjWrV30rTGbYH_jX/view?usp=drive_link"
+      - title: "A8 (data)"
+        link: "resources/data/phone.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
