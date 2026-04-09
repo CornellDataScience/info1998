@@ -161,7 +161,7 @@ lectures:
       - title: "A8"
         link: "https://drive.google.com/file/d/1RtZr81g7CnnPrXG2mjWrV30rTGbYH_jX/view?usp=drive_link"
       - title: "A8 (data)"
-        link: "resources/data/phone.csv"
+        link: "resources/data/lecture8example.csv"
     #   - title: "A8 (solution)"
     #     link: "resources/assignments/solution/lec8_solution.ipynb"
 
