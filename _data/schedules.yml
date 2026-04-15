@@ -170,7 +170,7 @@ lectures:
     title: "Lecture 9: Unsupervised Learning"
     contents:
        - title: "Slides"
-         link: "resources/SP26_slides/lec9-slides.pdf"
+         link: "resources/SP26/lec9-slides.pdf"
     notes:
        - title: "Demo (unfilled)"
          link: "https://drive.google.com/file/d/1SgOLwfIGZuN0kmY197VXByXwwsjXXrto/view?usp=sharing"
