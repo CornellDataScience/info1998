@@ -185,12 +185,12 @@ lectures:
   - date: 2026-04-22
     title: "Lecture 10: Data Science and ML in the World"
     contents:
-      # - title: "Slides"
-      #   link: "resources/FA25/lec10-slides.pdf"
+      - title: "Slides"
+        link: "resources/SP26/lec10-slides.pdf"
     notes:
 
 ######################################## Deep Learning Workshop #########################################
-  - date: 2026-04-24
+  - date: 2026-04-22
     title: "Deep Learning Workshop"
     contents:
       #  - title: "Slides"
