@@ -193,11 +193,11 @@ lectures:
   - date: 2026-04-22
     title: "Deep Learning Workshop"
     contents:
-      #  - title: "Slides"
-      #    link: "resources/archives/FA24_slides/deep_learning_workshop.pdf"
+       - title: "Slides"
+         link: "resources/archives/FA24_slides/deep_learning_workshop.pdf"
   ############################ Final Project #######################################
   - date: 2026-04-29
     title: "Final Project Due"
     contents:
-      #  - title: "PDF"
-      #    link: "resources/FA25/INFO1998-Final-Project.pdf"
+       - title: "PDF"
+         link: "resources/SP26/INFO1998-Final-Project-SP26.docx.pdf"
