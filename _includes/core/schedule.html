@@ -21,6 +21,7 @@
     <a href="resources/Final-Project.pdf">Final Project pdf</a>
     <p>Final Project pdf to be posted soon!</p>
   </h4> -->
+  {% if schedule.lectures and schedule.lectures.size > 0 %}
   <div class="table-responsive">
     <table class="table">
       <colgroup>
@@ -84,4 +85,7 @@
       {% endfor %}
     </table>
   </div>
+  {% else %}
+  <p>The lecture schedule will be posted here once finalized.</p>
+  {% endif %}
 </div>

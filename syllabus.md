@@ -3,18 +3,18 @@ title: Syllabus
 layout: main
 ---
 ### Lecture Information
-INFO 1998, Spring 2026
+INFO 1998, Fall 2026
 
-Lecture Time: Wednesdays, 7:30-8:20 PM
+Lecture Time: To be announced
 
-Lecture Location: Kimball B11
+Lecture Location: To be announced
 
 ----------------------------------------------------------------------------------------
 ### Staff and Office Hours
 
 Office hours are listed on the home page.
 
-If none of these office hours fit into your schedule, please post your questions to ED and a TA will respond in a timely manner.
+The Fall 2026 Ed Discussion link will be posted when available.
 
 ----------------------------------------------------------------------------------------
 ### Course Description
@@ -49,7 +49,7 @@ We will use CMSx for assignment / project submissions and feedback.
 ### Course Work
 
 #### Weekly Assignments
-One assignment will be assigned at the end of lecture each week, due 11:59pm the next Wednesday. You may <strong>skip up to one assignment</strong> throughout the semester.
+One assignment will be assigned at the end of each lecture and will generally be due at 11:59pm one week later. Exact deadlines will be listed in CMSx. You may <strong>skip up to one assignment</strong> throughout the semester.
 
 ### Final Group Project
 The final group project is meant to be a culmination of all the knowledge and 
@@ -71,7 +71,7 @@ There are two components to grading:
 - **Group Project (40%)**
 - **Lecture Attendance (5%)**
 
-This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any **reasonable** cases to make for deadline extensions, please reach out the course director or post a private note on ED immediately. We would love to see you succeed, but can only help if you notify us in time.
+This is a student-run course, so we understand how stressful classes can get. Above all, we want you to enjoy learning and applying the course content. So if you are concerned about passing this class, or have any **reasonable** cases to make for deadline extensions, please reach out to the course manager or, once available, post a private note on Ed immediately. We would love to see you succeed, but can only help if you notify us in time.
 
 
 

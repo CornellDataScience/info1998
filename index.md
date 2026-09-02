@@ -6,8 +6,9 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-**Our first lecture will be Wednesday, February 11th!** Please fill out our [interest form.](https://forms.gle/HW4tZpzzPFrZWPg9A) 
-*Enrollment pins to officially add the course will be distributed during the first lecture.* 
+INFO 1998 will run in Fall 2026. The first lecture date, weekly meeting day, and room will be announced once confirmed. Please fill out our [Fall 2026 interest form](https://forms.gle/DNi54xGhUcam7UR79).
+
+*Enrollment pins to officially add the course will be distributed after the first lecture.*
 
 
 <!-- Unfortunately, this semester we are unable to accommodate for students who are at their college's credit limit, or have a scheduling conflict in Student Center. -->
