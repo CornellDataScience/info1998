@@ -6,7 +6,7 @@ mainpage: true
 
 ## Enrollment Information
 ----------------------------------------------------------------------------------------
-INFO 1998 will run in Fall 2026. The first lecture date, weekly meeting day, and room will be announced once confirmed. Please fill out our [Fall 2026 interest form](https://forms.gle/DNi54xGhUcam7UR79).
+INFO 1998 meets **Wednesdays, 7:30–8:20 PM in CIS 142** for Fall 2026. The first lecture is **Wednesday, September 16, 2026**. Please fill out our [Fall 2026 interest form](https://forms.gle/DNi54xGhUcam7UR79).
 
 *Enrollment pins to officially add the course will be distributed after the first lecture.*
 

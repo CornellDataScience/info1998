@@ -5,16 +5,16 @@ layout: main
 ### Lecture Information
 INFO 1998, Fall 2026
 
-Lecture Time: To be announced
+Lecture Time: Wednesdays, 7:30–8:20 PM
 
-Lecture Location: To be announced
+Lecture Location: CIS 142
 
 ----------------------------------------------------------------------------------------
 ### Staff and Office Hours
 
 Office hours are listed on the home page.
 
-The Fall 2026 Ed Discussion link will be posted when available.
+Join the Fall 2026 Ed Discussion here: [https://edstem.org/us/join/aet3sj](https://edstem.org/us/join/aet3sj)
 
 ----------------------------------------------------------------------------------------
 ### Course Description
