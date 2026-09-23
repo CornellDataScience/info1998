@@ -9,3 +9,8 @@ lectures:
         link: "resources/FA26/Lecture_2_Demo.ipynb"
       - title: "Demo data"
         link: "resources/FA26/lecture2data.csv"
+    assignments:
+      - title: "A2"
+        link: "resources/assignments/lec2_release.ipynb"
+      - title: "A2 (data)"
+        link: "resources/data/lecture2data.csv"
