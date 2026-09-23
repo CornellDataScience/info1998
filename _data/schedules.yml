@@ -1,3 +1,11 @@
 title: "Fall 2026"
-description: "The Fall 2026 lecture schedule will be posted once the weekly meeting day and course staff are finalized."
-lectures: []
+description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
+lectures:
+  ######################################## Week 2 #########################################
+  - date: 2026-09-23
+    title: "Lecture 2: Data Manipulation"
+    notes:
+      - title: "Demo"
+        link: "resources/FA26/Lecture_2_Demo.ipynb"
+      - title: "Demo data"
+        link: "resources/FA26/lecture2data.csv"
