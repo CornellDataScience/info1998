@@ -1,6 +1,31 @@
 title: "Fall 2026"
 description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
 lectures:
+  ######################################## Week 3 #########################################
+  - date: 2026-09-30
+    title: "Lecture 3: Data Visualization"
+    contents:
+      - title: "Slides"
+        link: "https://docs.google.com/presentation/d/1R1Lk9kfeDey1U6lmNsq_tJn2bRtH52-h_pG0q-c-as4/edit?usp=sharing"
+  ######################################## Week 2 #########################################
+  - date: 2026-09-23
+    title: "Lecture 2: Data Manipulation"
+    contents:
+      - title: "Slides"
+        link: "https://docs.google.com/presentation/d/1NoRML4zi76jHm4XceumvFkaoNHrkGeoPQcuPoaOvx9Q/edit?usp=sharing"
+    notes:
+      - title: "Demo"
+        link: "resources/FA26/Lecture_2_Demo.ipynb"
+      - title: "Demo data"
+        link: "resources/FA26/lecture2data.csv"
+    assignments:
+      - title: "A2"
+        link: "resources/assignments/lec2_release.ipynb"
+      - title: "A2 (data)"
+        link: "resources/data/lecture2data.csv"
+title: "Fall 2026"
+description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
+lectures:
   ######################################## Week 2 #########################################
   - date: 2026-09-23
     title: "Lecture 2: Data Manipulation"
