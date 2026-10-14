@@ -1,6 +1,12 @@
 title: "Fall 2026"
 description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
 lectures:
+  ######################################## Week 4 #########################################
+  - date: 2026-10-07
+    title: "Lecture 4: Intro to Classifiers"
+    contents:
+      - title: "Slides"
+        link: "resources/FA26/lec4_slides.pptx"
   ######################################## Week 3 #########################################
   - date: 2026-09-30
     title: "Lecture 3: Data Visualization"
