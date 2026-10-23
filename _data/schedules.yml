@@ -1,6 +1,18 @@
 title: "Fall 2026"
 description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
 lectures:
+  ######################################## Week 6 #########################################
+  - date: 2026-10-21
+    title: "Lecture 6: Supervised Learning Pt. 2"
+    contents:
+      - title: "Slides"
+        link: "resources/FA26/lec6_slides.pptx"
+  ######################################## Week 5 #########################################
+  - date: 2026-10-14
+    title: "Lecture 5: Supervised Learning Pt. 1"
+    contents:
+      - title: "Slides"
+        link: "resources/FA26/lec5_slides.pptx"
   ######################################## Week 4 #########################################
   - date: 2026-10-07
     title: "Lecture 4: Intro to Classifiers"
