@@ -19,6 +19,11 @@ lectures:
     contents:
       - title: "Slides"
         link: "resources/FA26/lec4_slides.pptx"
+    assignments:
+      - title: "A4"
+        link: "resources/assignments/lec4_release.ipynb"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
   ######################################## Week 3 #########################################
   - date: 2026-09-30
     title: "Lecture 3: Data Visualization"
