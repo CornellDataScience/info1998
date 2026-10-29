@@ -1,6 +1,14 @@
 title: "Fall 2026"
 description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
 lectures:
+  ######################################## Week 7 #########################################
+  - date: 2026-10-28
+    title: "Lecture 7: Unsupervised Learning and Clustering"
+    assignments:
+      - title: "A4"
+        link: "resources/assignments/lec4_release.ipynb"
+      - title: "A4 (data)"
+        link: "resources/data/lecture4data.csv"
   ######################################## Week 6 #########################################
   - date: 2026-10-21
     title: "Lecture 6: Supervised Learning Pt. 2"
@@ -19,11 +27,6 @@ lectures:
     contents:
       - title: "Slides"
         link: "resources/FA26/lec4_slides.pptx"
-    assignments:
-      - title: "A4"
-        link: "resources/assignments/lec4_release.ipynb"
-      - title: "A4 (data)"
-        link: "resources/data/lecture4data.csv"
   ######################################## Week 3 #########################################
   - date: 2026-09-30
     title: "Lecture 3: Data Visualization"
