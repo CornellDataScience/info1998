@@ -1,9 +1,24 @@
 title: "Fall 2026"
 description: "Lectures are Wednesdays, 7:30–8:20 PM in CIS 142. Materials are posted here after each lecture."
 lectures:
+  ######################################## Week 9 #########################################
+  - date: 2026-11-11
+    title: "Lecture 9: Transformers and Language Generation"
+    contents:
+      - title: "Slides"
+        link: "resources/FA26/lec9_slides.pptx"
+  ######################################## Week 8 #########################################
+  - date: 2026-11-04
+    title: "Lecture 8: Neural Networks and RNNs"
+    contents:
+      - title: "Slides"
+        link: "resources/FA26/lec8_slides.pptx"
   ######################################## Week 7 #########################################
   - date: 2026-10-28
     title: "Lecture 7: Unsupervised Learning and Clustering"
+    contents:
+      - title: "Slides"
+        link: "resources/FA26/lec7_slides.pptx"
     assignments:
       - title: "A4"
         link: "resources/assignments/lec4_release.ipynb"
